@@ -206,5 +206,14 @@ scenario_compare <- function(fname,ytitle,cutoff=2014.5,text_orient='horizontal'
 
 # bubble plots (a la Malawi)
 
+# epidemiological transition -- could do a few things, including single-country
+# trajectory, scatterplot of predicted transition years (and burden levels),
+# overlaying trajectory of one country on the global current state (with 
+# equality line marked)
+
+# GDP value-add -- could do something similar to epidemiological transition, 
+# focused instead on the transition from agriculture to another dominant sector
+# (services or manufacturing)
+
 
 
