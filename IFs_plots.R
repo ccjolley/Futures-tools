@@ -101,7 +101,7 @@ y_percent <- function(accuracy=1) {
 
 ### Shared features across plots
 ### TODO: more elegant way to pass standard set of argument with ellipsis?
-line_plot <- function(valpercent=FALSE,dots=FALSE,ontop=NULL) {
+line_plot <- function(valpercent=FALSE,dots=FALSE) {
   out <- list(geom_line(size=1),
               xlab('Year'),
               theme_USAID,
@@ -144,7 +144,7 @@ country_compare <- function(fname,ytitle,cutoff=2014.5,label_split=0.2,
   if (valpercent) { ifs_df <- mutate(ifs_df,value=value/100)}
   
   p <- ggplot(data=ifs_df,aes(x=year,y=value,group=Country,color=Country)) +
-    line_plot(valpercent,dots,ontop) +
+    line_plot(valpercent,dots) +
     ylab(ytitle) 
   if (max(ifs_df$year) > cutoff & min(ifs_df$year) < cutoff) {
     lh <- min(ifs_df$value) + label_height*(max(ifs_df$value) - min(ifs_df$value))
@@ -182,7 +182,7 @@ scenario_compare <- function(fname,ytitle,cutoff=2014.5,label_split=0.2,
   if (valpercent) { ifs_df <- mutate(ifs_df,value=value/100)}
 
   p <- ggplot(data=ifs_df,aes(x=year,y=value,group=Scenario,color=Scenario)) +
-    line_plot(valpercent,dots,ontop) +
+    line_plot(valpercent,dots) +
     ylab(ytitle) 
   if (max(ifs_df$year) > cutoff & min(ifs_df$year) < cutoff) {
     lh <- min(ifs_df$value) + label_height*(max(ifs_df$value) - min(ifs_df$value))
@@ -197,12 +197,57 @@ scenario_compare <- function(fname,ytitle,cutoff=2014.5,label_split=0.2,
 ### TEST CODE
 #scenario_compare('../Ghana/IFs_exports/final2-aid.txt','Billion dollars')
 
-## TODO: what other standardized plot types would it be good to have?
-
 ################################################################################
 # Comparison of multiple countries across multiple scenarios, encoding 
 # countries with colors and scenarios with line-types (or vice versa)
+# TODO: add this scenario_rename feature to scenario_compare()
+# TODO: ideally, I'd like for the base-case scenario to be the solid line (and 
+#       on top), even if it doesn't come first alphabetically
 ################################################################################
+country_scenario_compare <- function(fname,ytitle,cutoff=2014.5,label_split=0.2,
+                                     label_height=0.9,text_orient='horizontal',
+                                     valpercent=FALSE,dots=FALSE,ontop_country=NULL,
+                                     color_by='Country',scenario_rename=NULL) {
+  if (color_by=='Country') { 
+    line_by <- 'Scenario' 
+  } else {
+    line_by <- 'Country'
+  }
+  ifs_df <- read_tsv('country_scenario_test.txt',col_names=c('varstr','year','value')) %>%
+    na.omit %>%
+    mutate(Country=sub('.*\\(','',varstr),
+           Country=sub('\\).*','',Country),
+           scenario_old=sub('.*\\[','',varstr),
+           scenario_old=sub('\\].*','',scenario_old))
+  if (!is.null(scenario_rename)) {
+    ifs_df <- left_join(ifs_df,scenario_rename,by='scenario_old')
+  } else {
+    ifs_df <- rename(ifs_df,Scenario=scenario_old)
+  }
+  if (valpercent) { ifs_df <- mutate(ifs_df,value=value/100)}
+  
+  p <- ggplot(ifs_df,aes_string(x='year',y='value',group='varstr',
+                           color=color_by,linetype=line_by)) +
+    line_plot(valpercent,dots) +
+    ylab(ytitle) 
+  if (max(ifs_df$year) > cutoff & min(ifs_df$year) < cutoff) {
+    lh <- min(ifs_df$value) + label_height*(max(ifs_df$value) - min(ifs_df$value))
+    p <- p + hf_line(lh,split=label_split,text_orient=text_orient)
+  }
+  if (!is.null(ontop_country)) {
+    p <- p + geom_line(data=ifs_df[ifs_df$Country==ontop_country,],size=1)
+  }
+  p
+}
+
+### TEST CODE
+# rename_tbl <- tibble(scenario_old=c('Base','Security'),
+#                      Scenario=c('Current path','Security first'))
+# country_scenario_compare('country_scenario_test.txt','GDP per capita (PPP)')
+
+
+
+### TODO: other plots it might be good to have
 
 # cross-sectional scatterplot, drawing from two different IFs export files and
 # with a specific country (or set of countries) highlighted
