@@ -2,7 +2,7 @@ library(tidyverse)
 library(sp)
 library(ggrepel)
 
-source('../Futures-tools/IFs_plots.R')
+source('../IFs_plots.R')
 
 brazil_init <- function() {
   brazil <- readRDS('gadm36_BRA_1_sp.rds')
@@ -66,13 +66,13 @@ adm1_labels <- list(
 )
 
 brazil_init()
-ifs_choropleth('IFs_exports/pov_310.txt',display_year=2005,percent=TRUE,minmax=c(0,0.55)) +
+ifs_choropleth('pov_310.txt',display_year=2005,percent=TRUE,minmax=c(0,0.55)) +
   ggtitle('Poverty rate (< $3.10/day), 2005')
 
-ifs_choropleth('IFs_exports/pov_310.txt',display_year=2019,percent=TRUE,minmax=c(0,0.55)) +
+ifs_choropleth('pov_310.txt',display_year=2019,percent=TRUE,minmax=c(0,0.55)) +
   ggtitle('Poverty rate (< $3.10/day), 2019')
 
-ifs_choropleth('IFs_exports/pov_310.txt',display_year=2035,percent=TRUE,minmax=c(0,0.55)) +
+ifs_choropleth('pov_310.txt',display_year=2035,percent=TRUE,minmax=c(0,0.55)) +
   ggtitle('Poverty rate (< $3.10/day), 2035')
 
 # TODO: make a plot with circles showing extensive variables?
@@ -106,13 +106,13 @@ ifs_circles <- function(fname,display_year,maxsize=6,minmax=c(NA,NA)) {
 
 # Not actually such an interesting example, but the plots work
 
-ifs_circles('IFs_exports/gdp_mer.txt',2019,maxsize=10,minmax=c(5,2000)) +
+ifs_circles('gdp_mer.txt',2019,maxsize=10,minmax=c(5,2000)) +
   labs(title='GDP (MER) in 2019',size='Billion USD')
 
-ifs_circles('IFs_exports/gdp_mer.txt',1995,maxsize=10,minmax=c(5,2000)) +
+ifs_circles('gdp_mer.txt',1995,maxsize=10,minmax=c(5,2000)) +
   labs(title='GDP (MER) in 1995',size='Billion USD')
 
-ifs_circles('IFs_exports/gdp_mer.txt',2050,maxsize=10,minmax=c(5,2000)) +
+ifs_circles('gdp_mer.txt',2050,maxsize=10,minmax=c(5,2000)) +
   labs(title='GDP (MER) in 2050',size='Billion USD')
 
 ### Interesting visualizations I could try (show each together with line plots)
@@ -141,20 +141,21 @@ growth_choropleth <- function(fname,center_year=2019,window=5,type='percent') {
                  percent_acc=0.1)
 }
 
-growth_choropleth('IFs_exports/gdp_mer.txt',2019) + 
+growth_choropleth('gdp_mer.txt',2019) + 
   ggtitle('GDP growth rate, 2019')
 
-growth_choropleth('IFs_exports/gdp_mer.txt',2035) + 
+growth_choropleth('gdp_mer.txt',2035) + 
   ggtitle('GDP growth rate, 2035')
 
-growth_choropleth('IFs_exports/gdp_mer.txt',2019,type='slope') +
+growth_choropleth('gdp_mer.txt',2019,type='slope') +
   ggtitle('GDP growth, billion USD per year (2019)')
 
 ###############################################################################
 # Year at which a certain threshold is crossed 
+# (Not quite done yet)
 ###############################################################################
 threshold <- 70
-fname <- 'IFs_exports/sanitation.txt'
+fname <- 'sanitation.txt'
 start_yr <- 2015
 end_yr <- 2100
 
