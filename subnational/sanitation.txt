@@ -1,0 +1,2457 @@
+BRA-Acre, Improved	1960	 
+BRA-Acre, Improved	1961	 
+BRA-Acre, Improved	1962	 
+BRA-Acre, Improved	1963	 
+BRA-Acre, Improved	1964	 
+BRA-Acre, Improved	1965	 
+BRA-Acre, Improved	1966	 
+BRA-Acre, Improved	1967	 
+BRA-Acre, Improved	1968	 
+BRA-Acre, Improved	1969	 
+BRA-Acre, Improved	1970	 
+BRA-Acre, Improved	1971	 
+BRA-Acre, Improved	1972	 
+BRA-Acre, Improved	1973	 
+BRA-Acre, Improved	1974	 
+BRA-Acre, Improved	1975	 
+BRA-Acre, Improved	1976	 
+BRA-Acre, Improved	1977	 
+BRA-Acre, Improved	1978	 
+BRA-Acre, Improved	1979	 
+BRA-Acre, Improved	1980	 
+BRA-Acre, Improved	1981	 
+BRA-Acre, Improved	1982	 
+BRA-Acre, Improved	1983	 
+BRA-Acre, Improved	1984	 
+BRA-Acre, Improved	1985	 
+BRA-Acre, Improved	1986	 
+BRA-Acre, Improved	1987	 
+BRA-Acre, Improved	1988	 
+BRA-Acre, Improved	1989	 
+BRA-Acre, Improved	1990	 
+BRA-Acre, Improved	1991	 
+BRA-Acre, Improved	1992	 
+BRA-Acre, Improved	1993	 
+BRA-Acre, Improved	1994	 
+BRA-Acre, Improved	1995	 
+BRA-Acre, Improved	1996	 
+BRA-Acre, Improved	1997	 
+BRA-Acre, Improved	1998	 
+BRA-Acre, Improved	1999	 
+BRA-Acre, Improved	2000	 
+BRA-Acre, Improved	2001	 
+BRA-Acre, Improved	2002	 
+BRA-Acre, Improved	2003	 
+BRA-Acre, Improved	2004	 
+BRA-Acre, Improved	2005	 
+BRA-Acre, Improved	2006	 
+BRA-Acre, Improved	2007	66.207
+BRA-Acre, Improved	2008	62.479
+BRA-Acre, Improved	2009	67.002
+BRA-Acre, Improved	2010	 
+BRA-Acre, Improved	2011	55.898
+BRA-Acre, Improved	2012	57.096
+BRA-Acre, Improved	2013	60.791
+BRA-Acre, Improved	2014	68.662
+BRA-Acre, Improved	2015	69.240
+BRA-Acre, Improved	2016	70.672
+BRA-Acre, Improved	2017	72.510
+BRA-Acre, Improved	2018	74.543
+BRA-Acre, Improved	2019	76.864
+BRA-Acre, Improved	2020	79.638
+BRA-Acre, Improved	2021	83.229
+BRA-Acre, Improved	2022	87.469
+BRA-Acre, Improved	2023	92.126
+BRA-Acre, Improved	2024	96.862
+BRA-Acre, Improved	2025	100.000
+BRA-Acre, Improved	2026	100.000
+BRA-Acre, Improved	2027	100.000
+BRA-Acre, Improved	2028	100.000
+BRA-Acre, Improved	2029	100.000
+BRA-Acre, Improved	2030	100.000
+BRA-Acre, Improved	2031	100.000
+BRA-Acre, Improved	2032	100.000
+BRA-Acre, Improved	2033	100.000
+BRA-Acre, Improved	2034	100.000
+BRA-Acre, Improved	2035	100.000
+BRA-Acre, Improved	2036	100.000
+BRA-Acre, Improved	2037	100.000
+BRA-Acre, Improved	2038	100.000
+BRA-Acre, Improved	2039	100.000
+BRA-Acre, Improved	2040	100.000
+BRA-Acre, Improved	2041	100.000
+BRA-Acre, Improved	2042	100.000
+BRA-Acre, Improved	2043	100.000
+BRA-Acre, Improved	2044	100.000
+BRA-Acre, Improved	2045	100.000
+BRA-Acre, Improved	2046	100.000
+BRA-Acre, Improved	2047	100.000
+BRA-Acre, Improved	2048	100.000
+BRA-Acre, Improved	2049	100.000
+BRA-Acre, Improved	2050	100.000
+BRA-Alagoas, Improved	1960	 
+BRA-Alagoas, Improved	1961	 
+BRA-Alagoas, Improved	1962	 
+BRA-Alagoas, Improved	1963	 
+BRA-Alagoas, Improved	1964	 
+BRA-Alagoas, Improved	1965	 
+BRA-Alagoas, Improved	1966	 
+BRA-Alagoas, Improved	1967	 
+BRA-Alagoas, Improved	1968	 
+BRA-Alagoas, Improved	1969	 
+BRA-Alagoas, Improved	1970	 
+BRA-Alagoas, Improved	1971	 
+BRA-Alagoas, Improved	1972	 
+BRA-Alagoas, Improved	1973	 
+BRA-Alagoas, Improved	1974	 
+BRA-Alagoas, Improved	1975	 
+BRA-Alagoas, Improved	1976	 
+BRA-Alagoas, Improved	1977	 
+BRA-Alagoas, Improved	1978	 
+BRA-Alagoas, Improved	1979	 
+BRA-Alagoas, Improved	1980	 
+BRA-Alagoas, Improved	1981	 
+BRA-Alagoas, Improved	1982	 
+BRA-Alagoas, Improved	1983	 
+BRA-Alagoas, Improved	1984	 
+BRA-Alagoas, Improved	1985	 
+BRA-Alagoas, Improved	1986	 
+BRA-Alagoas, Improved	1987	 
+BRA-Alagoas, Improved	1988	 
+BRA-Alagoas, Improved	1989	 
+BRA-Alagoas, Improved	1990	 
+BRA-Alagoas, Improved	1991	 
+BRA-Alagoas, Improved	1992	 
+BRA-Alagoas, Improved	1993	 
+BRA-Alagoas, Improved	1994	 
+BRA-Alagoas, Improved	1995	 
+BRA-Alagoas, Improved	1996	 
+BRA-Alagoas, Improved	1997	 
+BRA-Alagoas, Improved	1998	 
+BRA-Alagoas, Improved	1999	 
+BRA-Alagoas, Improved	2000	 
+BRA-Alagoas, Improved	2001	 
+BRA-Alagoas, Improved	2002	 
+BRA-Alagoas, Improved	2003	 
+BRA-Alagoas, Improved	2004	 
+BRA-Alagoas, Improved	2005	 
+BRA-Alagoas, Improved	2006	 
+BRA-Alagoas, Improved	2007	36.803
+BRA-Alagoas, Improved	2008	39.196
+BRA-Alagoas, Improved	2009	37.621
+BRA-Alagoas, Improved	2010	 
+BRA-Alagoas, Improved	2011	52.702
+BRA-Alagoas, Improved	2012	55.453
+BRA-Alagoas, Improved	2013	35.613
+BRA-Alagoas, Improved	2014	59.935
+BRA-Alagoas, Improved	2015	57.130
+BRA-Alagoas, Improved	2016	57.843
+BRA-Alagoas, Improved	2017	58.577
+BRA-Alagoas, Improved	2018	59.281
+BRA-Alagoas, Improved	2019	59.922
+BRA-Alagoas, Improved	2020	60.479
+BRA-Alagoas, Improved	2021	60.983
+BRA-Alagoas, Improved	2022	61.450
+BRA-Alagoas, Improved	2023	61.901
+BRA-Alagoas, Improved	2024	62.360
+BRA-Alagoas, Improved	2025	62.836
+BRA-Alagoas, Improved	2026	63.327
+BRA-Alagoas, Improved	2027	63.842
+BRA-Alagoas, Improved	2028	64.392
+BRA-Alagoas, Improved	2029	64.966
+BRA-Alagoas, Improved	2030	65.543
+BRA-Alagoas, Improved	2031	66.100
+BRA-Alagoas, Improved	2032	66.626
+BRA-Alagoas, Improved	2033	67.156
+BRA-Alagoas, Improved	2034	67.711
+BRA-Alagoas, Improved	2035	68.279
+BRA-Alagoas, Improved	2036	68.868
+BRA-Alagoas, Improved	2037	69.478
+BRA-Alagoas, Improved	2038	70.105
+BRA-Alagoas, Improved	2039	70.739
+BRA-Alagoas, Improved	2040	71.371
+BRA-Alagoas, Improved	2041	71.988
+BRA-Alagoas, Improved	2042	72.584
+BRA-Alagoas, Improved	2043	73.144
+BRA-Alagoas, Improved	2044	73.659
+BRA-Alagoas, Improved	2045	74.156
+BRA-Alagoas, Improved	2046	74.652
+BRA-Alagoas, Improved	2047	75.160
+BRA-Alagoas, Improved	2048	75.689
+BRA-Alagoas, Improved	2049	76.242
+BRA-Alagoas, Improved	2050	76.819
+BRA-Amapa, Improved	1960	 
+BRA-Amapa, Improved	1961	 
+BRA-Amapa, Improved	1962	 
+BRA-Amapa, Improved	1963	 
+BRA-Amapa, Improved	1964	 
+BRA-Amapa, Improved	1965	 
+BRA-Amapa, Improved	1966	 
+BRA-Amapa, Improved	1967	 
+BRA-Amapa, Improved	1968	 
+BRA-Amapa, Improved	1969	 
+BRA-Amapa, Improved	1970	 
+BRA-Amapa, Improved	1971	 
+BRA-Amapa, Improved	1972	 
+BRA-Amapa, Improved	1973	 
+BRA-Amapa, Improved	1974	 
+BRA-Amapa, Improved	1975	 
+BRA-Amapa, Improved	1976	 
+BRA-Amapa, Improved	1977	 
+BRA-Amapa, Improved	1978	 
+BRA-Amapa, Improved	1979	 
+BRA-Amapa, Improved	1980	 
+BRA-Amapa, Improved	1981	 
+BRA-Amapa, Improved	1982	 
+BRA-Amapa, Improved	1983	 
+BRA-Amapa, Improved	1984	 
+BRA-Amapa, Improved	1985	 
+BRA-Amapa, Improved	1986	 
+BRA-Amapa, Improved	1987	 
+BRA-Amapa, Improved	1988	 
+BRA-Amapa, Improved	1989	 
+BRA-Amapa, Improved	1990	 
+BRA-Amapa, Improved	1991	 
+BRA-Amapa, Improved	1992	 
+BRA-Amapa, Improved	1993	 
+BRA-Amapa, Improved	1994	 
+BRA-Amapa, Improved	1995	 
+BRA-Amapa, Improved	1996	 
+BRA-Amapa, Improved	1997	 
+BRA-Amapa, Improved	1998	 
+BRA-Amapa, Improved	1999	 
+BRA-Amapa, Improved	2000	 
+BRA-Amapa, Improved	2001	 
+BRA-Amapa, Improved	2002	 
+BRA-Amapa, Improved	2003	 
+BRA-Amapa, Improved	2004	 
+BRA-Amapa, Improved	2005	 
+BRA-Amapa, Improved	2006	 
+BRA-Amapa, Improved	2007	67.444
+BRA-Amapa, Improved	2008	45.776
+BRA-Amapa, Improved	2009	64.706
+BRA-Amapa, Improved	2010	 
+BRA-Amapa, Improved	2011	76.794
+BRA-Amapa, Improved	2012	58.730
+BRA-Amapa, Improved	2013	48.698
+BRA-Amapa, Improved	2014	53.316
+BRA-Amapa, Improved	2015	31.046
+BRA-Amapa, Improved	2016	31.565
+BRA-Amapa, Improved	2017	32.932
+BRA-Amapa, Improved	2018	35.352
+BRA-Amapa, Improved	2019	38.881
+BRA-Amapa, Improved	2020	43.820
+BRA-Amapa, Improved	2021	50.842
+BRA-Amapa, Improved	2022	59.882
+BRA-Amapa, Improved	2023	70.669
+BRA-Amapa, Improved	2024	82.668
+BRA-Amapa, Improved	2025	95.052
+BRA-Amapa, Improved	2026	100.000
+BRA-Amapa, Improved	2027	100.000
+BRA-Amapa, Improved	2028	100.000
+BRA-Amapa, Improved	2029	100.000
+BRA-Amapa, Improved	2030	100.000
+BRA-Amapa, Improved	2031	100.000
+BRA-Amapa, Improved	2032	99.998
+BRA-Amapa, Improved	2033	99.998
+BRA-Amapa, Improved	2034	100.000
+BRA-Amapa, Improved	2035	100.000
+BRA-Amapa, Improved	2036	100.000
+BRA-Amapa, Improved	2037	100.000
+BRA-Amapa, Improved	2038	100.000
+BRA-Amapa, Improved	2039	100.000
+BRA-Amapa, Improved	2040	100.000
+BRA-Amapa, Improved	2041	100.000
+BRA-Amapa, Improved	2042	100.000
+BRA-Amapa, Improved	2043	100.000
+BRA-Amapa, Improved	2044	100.000
+BRA-Amapa, Improved	2045	100.000
+BRA-Amapa, Improved	2046	100.000
+BRA-Amapa, Improved	2047	100.000
+BRA-Amapa, Improved	2048	100.000
+BRA-Amapa, Improved	2049	100.000
+BRA-Amapa, Improved	2050	100.000
+BRA-Amazonas, Improved	1960	 
+BRA-Amazonas, Improved	1961	 
+BRA-Amazonas, Improved	1962	 
+BRA-Amazonas, Improved	1963	 
+BRA-Amazonas, Improved	1964	 
+BRA-Amazonas, Improved	1965	 
+BRA-Amazonas, Improved	1966	 
+BRA-Amazonas, Improved	1967	 
+BRA-Amazonas, Improved	1968	 
+BRA-Amazonas, Improved	1969	 
+BRA-Amazonas, Improved	1970	 
+BRA-Amazonas, Improved	1971	 
+BRA-Amazonas, Improved	1972	 
+BRA-Amazonas, Improved	1973	 
+BRA-Amazonas, Improved	1974	 
+BRA-Amazonas, Improved	1975	 
+BRA-Amazonas, Improved	1976	 
+BRA-Amazonas, Improved	1977	 
+BRA-Amazonas, Improved	1978	 
+BRA-Amazonas, Improved	1979	 
+BRA-Amazonas, Improved	1980	 
+BRA-Amazonas, Improved	1981	 
+BRA-Amazonas, Improved	1982	 
+BRA-Amazonas, Improved	1983	 
+BRA-Amazonas, Improved	1984	 
+BRA-Amazonas, Improved	1985	 
+BRA-Amazonas, Improved	1986	 
+BRA-Amazonas, Improved	1987	 
+BRA-Amazonas, Improved	1988	 
+BRA-Amazonas, Improved	1989	 
+BRA-Amazonas, Improved	1990	 
+BRA-Amazonas, Improved	1991	 
+BRA-Amazonas, Improved	1992	 
+BRA-Amazonas, Improved	1993	 
+BRA-Amazonas, Improved	1994	 
+BRA-Amazonas, Improved	1995	 
+BRA-Amazonas, Improved	1996	 
+BRA-Amazonas, Improved	1997	 
+BRA-Amazonas, Improved	1998	 
+BRA-Amazonas, Improved	1999	 
+BRA-Amazonas, Improved	2000	 
+BRA-Amazonas, Improved	2001	 
+BRA-Amazonas, Improved	2002	 
+BRA-Amazonas, Improved	2003	 
+BRA-Amazonas, Improved	2004	 
+BRA-Amazonas, Improved	2005	 
+BRA-Amazonas, Improved	2006	 
+BRA-Amazonas, Improved	2007	77.294
+BRA-Amazonas, Improved	2008	68.103
+BRA-Amazonas, Improved	2009	69.185
+BRA-Amazonas, Improved	2010	 
+BRA-Amazonas, Improved	2011	68.597
+BRA-Amazonas, Improved	2012	64.716
+BRA-Amazonas, Improved	2013	70.514
+BRA-Amazonas, Improved	2014	80.891
+BRA-Amazonas, Improved	2015	83.143
+BRA-Amazonas, Improved	2016	84.014
+BRA-Amazonas, Improved	2017	84.696
+BRA-Amazonas, Improved	2018	85.119
+BRA-Amazonas, Improved	2019	85.191
+BRA-Amazonas, Improved	2020	84.876
+BRA-Amazonas, Improved	2021	84.239
+BRA-Amazonas, Improved	2022	83.688
+BRA-Amazonas, Improved	2023	83.545
+BRA-Amazonas, Improved	2024	83.607
+BRA-Amazonas, Improved	2025	83.747
+BRA-Amazonas, Improved	2026	83.897
+BRA-Amazonas, Improved	2027	84.053
+BRA-Amazonas, Improved	2028	84.255
+BRA-Amazonas, Improved	2029	84.433
+BRA-Amazonas, Improved	2030	84.573
+BRA-Amazonas, Improved	2031	84.680
+BRA-Amazonas, Improved	2032	84.760
+BRA-Amazonas, Improved	2033	84.865
+BRA-Amazonas, Improved	2034	85.040
+BRA-Amazonas, Improved	2035	85.306
+BRA-Amazonas, Improved	2036	85.661
+BRA-Amazonas, Improved	2037	86.080
+BRA-Amazonas, Improved	2038	86.529
+BRA-Amazonas, Improved	2039	86.975
+BRA-Amazonas, Improved	2040	87.398
+BRA-Amazonas, Improved	2041	87.732
+BRA-Amazonas, Improved	2042	87.983
+BRA-Amazonas, Improved	2043	88.215
+BRA-Amazonas, Improved	2044	88.434
+BRA-Amazonas, Improved	2045	88.626
+BRA-Amazonas, Improved	2046	88.803
+BRA-Amazonas, Improved	2047	88.971
+BRA-Amazonas, Improved	2048	89.149
+BRA-Amazonas, Improved	2049	89.332
+BRA-Amazonas, Improved	2050	89.522
+BRA-Bahia, Improved	1960	 
+BRA-Bahia, Improved	1961	 
+BRA-Bahia, Improved	1962	 
+BRA-Bahia, Improved	1963	 
+BRA-Bahia, Improved	1964	 
+BRA-Bahia, Improved	1965	 
+BRA-Bahia, Improved	1966	 
+BRA-Bahia, Improved	1967	 
+BRA-Bahia, Improved	1968	 
+BRA-Bahia, Improved	1969	 
+BRA-Bahia, Improved	1970	 
+BRA-Bahia, Improved	1971	 
+BRA-Bahia, Improved	1972	 
+BRA-Bahia, Improved	1973	 
+BRA-Bahia, Improved	1974	 
+BRA-Bahia, Improved	1975	 
+BRA-Bahia, Improved	1976	 
+BRA-Bahia, Improved	1977	 
+BRA-Bahia, Improved	1978	 
+BRA-Bahia, Improved	1979	 
+BRA-Bahia, Improved	1980	 
+BRA-Bahia, Improved	1981	 
+BRA-Bahia, Improved	1982	 
+BRA-Bahia, Improved	1983	 
+BRA-Bahia, Improved	1984	 
+BRA-Bahia, Improved	1985	 
+BRA-Bahia, Improved	1986	 
+BRA-Bahia, Improved	1987	 
+BRA-Bahia, Improved	1988	 
+BRA-Bahia, Improved	1989	 
+BRA-Bahia, Improved	1990	 
+BRA-Bahia, Improved	1991	 
+BRA-Bahia, Improved	1992	 
+BRA-Bahia, Improved	1993	 
+BRA-Bahia, Improved	1994	 
+BRA-Bahia, Improved	1995	 
+BRA-Bahia, Improved	1996	 
+BRA-Bahia, Improved	1997	 
+BRA-Bahia, Improved	1998	 
+BRA-Bahia, Improved	1999	 
+BRA-Bahia, Improved	2000	 
+BRA-Bahia, Improved	2001	 
+BRA-Bahia, Improved	2002	 
+BRA-Bahia, Improved	2003	 
+BRA-Bahia, Improved	2004	 
+BRA-Bahia, Improved	2005	 
+BRA-Bahia, Improved	2006	 
+BRA-Bahia, Improved	2007	63.276
+BRA-Bahia, Improved	2008	61.660
+BRA-Bahia, Improved	2009	61.035
+BRA-Bahia, Improved	2010	 
+BRA-Bahia, Improved	2011	61.173
+BRA-Bahia, Improved	2012	65.515
+BRA-Bahia, Improved	2013	64.548
+BRA-Bahia, Improved	2014	69.016
+BRA-Bahia, Improved	2015	72.482
+BRA-Bahia, Improved	2016	73.208
+BRA-Bahia, Improved	2017	74.117
+BRA-Bahia, Improved	2018	74.829
+BRA-Bahia, Improved	2019	75.206
+BRA-Bahia, Improved	2020	75.222
+BRA-Bahia, Improved	2021	74.948
+BRA-Bahia, Improved	2022	74.536
+BRA-Bahia, Improved	2023	74.521
+BRA-Bahia, Improved	2024	74.740
+BRA-Bahia, Improved	2025	75.101
+BRA-Bahia, Improved	2026	75.561
+BRA-Bahia, Improved	2027	76.075
+BRA-Bahia, Improved	2028	76.573
+BRA-Bahia, Improved	2029	77.009
+BRA-Bahia, Improved	2030	77.369
+BRA-Bahia, Improved	2031	77.660
+BRA-Bahia, Improved	2032	77.903
+BRA-Bahia, Improved	2033	78.105
+BRA-Bahia, Improved	2034	78.284
+BRA-Bahia, Improved	2035	78.468
+BRA-Bahia, Improved	2036	78.677
+BRA-Bahia, Improved	2037	78.928
+BRA-Bahia, Improved	2038	79.225
+BRA-Bahia, Improved	2039	79.570
+BRA-Bahia, Improved	2040	79.962
+BRA-Bahia, Improved	2041	80.407
+BRA-Bahia, Improved	2042	80.838
+BRA-Bahia, Improved	2043	81.241
+BRA-Bahia, Improved	2044	81.616
+BRA-Bahia, Improved	2045	81.969
+BRA-Bahia, Improved	2046	82.311
+BRA-Bahia, Improved	2047	82.653
+BRA-Bahia, Improved	2048	83.002
+BRA-Bahia, Improved	2049	83.364
+BRA-Bahia, Improved	2050	83.741
+BRA-Ceara, Improved	1960	 
+BRA-Ceara, Improved	1961	 
+BRA-Ceara, Improved	1962	 
+BRA-Ceara, Improved	1963	 
+BRA-Ceara, Improved	1964	 
+BRA-Ceara, Improved	1965	 
+BRA-Ceara, Improved	1966	 
+BRA-Ceara, Improved	1967	 
+BRA-Ceara, Improved	1968	 
+BRA-Ceara, Improved	1969	 
+BRA-Ceara, Improved	1970	 
+BRA-Ceara, Improved	1971	 
+BRA-Ceara, Improved	1972	 
+BRA-Ceara, Improved	1973	 
+BRA-Ceara, Improved	1974	 
+BRA-Ceara, Improved	1975	 
+BRA-Ceara, Improved	1976	 
+BRA-Ceara, Improved	1977	 
+BRA-Ceara, Improved	1978	 
+BRA-Ceara, Improved	1979	 
+BRA-Ceara, Improved	1980	 
+BRA-Ceara, Improved	1981	 
+BRA-Ceara, Improved	1982	 
+BRA-Ceara, Improved	1983	 
+BRA-Ceara, Improved	1984	 
+BRA-Ceara, Improved	1985	 
+BRA-Ceara, Improved	1986	 
+BRA-Ceara, Improved	1987	 
+BRA-Ceara, Improved	1988	 
+BRA-Ceara, Improved	1989	 
+BRA-Ceara, Improved	1990	 
+BRA-Ceara, Improved	1991	 
+BRA-Ceara, Improved	1992	 
+BRA-Ceara, Improved	1993	 
+BRA-Ceara, Improved	1994	 
+BRA-Ceara, Improved	1995	 
+BRA-Ceara, Improved	1996	 
+BRA-Ceara, Improved	1997	 
+BRA-Ceara, Improved	1998	 
+BRA-Ceara, Improved	1999	 
+BRA-Ceara, Improved	2000	 
+BRA-Ceara, Improved	2001	 
+BRA-Ceara, Improved	2002	 
+BRA-Ceara, Improved	2003	 
+BRA-Ceara, Improved	2004	 
+BRA-Ceara, Improved	2005	 
+BRA-Ceara, Improved	2006	 
+BRA-Ceara, Improved	2007	50.293
+BRA-Ceara, Improved	2008	52.927
+BRA-Ceara, Improved	2009	46.348
+BRA-Ceara, Improved	2010	 
+BRA-Ceara, Improved	2011	54.571
+BRA-Ceara, Improved	2012	54.686
+BRA-Ceara, Improved	2013	50.812
+BRA-Ceara, Improved	2014	47.289
+BRA-Ceara, Improved	2015	54.097
+BRA-Ceara, Improved	2016	54.473
+BRA-Ceara, Improved	2017	54.942
+BRA-Ceara, Improved	2018	55.604
+BRA-Ceara, Improved	2019	56.320
+BRA-Ceara, Improved	2020	57.069
+BRA-Ceara, Improved	2021	57.815
+BRA-Ceara, Improved	2022	58.516
+BRA-Ceara, Improved	2023	59.151
+BRA-Ceara, Improved	2024	59.717
+BRA-Ceara, Improved	2025	60.209
+BRA-Ceara, Improved	2026	60.629
+BRA-Ceara, Improved	2027	61.013
+BRA-Ceara, Improved	2028	61.463
+BRA-Ceara, Improved	2029	61.974
+BRA-Ceara, Improved	2030	62.547
+BRA-Ceara, Improved	2031	63.125
+BRA-Ceara, Improved	2032	63.674
+BRA-Ceara, Improved	2033	64.194
+BRA-Ceara, Improved	2034	64.705
+BRA-Ceara, Improved	2035	65.228
+BRA-Ceara, Improved	2036	65.773
+BRA-Ceara, Improved	2037	66.346
+BRA-Ceara, Improved	2038	66.945
+BRA-Ceara, Improved	2039	67.564
+BRA-Ceara, Improved	2040	68.236
+BRA-Ceara, Improved	2041	68.943
+BRA-Ceara, Improved	2042	69.620
+BRA-Ceara, Improved	2043	70.268
+BRA-Ceara, Improved	2044	70.898
+BRA-Ceara, Improved	2045	71.511
+BRA-Ceara, Improved	2046	72.102
+BRA-Ceara, Improved	2047	72.666
+BRA-Ceara, Improved	2048	73.217
+BRA-Ceara, Improved	2049	73.765
+BRA-Ceara, Improved	2050	74.312
+BRA-Distrito Federal, Improved	1960	 
+BRA-Distrito Federal, Improved	1961	 
+BRA-Distrito Federal, Improved	1962	 
+BRA-Distrito Federal, Improved	1963	 
+BRA-Distrito Federal, Improved	1964	 
+BRA-Distrito Federal, Improved	1965	 
+BRA-Distrito Federal, Improved	1966	 
+BRA-Distrito Federal, Improved	1967	 
+BRA-Distrito Federal, Improved	1968	 
+BRA-Distrito Federal, Improved	1969	 
+BRA-Distrito Federal, Improved	1970	 
+BRA-Distrito Federal, Improved	1971	 
+BRA-Distrito Federal, Improved	1972	 
+BRA-Distrito Federal, Improved	1973	 
+BRA-Distrito Federal, Improved	1974	 
+BRA-Distrito Federal, Improved	1975	 
+BRA-Distrito Federal, Improved	1976	 
+BRA-Distrito Federal, Improved	1977	 
+BRA-Distrito Federal, Improved	1978	 
+BRA-Distrito Federal, Improved	1979	 
+BRA-Distrito Federal, Improved	1980	 
+BRA-Distrito Federal, Improved	1981	 
+BRA-Distrito Federal, Improved	1982	 
+BRA-Distrito Federal, Improved	1983	 
+BRA-Distrito Federal, Improved	1984	 
+BRA-Distrito Federal, Improved	1985	 
+BRA-Distrito Federal, Improved	1986	 
+BRA-Distrito Federal, Improved	1987	 
+BRA-Distrito Federal, Improved	1988	 
+BRA-Distrito Federal, Improved	1989	 
+BRA-Distrito Federal, Improved	1990	 
+BRA-Distrito Federal, Improved	1991	 
+BRA-Distrito Federal, Improved	1992	 
+BRA-Distrito Federal, Improved	1993	 
+BRA-Distrito Federal, Improved	1994	 
+BRA-Distrito Federal, Improved	1995	 
+BRA-Distrito Federal, Improved	1996	 
+BRA-Distrito Federal, Improved	1997	 
+BRA-Distrito Federal, Improved	1998	 
+BRA-Distrito Federal, Improved	1999	 
+BRA-Distrito Federal, Improved	2000	 
+BRA-Distrito Federal, Improved	2001	 
+BRA-Distrito Federal, Improved	2002	 
+BRA-Distrito Federal, Improved	2003	 
+BRA-Distrito Federal, Improved	2004	 
+BRA-Distrito Federal, Improved	2005	 
+BRA-Distrito Federal, Improved	2006	 
+BRA-Distrito Federal, Improved	2007	95.053
+BRA-Distrito Federal, Improved	2008	96.794
+BRA-Distrito Federal, Improved	2009	98.086
+BRA-Distrito Federal, Improved	2010	 
+BRA-Distrito Federal, Improved	2011	96.003
+BRA-Distrito Federal, Improved	2012	96.869
+BRA-Distrito Federal, Improved	2013	96.235
+BRA-Distrito Federal, Improved	2014	97.457
+BRA-Distrito Federal, Improved	2015	97.110
+BRA-Distrito Federal, Improved	2016	96.315
+BRA-Distrito Federal, Improved	2017	96.121
+BRA-Distrito Federal, Improved	2018	95.938
+BRA-Distrito Federal, Improved	2019	95.798
+BRA-Distrito Federal, Improved	2020	95.734
+BRA-Distrito Federal, Improved	2021	95.712
+BRA-Distrito Federal, Improved	2022	95.697
+BRA-Distrito Federal, Improved	2023	95.626
+BRA-Distrito Federal, Improved	2024	95.504
+BRA-Distrito Federal, Improved	2025	95.350
+BRA-Distrito Federal, Improved	2026	95.189
+BRA-Distrito Federal, Improved	2027	95.049
+BRA-Distrito Federal, Improved	2028	94.965
+BRA-Distrito Federal, Improved	2029	94.964
+BRA-Distrito Federal, Improved	2030	95.061
+BRA-Distrito Federal, Improved	2031	95.122
+BRA-Distrito Federal, Improved	2032	95.100
+BRA-Distrito Federal, Improved	2033	94.994
+BRA-Distrito Federal, Improved	2034	94.853
+BRA-Distrito Federal, Improved	2035	94.711
+BRA-Distrito Federal, Improved	2036	94.609
+BRA-Distrito Federal, Improved	2037	94.585
+BRA-Distrito Federal, Improved	2038	94.627
+BRA-Distrito Federal, Improved	2039	94.725
+BRA-Distrito Federal, Improved	2040	94.879
+BRA-Distrito Federal, Improved	2041	95.066
+BRA-Distrito Federal, Improved	2042	95.258
+BRA-Distrito Federal, Improved	2043	95.431
+BRA-Distrito Federal, Improved	2044	95.581
+BRA-Distrito Federal, Improved	2045	95.704
+BRA-Distrito Federal, Improved	2046	95.796
+BRA-Distrito Federal, Improved	2047	95.858
+BRA-Distrito Federal, Improved	2048	95.901
+BRA-Distrito Federal, Improved	2049	95.924
+BRA-Distrito Federal, Improved	2050	95.932
+BRA-Espirito Santo, Improved	1960	 
+BRA-Espirito Santo, Improved	1961	 
+BRA-Espirito Santo, Improved	1962	 
+BRA-Espirito Santo, Improved	1963	 
+BRA-Espirito Santo, Improved	1964	 
+BRA-Espirito Santo, Improved	1965	 
+BRA-Espirito Santo, Improved	1966	 
+BRA-Espirito Santo, Improved	1967	 
+BRA-Espirito Santo, Improved	1968	 
+BRA-Espirito Santo, Improved	1969	 
+BRA-Espirito Santo, Improved	1970	 
+BRA-Espirito Santo, Improved	1971	 
+BRA-Espirito Santo, Improved	1972	 
+BRA-Espirito Santo, Improved	1973	 
+BRA-Espirito Santo, Improved	1974	 
+BRA-Espirito Santo, Improved	1975	 
+BRA-Espirito Santo, Improved	1976	 
+BRA-Espirito Santo, Improved	1977	 
+BRA-Espirito Santo, Improved	1978	 
+BRA-Espirito Santo, Improved	1979	 
+BRA-Espirito Santo, Improved	1980	 
+BRA-Espirito Santo, Improved	1981	 
+BRA-Espirito Santo, Improved	1982	 
+BRA-Espirito Santo, Improved	1983	 
+BRA-Espirito Santo, Improved	1984	 
+BRA-Espirito Santo, Improved	1985	 
+BRA-Espirito Santo, Improved	1986	 
+BRA-Espirito Santo, Improved	1987	 
+BRA-Espirito Santo, Improved	1988	 
+BRA-Espirito Santo, Improved	1989	 
+BRA-Espirito Santo, Improved	1990	 
+BRA-Espirito Santo, Improved	1991	 
+BRA-Espirito Santo, Improved	1992	 
+BRA-Espirito Santo, Improved	1993	 
+BRA-Espirito Santo, Improved	1994	 
+BRA-Espirito Santo, Improved	1995	 
+BRA-Espirito Santo, Improved	1996	 
+BRA-Espirito Santo, Improved	1997	 
+BRA-Espirito Santo, Improved	1998	 
+BRA-Espirito Santo, Improved	1999	 
+BRA-Espirito Santo, Improved	2000	 
+BRA-Espirito Santo, Improved	2001	 
+BRA-Espirito Santo, Improved	2002	 
+BRA-Espirito Santo, Improved	2003	 
+BRA-Espirito Santo, Improved	2004	 
+BRA-Espirito Santo, Improved	2005	 
+BRA-Espirito Santo, Improved	2006	 
+BRA-Espirito Santo, Improved	2007	89.645
+BRA-Espirito Santo, Improved	2008	84.198
+BRA-Espirito Santo, Improved	2009	84.787
+BRA-Espirito Santo, Improved	2010	 
+BRA-Espirito Santo, Improved	2011	87.570
+BRA-Espirito Santo, Improved	2012	90.293
+BRA-Espirito Santo, Improved	2013	92.326
+BRA-Espirito Santo, Improved	2014	92.076
+BRA-Espirito Santo, Improved	2015	93.504
+BRA-Espirito Santo, Improved	2016	92.991
+BRA-Espirito Santo, Improved	2017	92.846
+BRA-Espirito Santo, Improved	2018	92.414
+BRA-Espirito Santo, Improved	2019	91.885
+BRA-Espirito Santo, Improved	2020	91.741
+BRA-Espirito Santo, Improved	2021	91.696
+BRA-Espirito Santo, Improved	2022	91.739
+BRA-Espirito Santo, Improved	2023	91.842
+BRA-Espirito Santo, Improved	2024	92.021
+BRA-Espirito Santo, Improved	2025	92.155
+BRA-Espirito Santo, Improved	2026	92.245
+BRA-Espirito Santo, Improved	2027	92.323
+BRA-Espirito Santo, Improved	2028	92.393
+BRA-Espirito Santo, Improved	2029	92.463
+BRA-Espirito Santo, Improved	2030	92.533
+BRA-Espirito Santo, Improved	2031	92.546
+BRA-Espirito Santo, Improved	2032	92.496
+BRA-Espirito Santo, Improved	2033	92.410
+BRA-Espirito Santo, Improved	2034	92.301
+BRA-Espirito Santo, Improved	2035	92.198
+BRA-Espirito Santo, Improved	2036	92.124
+BRA-Espirito Santo, Improved	2037	92.094
+BRA-Espirito Santo, Improved	2038	92.115
+BRA-Espirito Santo, Improved	2039	92.185
+BRA-Espirito Santo, Improved	2040	92.312
+BRA-Espirito Santo, Improved	2041	92.467
+BRA-Espirito Santo, Improved	2042	92.627
+BRA-Espirito Santo, Improved	2043	92.774
+BRA-Espirito Santo, Improved	2044	92.895
+BRA-Espirito Santo, Improved	2045	92.992
+BRA-Espirito Santo, Improved	2046	93.077
+BRA-Espirito Santo, Improved	2047	93.160
+BRA-Espirito Santo, Improved	2048	93.241
+BRA-Espirito Santo, Improved	2049	93.329
+BRA-Espirito Santo, Improved	2050	93.424
+BRA-Goias, Improved	1960	 
+BRA-Goias, Improved	1961	 
+BRA-Goias, Improved	1962	 
+BRA-Goias, Improved	1963	 
+BRA-Goias, Improved	1964	 
+BRA-Goias, Improved	1965	 
+BRA-Goias, Improved	1966	 
+BRA-Goias, Improved	1967	 
+BRA-Goias, Improved	1968	 
+BRA-Goias, Improved	1969	 
+BRA-Goias, Improved	1970	 
+BRA-Goias, Improved	1971	 
+BRA-Goias, Improved	1972	 
+BRA-Goias, Improved	1973	 
+BRA-Goias, Improved	1974	 
+BRA-Goias, Improved	1975	 
+BRA-Goias, Improved	1976	 
+BRA-Goias, Improved	1977	 
+BRA-Goias, Improved	1978	 
+BRA-Goias, Improved	1979	 
+BRA-Goias, Improved	1980	 
+BRA-Goias, Improved	1981	 
+BRA-Goias, Improved	1982	 
+BRA-Goias, Improved	1983	 
+BRA-Goias, Improved	1984	 
+BRA-Goias, Improved	1985	 
+BRA-Goias, Improved	1986	 
+BRA-Goias, Improved	1987	 
+BRA-Goias, Improved	1988	 
+BRA-Goias, Improved	1989	 
+BRA-Goias, Improved	1990	 
+BRA-Goias, Improved	1991	 
+BRA-Goias, Improved	1992	 
+BRA-Goias, Improved	1993	 
+BRA-Goias, Improved	1994	 
+BRA-Goias, Improved	1995	 
+BRA-Goias, Improved	1996	 
+BRA-Goias, Improved	1997	 
+BRA-Goias, Improved	1998	 
+BRA-Goias, Improved	1999	 
+BRA-Goias, Improved	2000	 
+BRA-Goias, Improved	2001	 
+BRA-Goias, Improved	2002	 
+BRA-Goias, Improved	2003	 
+BRA-Goias, Improved	2004	 
+BRA-Goias, Improved	2005	 
+BRA-Goias, Improved	2006	 
+BRA-Goias, Improved	2007	44.745
+BRA-Goias, Improved	2008	36.238
+BRA-Goias, Improved	2009	40.894
+BRA-Goias, Improved	2010	 
+BRA-Goias, Improved	2011	62.707
+BRA-Goias, Improved	2012	51.240
+BRA-Goias, Improved	2013	55.815
+BRA-Goias, Improved	2014	60.831
+BRA-Goias, Improved	2015	77.673
+BRA-Goias, Improved	2016	78.315
+BRA-Goias, Improved	2017	79.247
+BRA-Goias, Improved	2018	79.896
+BRA-Goias, Improved	2019	80.101
+BRA-Goias, Improved	2020	79.849
+BRA-Goias, Improved	2021	79.237
+BRA-Goias, Improved	2022	78.512
+BRA-Goias, Improved	2023	78.241
+BRA-Goias, Improved	2024	78.245
+BRA-Goias, Improved	2025	78.512
+BRA-Goias, Improved	2026	78.907
+BRA-Goias, Improved	2027	79.330
+BRA-Goias, Improved	2028	79.725
+BRA-Goias, Improved	2029	80.059
+BRA-Goias, Improved	2030	80.309
+BRA-Goias, Improved	2031	80.450
+BRA-Goias, Improved	2032	80.511
+BRA-Goias, Improved	2033	80.517
+BRA-Goias, Improved	2034	80.504
+BRA-Goias, Improved	2035	80.512
+BRA-Goias, Improved	2036	80.572
+BRA-Goias, Improved	2037	80.700
+BRA-Goias, Improved	2038	80.900
+BRA-Goias, Improved	2039	81.183
+BRA-Goias, Improved	2040	81.532
+BRA-Goias, Improved	2041	81.913
+BRA-Goias, Improved	2042	82.296
+BRA-Goias, Improved	2043	82.659
+BRA-Goias, Improved	2044	82.989
+BRA-Goias, Improved	2045	83.287
+BRA-Goias, Improved	2046	83.565
+BRA-Goias, Improved	2047	83.834
+BRA-Goias, Improved	2048	84.107
+BRA-Goias, Improved	2049	84.390
+BRA-Goias, Improved	2050	84.689
+BRA-Maranhao, Improved	1960	 
+BRA-Maranhao, Improved	1961	 
+BRA-Maranhao, Improved	1962	 
+BRA-Maranhao, Improved	1963	 
+BRA-Maranhao, Improved	1964	 
+BRA-Maranhao, Improved	1965	 
+BRA-Maranhao, Improved	1966	 
+BRA-Maranhao, Improved	1967	 
+BRA-Maranhao, Improved	1968	 
+BRA-Maranhao, Improved	1969	 
+BRA-Maranhao, Improved	1970	 
+BRA-Maranhao, Improved	1971	 
+BRA-Maranhao, Improved	1972	 
+BRA-Maranhao, Improved	1973	 
+BRA-Maranhao, Improved	1974	 
+BRA-Maranhao, Improved	1975	 
+BRA-Maranhao, Improved	1976	 
+BRA-Maranhao, Improved	1977	 
+BRA-Maranhao, Improved	1978	 
+BRA-Maranhao, Improved	1979	 
+BRA-Maranhao, Improved	1980	 
+BRA-Maranhao, Improved	1981	 
+BRA-Maranhao, Improved	1982	 
+BRA-Maranhao, Improved	1983	 
+BRA-Maranhao, Improved	1984	 
+BRA-Maranhao, Improved	1985	 
+BRA-Maranhao, Improved	1986	 
+BRA-Maranhao, Improved	1987	 
+BRA-Maranhao, Improved	1988	 
+BRA-Maranhao, Improved	1989	 
+BRA-Maranhao, Improved	1990	 
+BRA-Maranhao, Improved	1991	 
+BRA-Maranhao, Improved	1992	 
+BRA-Maranhao, Improved	1993	 
+BRA-Maranhao, Improved	1994	 
+BRA-Maranhao, Improved	1995	 
+BRA-Maranhao, Improved	1996	 
+BRA-Maranhao, Improved	1997	 
+BRA-Maranhao, Improved	1998	 
+BRA-Maranhao, Improved	1999	 
+BRA-Maranhao, Improved	2000	 
+BRA-Maranhao, Improved	2001	 
+BRA-Maranhao, Improved	2002	 
+BRA-Maranhao, Improved	2003	 
+BRA-Maranhao, Improved	2004	 
+BRA-Maranhao, Improved	2005	 
+BRA-Maranhao, Improved	2006	 
+BRA-Maranhao, Improved	2007	56.720
+BRA-Maranhao, Improved	2008	64.687
+BRA-Maranhao, Improved	2009	59.086
+BRA-Maranhao, Improved	2010	 
+BRA-Maranhao, Improved	2011	55.374
+BRA-Maranhao, Improved	2012	52.545
+BRA-Maranhao, Improved	2013	53.314
+BRA-Maranhao, Improved	2014	48.448
+BRA-Maranhao, Improved	2015	60.250
+BRA-Maranhao, Improved	2016	61.114
+BRA-Maranhao, Improved	2017	61.819
+BRA-Maranhao, Improved	2018	62.594
+BRA-Maranhao, Improved	2019	63.189
+BRA-Maranhao, Improved	2020	63.708
+BRA-Maranhao, Improved	2021	64.177
+BRA-Maranhao, Improved	2022	64.634
+BRA-Maranhao, Improved	2023	65.109
+BRA-Maranhao, Improved	2024	65.596
+BRA-Maranhao, Improved	2025	66.092
+BRA-Maranhao, Improved	2026	66.608
+BRA-Maranhao, Improved	2027	67.145
+BRA-Maranhao, Improved	2028	67.692
+BRA-Maranhao, Improved	2029	68.235
+BRA-Maranhao, Improved	2030	68.769
+BRA-Maranhao, Improved	2031	69.276
+BRA-Maranhao, Improved	2032	69.770
+BRA-Maranhao, Improved	2033	70.311
+BRA-Maranhao, Improved	2034	70.930
+BRA-Maranhao, Improved	2035	71.654
+BRA-Maranhao, Improved	2036	72.531
+BRA-Maranhao, Improved	2037	73.559
+BRA-Maranhao, Improved	2038	74.731
+BRA-Maranhao, Improved	2039	76.043
+BRA-Maranhao, Improved	2040	77.502
+BRA-Maranhao, Improved	2041	79.274
+BRA-Maranhao, Improved	2042	81.354
+BRA-Maranhao, Improved	2043	83.735
+BRA-Maranhao, Improved	2044	86.394
+BRA-Maranhao, Improved	2045	89.295
+BRA-Maranhao, Improved	2046	92.361
+BRA-Maranhao, Improved	2047	95.452
+BRA-Maranhao, Improved	2048	98.329
+BRA-Maranhao, Improved	2049	100.000
+BRA-Maranhao, Improved	2050	100.000
+BRA-Mato Grosso, Improved	1960	 
+BRA-Mato Grosso, Improved	1961	 
+BRA-Mato Grosso, Improved	1962	 
+BRA-Mato Grosso, Improved	1963	 
+BRA-Mato Grosso, Improved	1964	 
+BRA-Mato Grosso, Improved	1965	 
+BRA-Mato Grosso, Improved	1966	 
+BRA-Mato Grosso, Improved	1967	 
+BRA-Mato Grosso, Improved	1968	 
+BRA-Mato Grosso, Improved	1969	 
+BRA-Mato Grosso, Improved	1970	 
+BRA-Mato Grosso, Improved	1971	 
+BRA-Mato Grosso, Improved	1972	 
+BRA-Mato Grosso, Improved	1973	 
+BRA-Mato Grosso, Improved	1974	 
+BRA-Mato Grosso, Improved	1975	 
+BRA-Mato Grosso, Improved	1976	 
+BRA-Mato Grosso, Improved	1977	 
+BRA-Mato Grosso, Improved	1978	 
+BRA-Mato Grosso, Improved	1979	 
+BRA-Mato Grosso, Improved	1980	 
+BRA-Mato Grosso, Improved	1981	 
+BRA-Mato Grosso, Improved	1982	 
+BRA-Mato Grosso, Improved	1983	 
+BRA-Mato Grosso, Improved	1984	 
+BRA-Mato Grosso, Improved	1985	 
+BRA-Mato Grosso, Improved	1986	 
+BRA-Mato Grosso, Improved	1987	 
+BRA-Mato Grosso, Improved	1988	 
+BRA-Mato Grosso, Improved	1989	 
+BRA-Mato Grosso, Improved	1990	 
+BRA-Mato Grosso, Improved	1991	 
+BRA-Mato Grosso, Improved	1992	 
+BRA-Mato Grosso, Improved	1993	 
+BRA-Mato Grosso, Improved	1994	 
+BRA-Mato Grosso, Improved	1995	 
+BRA-Mato Grosso, Improved	1996	 
+BRA-Mato Grosso, Improved	1997	 
+BRA-Mato Grosso, Improved	1998	 
+BRA-Mato Grosso, Improved	1999	 
+BRA-Mato Grosso, Improved	2000	 
+BRA-Mato Grosso, Improved	2001	 
+BRA-Mato Grosso, Improved	2002	 
+BRA-Mato Grosso, Improved	2003	 
+BRA-Mato Grosso, Improved	2004	 
+BRA-Mato Grosso, Improved	2005	 
+BRA-Mato Grosso, Improved	2006	 
+BRA-Mato Grosso, Improved	2007	26.632
+BRA-Mato Grosso, Improved	2008	53.601
+BRA-Mato Grosso, Improved	2009	29.697
+BRA-Mato Grosso, Improved	2010	 
+BRA-Mato Grosso, Improved	2011	36.195
+BRA-Mato Grosso, Improved	2012	49.732
+BRA-Mato Grosso, Improved	2013	38.508
+BRA-Mato Grosso, Improved	2014	45.065
+BRA-Mato Grosso, Improved	2015	55.717
+BRA-Mato Grosso, Improved	2016	57.978
+BRA-Mato Grosso, Improved	2017	60.222
+BRA-Mato Grosso, Improved	2018	62.120
+BRA-Mato Grosso, Improved	2019	63.269
+BRA-Mato Grosso, Improved	2020	63.578
+BRA-Mato Grosso, Improved	2021	63.306
+BRA-Mato Grosso, Improved	2022	62.992
+BRA-Mato Grosso, Improved	2023	62.602
+BRA-Mato Grosso, Improved	2024	62.121
+BRA-Mato Grosso, Improved	2025	61.547
+BRA-Mato Grosso, Improved	2026	61.370
+BRA-Mato Grosso, Improved	2027	61.552
+BRA-Mato Grosso, Improved	2028	62.311
+BRA-Mato Grosso, Improved	2029	63.223
+BRA-Mato Grosso, Improved	2030	64.142
+BRA-Mato Grosso, Improved	2031	64.939
+BRA-Mato Grosso, Improved	2032	65.573
+BRA-Mato Grosso, Improved	2033	66.064
+BRA-Mato Grosso, Improved	2034	66.461
+BRA-Mato Grosso, Improved	2035	66.825
+BRA-Mato Grosso, Improved	2036	67.230
+BRA-Mato Grosso, Improved	2037	67.722
+BRA-Mato Grosso, Improved	2038	68.315
+BRA-Mato Grosso, Improved	2039	68.999
+BRA-Mato Grosso, Improved	2040	69.747
+BRA-Mato Grosso, Improved	2041	70.520
+BRA-Mato Grosso, Improved	2042	71.282
+BRA-Mato Grosso, Improved	2043	72.012
+BRA-Mato Grosso, Improved	2044	72.690
+BRA-Mato Grosso, Improved	2045	73.271
+BRA-Mato Grosso, Improved	2046	73.781
+BRA-Mato Grosso, Improved	2047	74.267
+BRA-Mato Grosso, Improved	2048	74.747
+BRA-Mato Grosso, Improved	2049	75.234
+BRA-Mato Grosso, Improved	2050	75.739
+BRA-Mato Grosso do Sul, Improved	1960	 
+BRA-Mato Grosso do Sul, Improved	1961	 
+BRA-Mato Grosso do Sul, Improved	1962	 
+BRA-Mato Grosso do Sul, Improved	1963	 
+BRA-Mato Grosso do Sul, Improved	1964	 
+BRA-Mato Grosso do Sul, Improved	1965	 
+BRA-Mato Grosso do Sul, Improved	1966	 
+BRA-Mato Grosso do Sul, Improved	1967	 
+BRA-Mato Grosso do Sul, Improved	1968	 
+BRA-Mato Grosso do Sul, Improved	1969	 
+BRA-Mato Grosso do Sul, Improved	1970	 
+BRA-Mato Grosso do Sul, Improved	1971	 
+BRA-Mato Grosso do Sul, Improved	1972	 
+BRA-Mato Grosso do Sul, Improved	1973	 
+BRA-Mato Grosso do Sul, Improved	1974	 
+BRA-Mato Grosso do Sul, Improved	1975	 
+BRA-Mato Grosso do Sul, Improved	1976	 
+BRA-Mato Grosso do Sul, Improved	1977	 
+BRA-Mato Grosso do Sul, Improved	1978	 
+BRA-Mato Grosso do Sul, Improved	1979	 
+BRA-Mato Grosso do Sul, Improved	1980	 
+BRA-Mato Grosso do Sul, Improved	1981	 
+BRA-Mato Grosso do Sul, Improved	1982	 
+BRA-Mato Grosso do Sul, Improved	1983	 
+BRA-Mato Grosso do Sul, Improved	1984	 
+BRA-Mato Grosso do Sul, Improved	1985	 
+BRA-Mato Grosso do Sul, Improved	1986	 
+BRA-Mato Grosso do Sul, Improved	1987	 
+BRA-Mato Grosso do Sul, Improved	1988	 
+BRA-Mato Grosso do Sul, Improved	1989	 
+BRA-Mato Grosso do Sul, Improved	1990	 
+BRA-Mato Grosso do Sul, Improved	1991	 
+BRA-Mato Grosso do Sul, Improved	1992	 
+BRA-Mato Grosso do Sul, Improved	1993	 
+BRA-Mato Grosso do Sul, Improved	1994	 
+BRA-Mato Grosso do Sul, Improved	1995	 
+BRA-Mato Grosso do Sul, Improved	1996	 
+BRA-Mato Grosso do Sul, Improved	1997	 
+BRA-Mato Grosso do Sul, Improved	1998	 
+BRA-Mato Grosso do Sul, Improved	1999	 
+BRA-Mato Grosso do Sul, Improved	2000	 
+BRA-Mato Grosso do Sul, Improved	2001	 
+BRA-Mato Grosso do Sul, Improved	2002	 
+BRA-Mato Grosso do Sul, Improved	2003	 
+BRA-Mato Grosso do Sul, Improved	2004	 
+BRA-Mato Grosso do Sul, Improved	2005	 
+BRA-Mato Grosso do Sul, Improved	2006	 
+BRA-Mato Grosso do Sul, Improved	2007	29.673
+BRA-Mato Grosso do Sul, Improved	2008	23.786
+BRA-Mato Grosso do Sul, Improved	2009	23.913
+BRA-Mato Grosso do Sul, Improved	2010	 
+BRA-Mato Grosso do Sul, Improved	2011	39.936
+BRA-Mato Grosso do Sul, Improved	2012	54.669
+BRA-Mato Grosso do Sul, Improved	2013	50.532
+BRA-Mato Grosso do Sul, Improved	2014	37.546
+BRA-Mato Grosso do Sul, Improved	2015	49.310
+BRA-Mato Grosso do Sul, Improved	2016	50.697
+BRA-Mato Grosso do Sul, Improved	2017	51.937
+BRA-Mato Grosso do Sul, Improved	2018	53.047
+BRA-Mato Grosso do Sul, Improved	2019	53.817
+BRA-Mato Grosso do Sul, Improved	2020	54.208
+BRA-Mato Grosso do Sul, Improved	2021	54.281
+BRA-Mato Grosso do Sul, Improved	2022	54.143
+BRA-Mato Grosso do Sul, Improved	2023	54.101
+BRA-Mato Grosso do Sul, Improved	2024	54.268
+BRA-Mato Grosso do Sul, Improved	2025	54.546
+BRA-Mato Grosso do Sul, Improved	2026	54.914
+BRA-Mato Grosso do Sul, Improved	2027	55.459
+BRA-Mato Grosso do Sul, Improved	2028	56.119
+BRA-Mato Grosso do Sul, Improved	2029	56.815
+BRA-Mato Grosso do Sul, Improved	2030	57.497
+BRA-Mato Grosso do Sul, Improved	2031	58.137
+BRA-Mato Grosso do Sul, Improved	2032	58.743
+BRA-Mato Grosso do Sul, Improved	2033	59.312
+BRA-Mato Grosso do Sul, Improved	2034	59.861
+BRA-Mato Grosso do Sul, Improved	2035	60.413
+BRA-Mato Grosso do Sul, Improved	2036	60.990
+BRA-Mato Grosso do Sul, Improved	2037	61.621
+BRA-Mato Grosso do Sul, Improved	2038	62.311
+BRA-Mato Grosso do Sul, Improved	2039	63.050
+BRA-Mato Grosso do Sul, Improved	2040	63.824
+BRA-Mato Grosso do Sul, Improved	2041	64.613
+BRA-Mato Grosso do Sul, Improved	2042	65.400
+BRA-Mato Grosso do Sul, Improved	2043	66.170
+BRA-Mato Grosso do Sul, Improved	2044	66.913
+BRA-Mato Grosso do Sul, Improved	2045	67.637
+BRA-Mato Grosso do Sul, Improved	2046	68.349
+BRA-Mato Grosso do Sul, Improved	2047	69.059
+BRA-Mato Grosso do Sul, Improved	2048	69.774
+BRA-Mato Grosso do Sul, Improved	2049	70.496
+BRA-Mato Grosso do Sul, Improved	2050	71.226
+BRA-Minas Gerais, Improved	1960	 
+BRA-Minas Gerais, Improved	1961	 
+BRA-Minas Gerais, Improved	1962	 
+BRA-Minas Gerais, Improved	1963	 
+BRA-Minas Gerais, Improved	1964	 
+BRA-Minas Gerais, Improved	1965	 
+BRA-Minas Gerais, Improved	1966	 
+BRA-Minas Gerais, Improved	1967	 
+BRA-Minas Gerais, Improved	1968	 
+BRA-Minas Gerais, Improved	1969	 
+BRA-Minas Gerais, Improved	1970	 
+BRA-Minas Gerais, Improved	1971	 
+BRA-Minas Gerais, Improved	1972	 
+BRA-Minas Gerais, Improved	1973	 
+BRA-Minas Gerais, Improved	1974	 
+BRA-Minas Gerais, Improved	1975	 
+BRA-Minas Gerais, Improved	1976	 
+BRA-Minas Gerais, Improved	1977	 
+BRA-Minas Gerais, Improved	1978	 
+BRA-Minas Gerais, Improved	1979	 
+BRA-Minas Gerais, Improved	1980	 
+BRA-Minas Gerais, Improved	1981	 
+BRA-Minas Gerais, Improved	1982	 
+BRA-Minas Gerais, Improved	1983	 
+BRA-Minas Gerais, Improved	1984	 
+BRA-Minas Gerais, Improved	1985	 
+BRA-Minas Gerais, Improved	1986	 
+BRA-Minas Gerais, Improved	1987	 
+BRA-Minas Gerais, Improved	1988	 
+BRA-Minas Gerais, Improved	1989	 
+BRA-Minas Gerais, Improved	1990	 
+BRA-Minas Gerais, Improved	1991	 
+BRA-Minas Gerais, Improved	1992	 
+BRA-Minas Gerais, Improved	1993	 
+BRA-Minas Gerais, Improved	1994	 
+BRA-Minas Gerais, Improved	1995	 
+BRA-Minas Gerais, Improved	1996	 
+BRA-Minas Gerais, Improved	1997	 
+BRA-Minas Gerais, Improved	1998	 
+BRA-Minas Gerais, Improved	1999	 
+BRA-Minas Gerais, Improved	2000	 
+BRA-Minas Gerais, Improved	2001	 
+BRA-Minas Gerais, Improved	2002	 
+BRA-Minas Gerais, Improved	2003	 
+BRA-Minas Gerais, Improved	2004	 
+BRA-Minas Gerais, Improved	2005	 
+BRA-Minas Gerais, Improved	2006	 
+BRA-Minas Gerais, Improved	2007	84.325
+BRA-Minas Gerais, Improved	2008	84.720
+BRA-Minas Gerais, Improved	2009	82.951
+BRA-Minas Gerais, Improved	2010	 
+BRA-Minas Gerais, Improved	2011	85.937
+BRA-Minas Gerais, Improved	2012	87.128
+BRA-Minas Gerais, Improved	2013	86.777
+BRA-Minas Gerais, Improved	2014	86.505
+BRA-Minas Gerais, Improved	2015	87.366
+BRA-Minas Gerais, Improved	2016	87.092
+BRA-Minas Gerais, Improved	2017	87.070
+BRA-Minas Gerais, Improved	2018	87.033
+BRA-Minas Gerais, Improved	2019	87.039
+BRA-Minas Gerais, Improved	2020	87.025
+BRA-Minas Gerais, Improved	2021	87.056
+BRA-Minas Gerais, Improved	2022	87.103
+BRA-Minas Gerais, Improved	2023	87.154
+BRA-Minas Gerais, Improved	2024	87.239
+BRA-Minas Gerais, Improved	2025	87.393
+BRA-Minas Gerais, Improved	2026	87.529
+BRA-Minas Gerais, Improved	2027	87.616
+BRA-Minas Gerais, Improved	2028	87.638
+BRA-Minas Gerais, Improved	2029	87.598
+BRA-Minas Gerais, Improved	2030	87.500
+BRA-Minas Gerais, Improved	2031	87.378
+BRA-Minas Gerais, Improved	2032	87.273
+BRA-Minas Gerais, Improved	2033	87.202
+BRA-Minas Gerais, Improved	2034	87.176
+BRA-Minas Gerais, Improved	2035	87.200
+BRA-Minas Gerais, Improved	2036	87.272
+BRA-Minas Gerais, Improved	2037	87.398
+BRA-Minas Gerais, Improved	2038	87.578
+BRA-Minas Gerais, Improved	2039	87.790
+BRA-Minas Gerais, Improved	2040	88.017
+BRA-Minas Gerais, Improved	2041	88.242
+BRA-Minas Gerais, Improved	2042	88.453
+BRA-Minas Gerais, Improved	2043	88.643
+BRA-Minas Gerais, Improved	2044	88.808
+BRA-Minas Gerais, Improved	2045	88.956
+BRA-Minas Gerais, Improved	2046	89.102
+BRA-Minas Gerais, Improved	2047	89.256
+BRA-Minas Gerais, Improved	2048	89.429
+BRA-Minas Gerais, Improved	2049	89.627
+BRA-Minas Gerais, Improved	2050	89.849
+BRA-Para, Improved	1960	 
+BRA-Para, Improved	1961	 
+BRA-Para, Improved	1962	 
+BRA-Para, Improved	1963	 
+BRA-Para, Improved	1964	 
+BRA-Para, Improved	1965	 
+BRA-Para, Improved	1966	 
+BRA-Para, Improved	1967	 
+BRA-Para, Improved	1968	 
+BRA-Para, Improved	1969	 
+BRA-Para, Improved	1970	 
+BRA-Para, Improved	1971	 
+BRA-Para, Improved	1972	 
+BRA-Para, Improved	1973	 
+BRA-Para, Improved	1974	 
+BRA-Para, Improved	1975	 
+BRA-Para, Improved	1976	 
+BRA-Para, Improved	1977	 
+BRA-Para, Improved	1978	 
+BRA-Para, Improved	1979	 
+BRA-Para, Improved	1980	 
+BRA-Para, Improved	1981	 
+BRA-Para, Improved	1982	 
+BRA-Para, Improved	1983	 
+BRA-Para, Improved	1984	 
+BRA-Para, Improved	1985	 
+BRA-Para, Improved	1986	 
+BRA-Para, Improved	1987	 
+BRA-Para, Improved	1988	 
+BRA-Para, Improved	1989	 
+BRA-Para, Improved	1990	 
+BRA-Para, Improved	1991	 
+BRA-Para, Improved	1992	 
+BRA-Para, Improved	1993	 
+BRA-Para, Improved	1994	 
+BRA-Para, Improved	1995	 
+BRA-Para, Improved	1996	 
+BRA-Para, Improved	1997	 
+BRA-Para, Improved	1998	 
+BRA-Para, Improved	1999	 
+BRA-Para, Improved	2000	 
+BRA-Para, Improved	2001	 
+BRA-Para, Improved	2002	 
+BRA-Para, Improved	2003	 
+BRA-Para, Improved	2004	 
+BRA-Para, Improved	2005	 
+BRA-Para, Improved	2006	 
+BRA-Para, Improved	2007	55.109
+BRA-Para, Improved	2008	60.255
+BRA-Para, Improved	2009	59.938
+BRA-Para, Improved	2010	 
+BRA-Para, Improved	2011	56.369
+BRA-Para, Improved	2012	55.452
+BRA-Para, Improved	2013	61.268
+BRA-Para, Improved	2014	53.515
+BRA-Para, Improved	2015	67.245
+BRA-Para, Improved	2016	68.695
+BRA-Para, Improved	2017	69.644
+BRA-Para, Improved	2018	70.407
+BRA-Para, Improved	2019	70.908
+BRA-Para, Improved	2020	71.100
+BRA-Para, Improved	2021	70.994
+BRA-Para, Improved	2022	70.691
+BRA-Para, Improved	2023	70.535
+BRA-Para, Improved	2024	70.653
+BRA-Para, Improved	2025	70.886
+BRA-Para, Improved	2026	71.235
+BRA-Para, Improved	2027	71.754
+BRA-Para, Improved	2028	72.366
+BRA-Para, Improved	2029	73.018
+BRA-Para, Improved	2030	73.668
+BRA-Para, Improved	2031	74.246
+BRA-Para, Improved	2032	74.736
+BRA-Para, Improved	2033	75.164
+BRA-Para, Improved	2034	75.584
+BRA-Para, Improved	2035	75.999
+BRA-Para, Improved	2036	76.423
+BRA-Para, Improved	2037	76.870
+BRA-Para, Improved	2038	77.322
+BRA-Para, Improved	2039	77.785
+BRA-Para, Improved	2040	78.262
+BRA-Para, Improved	2041	78.735
+BRA-Para, Improved	2042	79.195
+BRA-Para, Improved	2043	79.627
+BRA-Para, Improved	2044	80.031
+BRA-Para, Improved	2045	80.414
+BRA-Para, Improved	2046	80.788
+BRA-Para, Improved	2047	81.162
+BRA-Para, Improved	2048	81.543
+BRA-Para, Improved	2049	81.936
+BRA-Para, Improved	2050	82.340
+BRA-Paraiba, Improved	1960	 
+BRA-Paraiba, Improved	1961	 
+BRA-Paraiba, Improved	1962	 
+BRA-Paraiba, Improved	1963	 
+BRA-Paraiba, Improved	1964	 
+BRA-Paraiba, Improved	1965	 
+BRA-Paraiba, Improved	1966	 
+BRA-Paraiba, Improved	1967	 
+BRA-Paraiba, Improved	1968	 
+BRA-Paraiba, Improved	1969	 
+BRA-Paraiba, Improved	1970	 
+BRA-Paraiba, Improved	1971	 
+BRA-Paraiba, Improved	1972	 
+BRA-Paraiba, Improved	1973	 
+BRA-Paraiba, Improved	1974	 
+BRA-Paraiba, Improved	1975	 
+BRA-Paraiba, Improved	1976	 
+BRA-Paraiba, Improved	1977	 
+BRA-Paraiba, Improved	1978	 
+BRA-Paraiba, Improved	1979	 
+BRA-Paraiba, Improved	1980	 
+BRA-Paraiba, Improved	1981	 
+BRA-Paraiba, Improved	1982	 
+BRA-Paraiba, Improved	1983	 
+BRA-Paraiba, Improved	1984	 
+BRA-Paraiba, Improved	1985	 
+BRA-Paraiba, Improved	1986	 
+BRA-Paraiba, Improved	1987	 
+BRA-Paraiba, Improved	1988	 
+BRA-Paraiba, Improved	1989	 
+BRA-Paraiba, Improved	1990	 
+BRA-Paraiba, Improved	1991	 
+BRA-Paraiba, Improved	1992	 
+BRA-Paraiba, Improved	1993	 
+BRA-Paraiba, Improved	1994	 
+BRA-Paraiba, Improved	1995	 
+BRA-Paraiba, Improved	1996	 
+BRA-Paraiba, Improved	1997	 
+BRA-Paraiba, Improved	1998	 
+BRA-Paraiba, Improved	1999	 
+BRA-Paraiba, Improved	2000	 
+BRA-Paraiba, Improved	2001	 
+BRA-Paraiba, Improved	2002	 
+BRA-Paraiba, Improved	2003	 
+BRA-Paraiba, Improved	2004	 
+BRA-Paraiba, Improved	2005	 
+BRA-Paraiba, Improved	2006	 
+BRA-Paraiba, Improved	2007	62.922
+BRA-Paraiba, Improved	2008	63.529
+BRA-Paraiba, Improved	2009	59.099
+BRA-Paraiba, Improved	2010	 
+BRA-Paraiba, Improved	2011	66.754
+BRA-Paraiba, Improved	2012	76.343
+BRA-Paraiba, Improved	2013	67.901
+BRA-Paraiba, Improved	2014	74.318
+BRA-Paraiba, Improved	2015	74.454
+BRA-Paraiba, Improved	2016	74.996
+BRA-Paraiba, Improved	2017	75.653
+BRA-Paraiba, Improved	2018	76.267
+BRA-Paraiba, Improved	2019	76.717
+BRA-Paraiba, Improved	2020	76.988
+BRA-Paraiba, Improved	2021	77.095
+BRA-Paraiba, Improved	2022	77.081
+BRA-Paraiba, Improved	2023	77.079
+BRA-Paraiba, Improved	2024	77.316
+BRA-Paraiba, Improved	2025	77.598
+BRA-Paraiba, Improved	2026	77.881
+BRA-Paraiba, Improved	2027	78.202
+BRA-Paraiba, Improved	2028	78.535
+BRA-Paraiba, Improved	2029	78.857
+BRA-Paraiba, Improved	2030	79.160
+BRA-Paraiba, Improved	2031	79.428
+BRA-Paraiba, Improved	2032	79.725
+BRA-Paraiba, Improved	2033	80.076
+BRA-Paraiba, Improved	2034	80.524
+BRA-Paraiba, Improved	2035	81.135
+BRA-Paraiba, Improved	2036	81.922
+BRA-Paraiba, Improved	2037	82.890
+BRA-Paraiba, Improved	2038	84.033
+BRA-Paraiba, Improved	2039	85.430
+BRA-Paraiba, Improved	2040	87.078
+BRA-Paraiba, Improved	2041	88.948
+BRA-Paraiba, Improved	2042	90.993
+BRA-Paraiba, Improved	2043	93.148
+BRA-Paraiba, Improved	2044	95.316
+BRA-Paraiba, Improved	2045	97.368
+BRA-Paraiba, Improved	2046	99.106
+BRA-Paraiba, Improved	2047	100.000
+BRA-Paraiba, Improved	2048	100.000
+BRA-Paraiba, Improved	2049	100.000
+BRA-Paraiba, Improved	2050	100.000
+BRA-Parana, Improved	1960	 
+BRA-Parana, Improved	1961	 
+BRA-Parana, Improved	1962	 
+BRA-Parana, Improved	1963	 
+BRA-Parana, Improved	1964	 
+BRA-Parana, Improved	1965	 
+BRA-Parana, Improved	1966	 
+BRA-Parana, Improved	1967	 
+BRA-Parana, Improved	1968	 
+BRA-Parana, Improved	1969	 
+BRA-Parana, Improved	1970	 
+BRA-Parana, Improved	1971	 
+BRA-Parana, Improved	1972	 
+BRA-Parana, Improved	1973	 
+BRA-Parana, Improved	1974	 
+BRA-Parana, Improved	1975	 
+BRA-Parana, Improved	1976	 
+BRA-Parana, Improved	1977	 
+BRA-Parana, Improved	1978	 
+BRA-Parana, Improved	1979	 
+BRA-Parana, Improved	1980	 
+BRA-Parana, Improved	1981	 
+BRA-Parana, Improved	1982	 
+BRA-Parana, Improved	1983	 
+BRA-Parana, Improved	1984	 
+BRA-Parana, Improved	1985	 
+BRA-Parana, Improved	1986	 
+BRA-Parana, Improved	1987	 
+BRA-Parana, Improved	1988	 
+BRA-Parana, Improved	1989	 
+BRA-Parana, Improved	1990	 
+BRA-Parana, Improved	1991	 
+BRA-Parana, Improved	1992	 
+BRA-Parana, Improved	1993	 
+BRA-Parana, Improved	1994	 
+BRA-Parana, Improved	1995	 
+BRA-Parana, Improved	1996	 
+BRA-Parana, Improved	1997	 
+BRA-Parana, Improved	1998	 
+BRA-Parana, Improved	1999	 
+BRA-Parana, Improved	2000	 
+BRA-Parana, Improved	2001	 
+BRA-Parana, Improved	2002	 
+BRA-Parana, Improved	2003	 
+BRA-Parana, Improved	2004	 
+BRA-Parana, Improved	2005	 
+BRA-Parana, Improved	2006	 
+BRA-Parana, Improved	2007	72.950
+BRA-Parana, Improved	2008	73.759
+BRA-Parana, Improved	2009	77.141
+BRA-Parana, Improved	2010	 
+BRA-Parana, Improved	2011	76.427
+BRA-Parana, Improved	2012	80.221
+BRA-Parana, Improved	2013	78.930
+BRA-Parana, Improved	2014	76.600
+BRA-Parana, Improved	2015	84.251
+BRA-Parana, Improved	2016	84.111
+BRA-Parana, Improved	2017	84.417
+BRA-Parana, Improved	2018	84.522
+BRA-Parana, Improved	2019	84.500
+BRA-Parana, Improved	2020	84.458
+BRA-Parana, Improved	2021	84.359
+BRA-Parana, Improved	2022	84.205
+BRA-Parana, Improved	2023	84.003
+BRA-Parana, Improved	2024	83.814
+BRA-Parana, Improved	2025	83.770
+BRA-Parana, Improved	2026	83.788
+BRA-Parana, Improved	2027	83.843
+BRA-Parana, Improved	2028	83.942
+BRA-Parana, Improved	2029	84.097
+BRA-Parana, Improved	2030	84.311
+BRA-Parana, Improved	2031	84.488
+BRA-Parana, Improved	2032	84.580
+BRA-Parana, Improved	2033	84.594
+BRA-Parana, Improved	2034	84.542
+BRA-Parana, Improved	2035	84.486
+BRA-Parana, Improved	2036	84.463
+BRA-Parana, Improved	2037	84.506
+BRA-Parana, Improved	2038	84.636
+BRA-Parana, Improved	2039	84.858
+BRA-Parana, Improved	2040	85.159
+BRA-Parana, Improved	2041	85.514
+BRA-Parana, Improved	2042	85.891
+BRA-Parana, Improved	2043	86.257
+BRA-Parana, Improved	2044	86.590
+BRA-Parana, Improved	2045	86.883
+BRA-Parana, Improved	2046	87.142
+BRA-Parana, Improved	2047	87.379
+BRA-Parana, Improved	2048	87.605
+BRA-Parana, Improved	2049	87.834
+BRA-Parana, Improved	2050	88.074
+BRA-Pernambuco, Improved	1960	 
+BRA-Pernambuco, Improved	1961	 
+BRA-Pernambuco, Improved	1962	 
+BRA-Pernambuco, Improved	1963	 
+BRA-Pernambuco, Improved	1964	 
+BRA-Pernambuco, Improved	1965	 
+BRA-Pernambuco, Improved	1966	 
+BRA-Pernambuco, Improved	1967	 
+BRA-Pernambuco, Improved	1968	 
+BRA-Pernambuco, Improved	1969	 
+BRA-Pernambuco, Improved	1970	 
+BRA-Pernambuco, Improved	1971	 
+BRA-Pernambuco, Improved	1972	 
+BRA-Pernambuco, Improved	1973	 
+BRA-Pernambuco, Improved	1974	 
+BRA-Pernambuco, Improved	1975	 
+BRA-Pernambuco, Improved	1976	 
+BRA-Pernambuco, Improved	1977	 
+BRA-Pernambuco, Improved	1978	 
+BRA-Pernambuco, Improved	1979	 
+BRA-Pernambuco, Improved	1980	 
+BRA-Pernambuco, Improved	1981	 
+BRA-Pernambuco, Improved	1982	 
+BRA-Pernambuco, Improved	1983	 
+BRA-Pernambuco, Improved	1984	 
+BRA-Pernambuco, Improved	1985	 
+BRA-Pernambuco, Improved	1986	 
+BRA-Pernambuco, Improved	1987	 
+BRA-Pernambuco, Improved	1988	 
+BRA-Pernambuco, Improved	1989	 
+BRA-Pernambuco, Improved	1990	 
+BRA-Pernambuco, Improved	1991	 
+BRA-Pernambuco, Improved	1992	 
+BRA-Pernambuco, Improved	1993	 
+BRA-Pernambuco, Improved	1994	 
+BRA-Pernambuco, Improved	1995	 
+BRA-Pernambuco, Improved	1996	 
+BRA-Pernambuco, Improved	1997	 
+BRA-Pernambuco, Improved	1998	 
+BRA-Pernambuco, Improved	1999	 
+BRA-Pernambuco, Improved	2000	 
+BRA-Pernambuco, Improved	2001	 
+BRA-Pernambuco, Improved	2002	 
+BRA-Pernambuco, Improved	2003	 
+BRA-Pernambuco, Improved	2004	 
+BRA-Pernambuco, Improved	2005	 
+BRA-Pernambuco, Improved	2006	 
+BRA-Pernambuco, Improved	2007	59.826
+BRA-Pernambuco, Improved	2008	57.742
+BRA-Pernambuco, Improved	2009	52.186
+BRA-Pernambuco, Improved	2010	 
+BRA-Pernambuco, Improved	2011	74.409
+BRA-Pernambuco, Improved	2012	70.064
+BRA-Pernambuco, Improved	2013	65.098
+BRA-Pernambuco, Improved	2014	72.376
+BRA-Pernambuco, Improved	2015	75.646
+BRA-Pernambuco, Improved	2016	75.997
+BRA-Pernambuco, Improved	2017	76.290
+BRA-Pernambuco, Improved	2018	76.627
+BRA-Pernambuco, Improved	2019	76.882
+BRA-Pernambuco, Improved	2020	77.112
+BRA-Pernambuco, Improved	2021	77.349
+BRA-Pernambuco, Improved	2022	77.608
+BRA-Pernambuco, Improved	2023	77.899
+BRA-Pernambuco, Improved	2024	78.220
+BRA-Pernambuco, Improved	2025	78.563
+BRA-Pernambuco, Improved	2026	78.917
+BRA-Pernambuco, Improved	2027	79.247
+BRA-Pernambuco, Improved	2028	79.537
+BRA-Pernambuco, Improved	2029	79.799
+BRA-Pernambuco, Improved	2030	80.031
+BRA-Pernambuco, Improved	2031	80.217
+BRA-Pernambuco, Improved	2032	80.375
+BRA-Pernambuco, Improved	2033	80.543
+BRA-Pernambuco, Improved	2034	80.747
+BRA-Pernambuco, Improved	2035	80.964
+BRA-Pernambuco, Improved	2036	81.215
+BRA-Pernambuco, Improved	2037	81.500
+BRA-Pernambuco, Improved	2038	81.812
+BRA-Pernambuco, Improved	2039	82.140
+BRA-Pernambuco, Improved	2040	82.471
+BRA-Pernambuco, Improved	2041	82.821
+BRA-Pernambuco, Improved	2042	83.164
+BRA-Pernambuco, Improved	2043	83.479
+BRA-Pernambuco, Improved	2044	83.763
+BRA-Pernambuco, Improved	2045	84.032
+BRA-Pernambuco, Improved	2046	84.298
+BRA-Pernambuco, Improved	2047	84.571
+BRA-Pernambuco, Improved	2048	84.855
+BRA-Pernambuco, Improved	2049	85.157
+BRA-Pernambuco, Improved	2050	85.475
+BRA-Piaui, Improved	1960	 
+BRA-Piaui, Improved	1961	 
+BRA-Piaui, Improved	1962	 
+BRA-Piaui, Improved	1963	 
+BRA-Piaui, Improved	1964	 
+BRA-Piaui, Improved	1965	 
+BRA-Piaui, Improved	1966	 
+BRA-Piaui, Improved	1967	 
+BRA-Piaui, Improved	1968	 
+BRA-Piaui, Improved	1969	 
+BRA-Piaui, Improved	1970	 
+BRA-Piaui, Improved	1971	 
+BRA-Piaui, Improved	1972	 
+BRA-Piaui, Improved	1973	 
+BRA-Piaui, Improved	1974	 
+BRA-Piaui, Improved	1975	 
+BRA-Piaui, Improved	1976	 
+BRA-Piaui, Improved	1977	 
+BRA-Piaui, Improved	1978	 
+BRA-Piaui, Improved	1979	 
+BRA-Piaui, Improved	1980	 
+BRA-Piaui, Improved	1981	 
+BRA-Piaui, Improved	1982	 
+BRA-Piaui, Improved	1983	 
+BRA-Piaui, Improved	1984	 
+BRA-Piaui, Improved	1985	 
+BRA-Piaui, Improved	1986	 
+BRA-Piaui, Improved	1987	 
+BRA-Piaui, Improved	1988	 
+BRA-Piaui, Improved	1989	 
+BRA-Piaui, Improved	1990	 
+BRA-Piaui, Improved	1991	 
+BRA-Piaui, Improved	1992	 
+BRA-Piaui, Improved	1993	 
+BRA-Piaui, Improved	1994	 
+BRA-Piaui, Improved	1995	 
+BRA-Piaui, Improved	1996	 
+BRA-Piaui, Improved	1997	 
+BRA-Piaui, Improved	1998	 
+BRA-Piaui, Improved	1999	 
+BRA-Piaui, Improved	2000	 
+BRA-Piaui, Improved	2001	 
+BRA-Piaui, Improved	2002	 
+BRA-Piaui, Improved	2003	 
+BRA-Piaui, Improved	2004	 
+BRA-Piaui, Improved	2005	 
+BRA-Piaui, Improved	2006	 
+BRA-Piaui, Improved	2007	59.049
+BRA-Piaui, Improved	2008	59.514
+BRA-Piaui, Improved	2009	60.797
+BRA-Piaui, Improved	2010	 
+BRA-Piaui, Improved	2011	72.132
+BRA-Piaui, Improved	2012	73.839
+BRA-Piaui, Improved	2013	81.099
+BRA-Piaui, Improved	2014	82.123
+BRA-Piaui, Improved	2015	84.311
+BRA-Piaui, Improved	2016	84.693
+BRA-Piaui, Improved	2017	85.398
+BRA-Piaui, Improved	2018	86.177
+BRA-Piaui, Improved	2019	86.945
+BRA-Piaui, Improved	2020	87.659
+BRA-Piaui, Improved	2021	88.340
+BRA-Piaui, Improved	2022	89.249
+BRA-Piaui, Improved	2023	90.413
+BRA-Piaui, Improved	2024	91.835
+BRA-Piaui, Improved	2025	93.489
+BRA-Piaui, Improved	2026	95.319
+BRA-Piaui, Improved	2027	97.235
+BRA-Piaui, Improved	2028	99.095
+BRA-Piaui, Improved	2029	100.000
+BRA-Piaui, Improved	2030	100.000
+BRA-Piaui, Improved	2031	100.000
+BRA-Piaui, Improved	2032	100.000
+BRA-Piaui, Improved	2033	100.000
+BRA-Piaui, Improved	2034	100.000
+BRA-Piaui, Improved	2035	100.000
+BRA-Piaui, Improved	2036	100.000
+BRA-Piaui, Improved	2037	99.986
+BRA-Piaui, Improved	2038	99.951
+BRA-Piaui, Improved	2039	99.898
+BRA-Piaui, Improved	2040	99.835
+BRA-Piaui, Improved	2041	99.768
+BRA-Piaui, Improved	2042	99.706
+BRA-Piaui, Improved	2043	99.654
+BRA-Piaui, Improved	2044	99.615
+BRA-Piaui, Improved	2045	99.604
+BRA-Piaui, Improved	2046	99.626
+BRA-Piaui, Improved	2047	99.683
+BRA-Piaui, Improved	2048	99.766
+BRA-Piaui, Improved	2049	99.864
+BRA-Piaui, Improved	2050	99.964
+BRA-Rio de Janeiro, Improved	1960	 
+BRA-Rio de Janeiro, Improved	1961	 
+BRA-Rio de Janeiro, Improved	1962	 
+BRA-Rio de Janeiro, Improved	1963	 
+BRA-Rio de Janeiro, Improved	1964	 
+BRA-Rio de Janeiro, Improved	1965	 
+BRA-Rio de Janeiro, Improved	1966	 
+BRA-Rio de Janeiro, Improved	1967	 
+BRA-Rio de Janeiro, Improved	1968	 
+BRA-Rio de Janeiro, Improved	1969	 
+BRA-Rio de Janeiro, Improved	1970	 
+BRA-Rio de Janeiro, Improved	1971	 
+BRA-Rio de Janeiro, Improved	1972	 
+BRA-Rio de Janeiro, Improved	1973	 
+BRA-Rio de Janeiro, Improved	1974	 
+BRA-Rio de Janeiro, Improved	1975	 
+BRA-Rio de Janeiro, Improved	1976	 
+BRA-Rio de Janeiro, Improved	1977	 
+BRA-Rio de Janeiro, Improved	1978	 
+BRA-Rio de Janeiro, Improved	1979	 
+BRA-Rio de Janeiro, Improved	1980	 
+BRA-Rio de Janeiro, Improved	1981	 
+BRA-Rio de Janeiro, Improved	1982	 
+BRA-Rio de Janeiro, Improved	1983	 
+BRA-Rio de Janeiro, Improved	1984	 
+BRA-Rio de Janeiro, Improved	1985	 
+BRA-Rio de Janeiro, Improved	1986	 
+BRA-Rio de Janeiro, Improved	1987	 
+BRA-Rio de Janeiro, Improved	1988	 
+BRA-Rio de Janeiro, Improved	1989	 
+BRA-Rio de Janeiro, Improved	1990	 
+BRA-Rio de Janeiro, Improved	1991	 
+BRA-Rio de Janeiro, Improved	1992	 
+BRA-Rio de Janeiro, Improved	1993	 
+BRA-Rio de Janeiro, Improved	1994	 
+BRA-Rio de Janeiro, Improved	1995	 
+BRA-Rio de Janeiro, Improved	1996	 
+BRA-Rio de Janeiro, Improved	1997	 
+BRA-Rio de Janeiro, Improved	1998	 
+BRA-Rio de Janeiro, Improved	1999	 
+BRA-Rio de Janeiro, Improved	2000	 
+BRA-Rio de Janeiro, Improved	2001	 
+BRA-Rio de Janeiro, Improved	2002	 
+BRA-Rio de Janeiro, Improved	2003	 
+BRA-Rio de Janeiro, Improved	2004	 
+BRA-Rio de Janeiro, Improved	2005	 
+BRA-Rio de Janeiro, Improved	2006	 
+BRA-Rio de Janeiro, Improved	2007	96.306
+BRA-Rio de Janeiro, Improved	2008	94.714
+BRA-Rio de Janeiro, Improved	2009	93.779
+BRA-Rio de Janeiro, Improved	2010	 
+BRA-Rio de Janeiro, Improved	2011	97.759
+BRA-Rio de Janeiro, Improved	2012	97.312
+BRA-Rio de Janeiro, Improved	2013	97.165
+BRA-Rio de Janeiro, Improved	2014	97.935
+BRA-Rio de Janeiro, Improved	2015	98.274
+BRA-Rio de Janeiro, Improved	2016	97.529
+BRA-Rio de Janeiro, Improved	2017	97.380
+BRA-Rio de Janeiro, Improved	2018	97.154
+BRA-Rio de Janeiro, Improved	2019	97.024
+BRA-Rio de Janeiro, Improved	2020	96.903
+BRA-Rio de Janeiro, Improved	2021	96.828
+BRA-Rio de Janeiro, Improved	2022	96.807
+BRA-Rio de Janeiro, Improved	2023	96.859
+BRA-Rio de Janeiro, Improved	2024	96.963
+BRA-Rio de Janeiro, Improved	2025	97.095
+BRA-Rio de Janeiro, Improved	2026	97.228
+BRA-Rio de Janeiro, Improved	2027	97.336
+BRA-Rio de Janeiro, Improved	2028	97.403
+BRA-Rio de Janeiro, Improved	2029	97.437
+BRA-Rio de Janeiro, Improved	2030	97.455
+BRA-Rio de Janeiro, Improved	2031	97.422
+BRA-Rio de Janeiro, Improved	2032	97.344
+BRA-Rio de Janeiro, Improved	2033	97.256
+BRA-Rio de Janeiro, Improved	2034	97.195
+BRA-Rio de Janeiro, Improved	2035	97.195
+BRA-Rio de Janeiro, Improved	2036	97.269
+BRA-Rio de Janeiro, Improved	2037	97.437
+BRA-Rio de Janeiro, Improved	2038	97.605
+BRA-Rio de Janeiro, Improved	2039	97.758
+BRA-Rio de Janeiro, Improved	2040	97.895
+BRA-Rio de Janeiro, Improved	2041	98.009
+BRA-Rio de Janeiro, Improved	2042	98.095
+BRA-Rio de Janeiro, Improved	2043	98.153
+BRA-Rio de Janeiro, Improved	2044	98.186
+BRA-Rio de Janeiro, Improved	2045	98.204
+BRA-Rio de Janeiro, Improved	2046	98.215
+BRA-Rio de Janeiro, Improved	2047	98.226
+BRA-Rio de Janeiro, Improved	2048	98.238
+BRA-Rio de Janeiro, Improved	2049	98.262
+BRA-Rio de Janeiro, Improved	2050	98.296
+BRA-Rio Grande do Norte, Improved	1960	 
+BRA-Rio Grande do Norte, Improved	1961	 
+BRA-Rio Grande do Norte, Improved	1962	 
+BRA-Rio Grande do Norte, Improved	1963	 
+BRA-Rio Grande do Norte, Improved	1964	 
+BRA-Rio Grande do Norte, Improved	1965	 
+BRA-Rio Grande do Norte, Improved	1966	 
+BRA-Rio Grande do Norte, Improved	1967	 
+BRA-Rio Grande do Norte, Improved	1968	 
+BRA-Rio Grande do Norte, Improved	1969	 
+BRA-Rio Grande do Norte, Improved	1970	 
+BRA-Rio Grande do Norte, Improved	1971	 
+BRA-Rio Grande do Norte, Improved	1972	 
+BRA-Rio Grande do Norte, Improved	1973	 
+BRA-Rio Grande do Norte, Improved	1974	 
+BRA-Rio Grande do Norte, Improved	1975	 
+BRA-Rio Grande do Norte, Improved	1976	 
+BRA-Rio Grande do Norte, Improved	1977	 
+BRA-Rio Grande do Norte, Improved	1978	 
+BRA-Rio Grande do Norte, Improved	1979	 
+BRA-Rio Grande do Norte, Improved	1980	 
+BRA-Rio Grande do Norte, Improved	1981	 
+BRA-Rio Grande do Norte, Improved	1982	 
+BRA-Rio Grande do Norte, Improved	1983	 
+BRA-Rio Grande do Norte, Improved	1984	 
+BRA-Rio Grande do Norte, Improved	1985	 
+BRA-Rio Grande do Norte, Improved	1986	 
+BRA-Rio Grande do Norte, Improved	1987	 
+BRA-Rio Grande do Norte, Improved	1988	 
+BRA-Rio Grande do Norte, Improved	1989	 
+BRA-Rio Grande do Norte, Improved	1990	 
+BRA-Rio Grande do Norte, Improved	1991	 
+BRA-Rio Grande do Norte, Improved	1992	 
+BRA-Rio Grande do Norte, Improved	1993	 
+BRA-Rio Grande do Norte, Improved	1994	 
+BRA-Rio Grande do Norte, Improved	1995	 
+BRA-Rio Grande do Norte, Improved	1996	 
+BRA-Rio Grande do Norte, Improved	1997	 
+BRA-Rio Grande do Norte, Improved	1998	 
+BRA-Rio Grande do Norte, Improved	1999	 
+BRA-Rio Grande do Norte, Improved	2000	 
+BRA-Rio Grande do Norte, Improved	2001	 
+BRA-Rio Grande do Norte, Improved	2002	 
+BRA-Rio Grande do Norte, Improved	2003	 
+BRA-Rio Grande do Norte, Improved	2004	 
+BRA-Rio Grande do Norte, Improved	2005	 
+BRA-Rio Grande do Norte, Improved	2006	 
+BRA-Rio Grande do Norte, Improved	2007	56.933
+BRA-Rio Grande do Norte, Improved	2008	50.201
+BRA-Rio Grande do Norte, Improved	2009	47.890
+BRA-Rio Grande do Norte, Improved	2010	 
+BRA-Rio Grande do Norte, Improved	2011	76.729
+BRA-Rio Grande do Norte, Improved	2012	83.490
+BRA-Rio Grande do Norte, Improved	2013	61.109
+BRA-Rio Grande do Norte, Improved	2014	67.220
+BRA-Rio Grande do Norte, Improved	2015	59.659
+BRA-Rio Grande do Norte, Improved	2016	60.098
+BRA-Rio Grande do Norte, Improved	2017	60.533
+BRA-Rio Grande do Norte, Improved	2018	61.029
+BRA-Rio Grande do Norte, Improved	2019	61.448
+BRA-Rio Grande do Norte, Improved	2020	61.933
+BRA-Rio Grande do Norte, Improved	2021	62.727
+BRA-Rio Grande do Norte, Improved	2022	63.506
+BRA-Rio Grande do Norte, Improved	2023	64.198
+BRA-Rio Grande do Norte, Improved	2024	64.777
+BRA-Rio Grande do Norte, Improved	2025	65.239
+BRA-Rio Grande do Norte, Improved	2026	65.602
+BRA-Rio Grande do Norte, Improved	2027	65.900
+BRA-Rio Grande do Norte, Improved	2028	66.176
+BRA-Rio Grande do Norte, Improved	2029	66.469
+BRA-Rio Grande do Norte, Improved	2030	66.809
+BRA-Rio Grande do Norte, Improved	2031	67.214
+BRA-Rio Grande do Norte, Improved	2032	67.687
+BRA-Rio Grande do Norte, Improved	2033	68.219
+BRA-Rio Grande do Norte, Improved	2034	68.825
+BRA-Rio Grande do Norte, Improved	2035	69.457
+BRA-Rio Grande do Norte, Improved	2036	70.097
+BRA-Rio Grande do Norte, Improved	2037	70.730
+BRA-Rio Grande do Norte, Improved	2038	71.344
+BRA-Rio Grande do Norte, Improved	2039	71.939
+BRA-Rio Grande do Norte, Improved	2040	72.514
+BRA-Rio Grande do Norte, Improved	2041	73.071
+BRA-Rio Grande do Norte, Improved	2042	73.612
+BRA-Rio Grande do Norte, Improved	2043	74.129
+BRA-Rio Grande do Norte, Improved	2044	74.621
+BRA-Rio Grande do Norte, Improved	2045	75.110
+BRA-Rio Grande do Norte, Improved	2046	75.607
+BRA-Rio Grande do Norte, Improved	2047	76.117
+BRA-Rio Grande do Norte, Improved	2048	76.643
+BRA-Rio Grande do Norte, Improved	2049	77.186
+BRA-Rio Grande do Norte, Improved	2050	77.740
+BRA-Rio Grande do Sul, Improved	1960	 
+BRA-Rio Grande do Sul, Improved	1961	 
+BRA-Rio Grande do Sul, Improved	1962	 
+BRA-Rio Grande do Sul, Improved	1963	 
+BRA-Rio Grande do Sul, Improved	1964	 
+BRA-Rio Grande do Sul, Improved	1965	 
+BRA-Rio Grande do Sul, Improved	1966	 
+BRA-Rio Grande do Sul, Improved	1967	 
+BRA-Rio Grande do Sul, Improved	1968	 
+BRA-Rio Grande do Sul, Improved	1969	 
+BRA-Rio Grande do Sul, Improved	1970	 
+BRA-Rio Grande do Sul, Improved	1971	 
+BRA-Rio Grande do Sul, Improved	1972	 
+BRA-Rio Grande do Sul, Improved	1973	 
+BRA-Rio Grande do Sul, Improved	1974	 
+BRA-Rio Grande do Sul, Improved	1975	 
+BRA-Rio Grande do Sul, Improved	1976	 
+BRA-Rio Grande do Sul, Improved	1977	 
+BRA-Rio Grande do Sul, Improved	1978	 
+BRA-Rio Grande do Sul, Improved	1979	 
+BRA-Rio Grande do Sul, Improved	1980	 
+BRA-Rio Grande do Sul, Improved	1981	 
+BRA-Rio Grande do Sul, Improved	1982	 
+BRA-Rio Grande do Sul, Improved	1983	 
+BRA-Rio Grande do Sul, Improved	1984	 
+BRA-Rio Grande do Sul, Improved	1985	 
+BRA-Rio Grande do Sul, Improved	1986	 
+BRA-Rio Grande do Sul, Improved	1987	 
+BRA-Rio Grande do Sul, Improved	1988	 
+BRA-Rio Grande do Sul, Improved	1989	 
+BRA-Rio Grande do Sul, Improved	1990	 
+BRA-Rio Grande do Sul, Improved	1991	 
+BRA-Rio Grande do Sul, Improved	1992	 
+BRA-Rio Grande do Sul, Improved	1993	 
+BRA-Rio Grande do Sul, Improved	1994	 
+BRA-Rio Grande do Sul, Improved	1995	 
+BRA-Rio Grande do Sul, Improved	1996	 
+BRA-Rio Grande do Sul, Improved	1997	 
+BRA-Rio Grande do Sul, Improved	1998	 
+BRA-Rio Grande do Sul, Improved	1999	 
+BRA-Rio Grande do Sul, Improved	2000	 
+BRA-Rio Grande do Sul, Improved	2001	 
+BRA-Rio Grande do Sul, Improved	2002	 
+BRA-Rio Grande do Sul, Improved	2003	 
+BRA-Rio Grande do Sul, Improved	2004	 
+BRA-Rio Grande do Sul, Improved	2005	 
+BRA-Rio Grande do Sul, Improved	2006	 
+BRA-Rio Grande do Sul, Improved	2007	85.738
+BRA-Rio Grande do Sul, Improved	2008	80.644
+BRA-Rio Grande do Sul, Improved	2009	84.832
+BRA-Rio Grande do Sul, Improved	2010	 
+BRA-Rio Grande do Sul, Improved	2011	87.574
+BRA-Rio Grande do Sul, Improved	2012	86.933
+BRA-Rio Grande do Sul, Improved	2013	86.044
+BRA-Rio Grande do Sul, Improved	2014	86.229
+BRA-Rio Grande do Sul, Improved	2015	91.690
+BRA-Rio Grande do Sul, Improved	2016	91.422
+BRA-Rio Grande do Sul, Improved	2017	91.496
+BRA-Rio Grande do Sul, Improved	2018	91.413
+BRA-Rio Grande do Sul, Improved	2019	91.321
+BRA-Rio Grande do Sul, Improved	2020	91.267
+BRA-Rio Grande do Sul, Improved	2021	91.237
+BRA-Rio Grande do Sul, Improved	2022	91.246
+BRA-Rio Grande do Sul, Improved	2023	91.285
+BRA-Rio Grande do Sul, Improved	2024	91.326
+BRA-Rio Grande do Sul, Improved	2025	91.355
+BRA-Rio Grande do Sul, Improved	2026	91.372
+BRA-Rio Grande do Sul, Improved	2027	91.359
+BRA-Rio Grande do Sul, Improved	2028	91.311
+BRA-Rio Grande do Sul, Improved	2029	91.214
+BRA-Rio Grande do Sul, Improved	2030	91.050
+BRA-Rio Grande do Sul, Improved	2031	90.855
+BRA-Rio Grande do Sul, Improved	2032	90.676
+BRA-Rio Grande do Sul, Improved	2033	90.556
+BRA-Rio Grande do Sul, Improved	2034	90.520
+BRA-Rio Grande do Sul, Improved	2035	90.593
+BRA-Rio Grande do Sul, Improved	2036	90.757
+BRA-Rio Grande do Sul, Improved	2037	90.982
+BRA-Rio Grande do Sul, Improved	2038	91.234
+BRA-Rio Grande do Sul, Improved	2039	91.485
+BRA-Rio Grande do Sul, Improved	2040	91.715
+BRA-Rio Grande do Sul, Improved	2041	91.913
+BRA-Rio Grande do Sul, Improved	2042	92.074
+BRA-Rio Grande do Sul, Improved	2043	92.198
+BRA-Rio Grande do Sul, Improved	2044	92.291
+BRA-Rio Grande do Sul, Improved	2045	92.367
+BRA-Rio Grande do Sul, Improved	2046	92.445
+BRA-Rio Grande do Sul, Improved	2047	92.539
+BRA-Rio Grande do Sul, Improved	2048	92.661
+BRA-Rio Grande do Sul, Improved	2049	92.814
+BRA-Rio Grande do Sul, Improved	2050	92.991
+BRA-Rondonia, Improved	1960	 
+BRA-Rondonia, Improved	1961	 
+BRA-Rondonia, Improved	1962	 
+BRA-Rondonia, Improved	1963	 
+BRA-Rondonia, Improved	1964	 
+BRA-Rondonia, Improved	1965	 
+BRA-Rondonia, Improved	1966	 
+BRA-Rondonia, Improved	1967	 
+BRA-Rondonia, Improved	1968	 
+BRA-Rondonia, Improved	1969	 
+BRA-Rondonia, Improved	1970	 
+BRA-Rondonia, Improved	1971	 
+BRA-Rondonia, Improved	1972	 
+BRA-Rondonia, Improved	1973	 
+BRA-Rondonia, Improved	1974	 
+BRA-Rondonia, Improved	1975	 
+BRA-Rondonia, Improved	1976	 
+BRA-Rondonia, Improved	1977	 
+BRA-Rondonia, Improved	1978	 
+BRA-Rondonia, Improved	1979	 
+BRA-Rondonia, Improved	1980	 
+BRA-Rondonia, Improved	1981	 
+BRA-Rondonia, Improved	1982	 
+BRA-Rondonia, Improved	1983	 
+BRA-Rondonia, Improved	1984	 
+BRA-Rondonia, Improved	1985	 
+BRA-Rondonia, Improved	1986	 
+BRA-Rondonia, Improved	1987	 
+BRA-Rondonia, Improved	1988	 
+BRA-Rondonia, Improved	1989	 
+BRA-Rondonia, Improved	1990	 
+BRA-Rondonia, Improved	1991	 
+BRA-Rondonia, Improved	1992	 
+BRA-Rondonia, Improved	1993	 
+BRA-Rondonia, Improved	1994	 
+BRA-Rondonia, Improved	1995	 
+BRA-Rondonia, Improved	1996	 
+BRA-Rondonia, Improved	1997	 
+BRA-Rondonia, Improved	1998	 
+BRA-Rondonia, Improved	1999	 
+BRA-Rondonia, Improved	2000	 
+BRA-Rondonia, Improved	2001	 
+BRA-Rondonia, Improved	2002	 
+BRA-Rondonia, Improved	2003	 
+BRA-Rondonia, Improved	2004	 
+BRA-Rondonia, Improved	2005	 
+BRA-Rondonia, Improved	2006	 
+BRA-Rondonia, Improved	2007	30.867
+BRA-Rondonia, Improved	2008	74.384
+BRA-Rondonia, Improved	2009	29.518
+BRA-Rondonia, Improved	2010	 
+BRA-Rondonia, Improved	2011	73.763
+BRA-Rondonia, Improved	2012	62.960
+BRA-Rondonia, Improved	2013	38.999
+BRA-Rondonia, Improved	2014	40.917
+BRA-Rondonia, Improved	2015	47.782
+BRA-Rondonia, Improved	2016	48.239
+BRA-Rondonia, Improved	2017	48.841
+BRA-Rondonia, Improved	2018	49.602
+BRA-Rondonia, Improved	2019	50.497
+BRA-Rondonia, Improved	2020	51.728
+BRA-Rondonia, Improved	2021	53.178
+BRA-Rondonia, Improved	2022	54.635
+BRA-Rondonia, Improved	2023	56.346
+BRA-Rondonia, Improved	2024	58.172
+BRA-Rondonia, Improved	2025	60.454
+BRA-Rondonia, Improved	2026	63.226
+BRA-Rondonia, Improved	2027	66.511
+BRA-Rondonia, Improved	2028	70.306
+BRA-Rondonia, Improved	2029	74.593
+BRA-Rondonia, Improved	2030	79.334
+BRA-Rondonia, Improved	2031	84.457
+BRA-Rondonia, Improved	2032	89.841
+BRA-Rondonia, Improved	2033	95.293
+BRA-Rondonia, Improved	2034	100.000
+BRA-Rondonia, Improved	2035	100.000
+BRA-Rondonia, Improved	2036	99.952
+BRA-Rondonia, Improved	2037	99.920
+BRA-Rondonia, Improved	2038	99.902
+BRA-Rondonia, Improved	2039	99.895
+BRA-Rondonia, Improved	2040	99.895
+BRA-Rondonia, Improved	2041	99.896
+BRA-Rondonia, Improved	2042	99.893
+BRA-Rondonia, Improved	2043	99.882
+BRA-Rondonia, Improved	2044	99.862
+BRA-Rondonia, Improved	2045	99.842
+BRA-Rondonia, Improved	2046	99.832
+BRA-Rondonia, Improved	2047	99.839
+BRA-Rondonia, Improved	2048	99.865
+BRA-Rondonia, Improved	2049	99.909
+BRA-Rondonia, Improved	2050	99.967
+BRA-Roraima, Improved	1960	 
+BRA-Roraima, Improved	1961	 
+BRA-Roraima, Improved	1962	 
+BRA-Roraima, Improved	1963	 
+BRA-Roraima, Improved	1964	 
+BRA-Roraima, Improved	1965	 
+BRA-Roraima, Improved	1966	 
+BRA-Roraima, Improved	1967	 
+BRA-Roraima, Improved	1968	 
+BRA-Roraima, Improved	1969	 
+BRA-Roraima, Improved	1970	 
+BRA-Roraima, Improved	1971	 
+BRA-Roraima, Improved	1972	 
+BRA-Roraima, Improved	1973	 
+BRA-Roraima, Improved	1974	 
+BRA-Roraima, Improved	1975	 
+BRA-Roraima, Improved	1976	 
+BRA-Roraima, Improved	1977	 
+BRA-Roraima, Improved	1978	 
+BRA-Roraima, Improved	1979	 
+BRA-Roraima, Improved	1980	 
+BRA-Roraima, Improved	1981	 
+BRA-Roraima, Improved	1982	 
+BRA-Roraima, Improved	1983	 
+BRA-Roraima, Improved	1984	 
+BRA-Roraima, Improved	1985	 
+BRA-Roraima, Improved	1986	 
+BRA-Roraima, Improved	1987	 
+BRA-Roraima, Improved	1988	 
+BRA-Roraima, Improved	1989	 
+BRA-Roraima, Improved	1990	 
+BRA-Roraima, Improved	1991	 
+BRA-Roraima, Improved	1992	 
+BRA-Roraima, Improved	1993	 
+BRA-Roraima, Improved	1994	 
+BRA-Roraima, Improved	1995	 
+BRA-Roraima, Improved	1996	 
+BRA-Roraima, Improved	1997	 
+BRA-Roraima, Improved	1998	 
+BRA-Roraima, Improved	1999	 
+BRA-Roraima, Improved	2000	 
+BRA-Roraima, Improved	2001	 
+BRA-Roraima, Improved	2002	 
+BRA-Roraima, Improved	2003	 
+BRA-Roraima, Improved	2004	 
+BRA-Roraima, Improved	2005	 
+BRA-Roraima, Improved	2006	 
+BRA-Roraima, Improved	2007	77.303
+BRA-Roraima, Improved	2008	84.169
+BRA-Roraima, Improved	2009	89.962
+BRA-Roraima, Improved	2010	 
+BRA-Roraima, Improved	2011	89.204
+BRA-Roraima, Improved	2012	89.583
+BRA-Roraima, Improved	2013	88.398
+BRA-Roraima, Improved	2014	89.354
+BRA-Roraima, Improved	2015	94.341
+BRA-Roraima, Improved	2016	94.428
+BRA-Roraima, Improved	2017	94.617
+BRA-Roraima, Improved	2018	95.264
+BRA-Roraima, Improved	2019	95.675
+BRA-Roraima, Improved	2020	96.214
+BRA-Roraima, Improved	2021	96.868
+BRA-Roraima, Improved	2022	97.621
+BRA-Roraima, Improved	2023	98.422
+BRA-Roraima, Improved	2024	99.187
+BRA-Roraima, Improved	2025	99.804
+BRA-Roraima, Improved	2026	100.000
+BRA-Roraima, Improved	2027	100.000
+BRA-Roraima, Improved	2028	100.000
+BRA-Roraima, Improved	2029	100.000
+BRA-Roraima, Improved	2030	100.000
+BRA-Roraima, Improved	2031	100.000
+BRA-Roraima, Improved	2032	100.000
+BRA-Roraima, Improved	2033	100.000
+BRA-Roraima, Improved	2034	100.000
+BRA-Roraima, Improved	2035	100.000
+BRA-Roraima, Improved	2036	100.000
+BRA-Roraima, Improved	2037	100.000
+BRA-Roraima, Improved	2038	100.000
+BRA-Roraima, Improved	2039	100.000
+BRA-Roraima, Improved	2040	100.000
+BRA-Roraima, Improved	2041	100.000
+BRA-Roraima, Improved	2042	100.000
+BRA-Roraima, Improved	2043	100.000
+BRA-Roraima, Improved	2044	100.000
+BRA-Roraima, Improved	2045	100.000
+BRA-Roraima, Improved	2046	100.000
+BRA-Roraima, Improved	2047	100.000
+BRA-Roraima, Improved	2048	100.000
+BRA-Roraima, Improved	2049	100.000
+BRA-Roraima, Improved	2050	100.000
+BRA-Santa Catarina, Improved	1960	 
+BRA-Santa Catarina, Improved	1961	 
+BRA-Santa Catarina, Improved	1962	 
+BRA-Santa Catarina, Improved	1963	 
+BRA-Santa Catarina, Improved	1964	 
+BRA-Santa Catarina, Improved	1965	 
+BRA-Santa Catarina, Improved	1966	 
+BRA-Santa Catarina, Improved	1967	 
+BRA-Santa Catarina, Improved	1968	 
+BRA-Santa Catarina, Improved	1969	 
+BRA-Santa Catarina, Improved	1970	 
+BRA-Santa Catarina, Improved	1971	 
+BRA-Santa Catarina, Improved	1972	 
+BRA-Santa Catarina, Improved	1973	 
+BRA-Santa Catarina, Improved	1974	 
+BRA-Santa Catarina, Improved	1975	 
+BRA-Santa Catarina, Improved	1976	 
+BRA-Santa Catarina, Improved	1977	 
+BRA-Santa Catarina, Improved	1978	 
+BRA-Santa Catarina, Improved	1979	 
+BRA-Santa Catarina, Improved	1980	 
+BRA-Santa Catarina, Improved	1981	 
+BRA-Santa Catarina, Improved	1982	 
+BRA-Santa Catarina, Improved	1983	 
+BRA-Santa Catarina, Improved	1984	 
+BRA-Santa Catarina, Improved	1985	 
+BRA-Santa Catarina, Improved	1986	 
+BRA-Santa Catarina, Improved	1987	 
+BRA-Santa Catarina, Improved	1988	 
+BRA-Santa Catarina, Improved	1989	 
+BRA-Santa Catarina, Improved	1990	 
+BRA-Santa Catarina, Improved	1991	 
+BRA-Santa Catarina, Improved	1992	 
+BRA-Santa Catarina, Improved	1993	 
+BRA-Santa Catarina, Improved	1994	 
+BRA-Santa Catarina, Improved	1995	 
+BRA-Santa Catarina, Improved	1996	 
+BRA-Santa Catarina, Improved	1997	 
+BRA-Santa Catarina, Improved	1998	 
+BRA-Santa Catarina, Improved	1999	 
+BRA-Santa Catarina, Improved	2000	 
+BRA-Santa Catarina, Improved	2001	 
+BRA-Santa Catarina, Improved	2002	 
+BRA-Santa Catarina, Improved	2003	 
+BRA-Santa Catarina, Improved	2004	 
+BRA-Santa Catarina, Improved	2005	 
+BRA-Santa Catarina, Improved	2006	 
+BRA-Santa Catarina, Improved	2007	90.329
+BRA-Santa Catarina, Improved	2008	85.285
+BRA-Santa Catarina, Improved	2009	86.868
+BRA-Santa Catarina, Improved	2010	 
+BRA-Santa Catarina, Improved	2011	92.145
+BRA-Santa Catarina, Improved	2012	86.851
+BRA-Santa Catarina, Improved	2013	83.827
+BRA-Santa Catarina, Improved	2014	86.646
+BRA-Santa Catarina, Improved	2015	91.330
+BRA-Santa Catarina, Improved	2016	90.744
+BRA-Santa Catarina, Improved	2017	90.558
+BRA-Santa Catarina, Improved	2018	90.431
+BRA-Santa Catarina, Improved	2019	90.419
+BRA-Santa Catarina, Improved	2020	90.431
+BRA-Santa Catarina, Improved	2021	90.455
+BRA-Santa Catarina, Improved	2022	90.483
+BRA-Santa Catarina, Improved	2023	90.497
+BRA-Santa Catarina, Improved	2024	90.463
+BRA-Santa Catarina, Improved	2025	90.371
+BRA-Santa Catarina, Improved	2026	90.249
+BRA-Santa Catarina, Improved	2027	90.116
+BRA-Santa Catarina, Improved	2028	89.994
+BRA-Santa Catarina, Improved	2029	89.900
+BRA-Santa Catarina, Improved	2030	89.834
+BRA-Santa Catarina, Improved	2031	89.744
+BRA-Santa Catarina, Improved	2032	89.625
+BRA-Santa Catarina, Improved	2033	89.494
+BRA-Santa Catarina, Improved	2034	89.380
+BRA-Santa Catarina, Improved	2035	89.313
+BRA-Santa Catarina, Improved	2036	89.332
+BRA-Santa Catarina, Improved	2037	89.438
+BRA-Santa Catarina, Improved	2038	89.612
+BRA-Santa Catarina, Improved	2039	89.832
+BRA-Santa Catarina, Improved	2040	90.075
+BRA-Santa Catarina, Improved	2041	90.313
+BRA-Santa Catarina, Improved	2042	90.526
+BRA-Santa Catarina, Improved	2043	90.697
+BRA-Santa Catarina, Improved	2044	90.821
+BRA-Santa Catarina, Improved	2045	90.909
+BRA-Santa Catarina, Improved	2046	90.981
+BRA-Santa Catarina, Improved	2047	91.057
+BRA-Santa Catarina, Improved	2048	91.152
+BRA-Santa Catarina, Improved	2049	91.277
+BRA-Santa Catarina, Improved	2050	91.433
+BRA-Sao Paulo, Improved	1960	 
+BRA-Sao Paulo, Improved	1961	 
+BRA-Sao Paulo, Improved	1962	 
+BRA-Sao Paulo, Improved	1963	 
+BRA-Sao Paulo, Improved	1964	 
+BRA-Sao Paulo, Improved	1965	 
+BRA-Sao Paulo, Improved	1966	 
+BRA-Sao Paulo, Improved	1967	 
+BRA-Sao Paulo, Improved	1968	 
+BRA-Sao Paulo, Improved	1969	 
+BRA-Sao Paulo, Improved	1970	 
+BRA-Sao Paulo, Improved	1971	 
+BRA-Sao Paulo, Improved	1972	 
+BRA-Sao Paulo, Improved	1973	 
+BRA-Sao Paulo, Improved	1974	 
+BRA-Sao Paulo, Improved	1975	 
+BRA-Sao Paulo, Improved	1976	 
+BRA-Sao Paulo, Improved	1977	 
+BRA-Sao Paulo, Improved	1978	 
+BRA-Sao Paulo, Improved	1979	 
+BRA-Sao Paulo, Improved	1980	 
+BRA-Sao Paulo, Improved	1981	 
+BRA-Sao Paulo, Improved	1982	 
+BRA-Sao Paulo, Improved	1983	 
+BRA-Sao Paulo, Improved	1984	 
+BRA-Sao Paulo, Improved	1985	 
+BRA-Sao Paulo, Improved	1986	 
+BRA-Sao Paulo, Improved	1987	 
+BRA-Sao Paulo, Improved	1988	 
+BRA-Sao Paulo, Improved	1989	 
+BRA-Sao Paulo, Improved	1990	 
+BRA-Sao Paulo, Improved	1991	 
+BRA-Sao Paulo, Improved	1992	 
+BRA-Sao Paulo, Improved	1993	 
+BRA-Sao Paulo, Improved	1994	 
+BRA-Sao Paulo, Improved	1995	 
+BRA-Sao Paulo, Improved	1996	 
+BRA-Sao Paulo, Improved	1997	 
+BRA-Sao Paulo, Improved	1998	 
+BRA-Sao Paulo, Improved	1999	 
+BRA-Sao Paulo, Improved	2000	 
+BRA-Sao Paulo, Improved	2001	 
+BRA-Sao Paulo, Improved	2002	 
+BRA-Sao Paulo, Improved	2003	 
+BRA-Sao Paulo, Improved	2004	 
+BRA-Sao Paulo, Improved	2005	 
+BRA-Sao Paulo, Improved	2006	 
+BRA-Sao Paulo, Improved	2007	96.297
+BRA-Sao Paulo, Improved	2008	96.720
+BRA-Sao Paulo, Improved	2009	96.384
+BRA-Sao Paulo, Improved	2010	 
+BRA-Sao Paulo, Improved	2011	97.668
+BRA-Sao Paulo, Improved	2012	97.873
+BRA-Sao Paulo, Improved	2013	97.695
+BRA-Sao Paulo, Improved	2014	96.879
+BRA-Sao Paulo, Improved	2015	97.993
+BRA-Sao Paulo, Improved	2016	97.348
+BRA-Sao Paulo, Improved	2017	97.360
+BRA-Sao Paulo, Improved	2018	97.247
+BRA-Sao Paulo, Improved	2019	97.146
+BRA-Sao Paulo, Improved	2020	97.070
+BRA-Sao Paulo, Improved	2021	96.987
+BRA-Sao Paulo, Improved	2022	96.860
+BRA-Sao Paulo, Improved	2023	96.691
+BRA-Sao Paulo, Improved	2024	96.626
+BRA-Sao Paulo, Improved	2025	96.590
+BRA-Sao Paulo, Improved	2026	96.561
+BRA-Sao Paulo, Improved	2027	96.539
+BRA-Sao Paulo, Improved	2028	96.531
+BRA-Sao Paulo, Improved	2029	96.543
+BRA-Sao Paulo, Improved	2030	96.586
+BRA-Sao Paulo, Improved	2031	96.600
+BRA-Sao Paulo, Improved	2032	96.573
+BRA-Sao Paulo, Improved	2033	96.524
+BRA-Sao Paulo, Improved	2034	96.497
+BRA-Sao Paulo, Improved	2035	96.516
+BRA-Sao Paulo, Improved	2036	96.602
+BRA-Sao Paulo, Improved	2037	96.741
+BRA-Sao Paulo, Improved	2038	96.922
+BRA-Sao Paulo, Improved	2039	97.081
+BRA-Sao Paulo, Improved	2040	97.224
+BRA-Sao Paulo, Improved	2041	97.356
+BRA-Sao Paulo, Improved	2042	97.472
+BRA-Sao Paulo, Improved	2043	97.568
+BRA-Sao Paulo, Improved	2044	97.642
+BRA-Sao Paulo, Improved	2045	97.697
+BRA-Sao Paulo, Improved	2046	97.739
+BRA-Sao Paulo, Improved	2047	97.772
+BRA-Sao Paulo, Improved	2048	97.801
+BRA-Sao Paulo, Improved	2049	97.829
+BRA-Sao Paulo, Improved	2050	97.858
+BRA-Sergipe, Improved	1960	 
+BRA-Sergipe, Improved	1961	 
+BRA-Sergipe, Improved	1962	 
+BRA-Sergipe, Improved	1963	 
+BRA-Sergipe, Improved	1964	 
+BRA-Sergipe, Improved	1965	 
+BRA-Sergipe, Improved	1966	 
+BRA-Sergipe, Improved	1967	 
+BRA-Sergipe, Improved	1968	 
+BRA-Sergipe, Improved	1969	 
+BRA-Sergipe, Improved	1970	 
+BRA-Sergipe, Improved	1971	 
+BRA-Sergipe, Improved	1972	 
+BRA-Sergipe, Improved	1973	 
+BRA-Sergipe, Improved	1974	 
+BRA-Sergipe, Improved	1975	 
+BRA-Sergipe, Improved	1976	 
+BRA-Sergipe, Improved	1977	 
+BRA-Sergipe, Improved	1978	 
+BRA-Sergipe, Improved	1979	 
+BRA-Sergipe, Improved	1980	 
+BRA-Sergipe, Improved	1981	 
+BRA-Sergipe, Improved	1982	 
+BRA-Sergipe, Improved	1983	 
+BRA-Sergipe, Improved	1984	 
+BRA-Sergipe, Improved	1985	 
+BRA-Sergipe, Improved	1986	 
+BRA-Sergipe, Improved	1987	 
+BRA-Sergipe, Improved	1988	 
+BRA-Sergipe, Improved	1989	 
+BRA-Sergipe, Improved	1990	 
+BRA-Sergipe, Improved	1991	 
+BRA-Sergipe, Improved	1992	 
+BRA-Sergipe, Improved	1993	 
+BRA-Sergipe, Improved	1994	 
+BRA-Sergipe, Improved	1995	 
+BRA-Sergipe, Improved	1996	 
+BRA-Sergipe, Improved	1997	 
+BRA-Sergipe, Improved	1998	 
+BRA-Sergipe, Improved	1999	 
+BRA-Sergipe, Improved	2000	 
+BRA-Sergipe, Improved	2001	 
+BRA-Sergipe, Improved	2002	 
+BRA-Sergipe, Improved	2003	 
+BRA-Sergipe, Improved	2004	 
+BRA-Sergipe, Improved	2005	 
+BRA-Sergipe, Improved	2006	 
+BRA-Sergipe, Improved	2007	73.359
+BRA-Sergipe, Improved	2008	78.159
+BRA-Sergipe, Improved	2009	79.629
+BRA-Sergipe, Improved	2010	 
+BRA-Sergipe, Improved	2011	71.746
+BRA-Sergipe, Improved	2012	74.581
+BRA-Sergipe, Improved	2013	59.904
+BRA-Sergipe, Improved	2014	54.432
+BRA-Sergipe, Improved	2015	64.964
+BRA-Sergipe, Improved	2016	64.967
+BRA-Sergipe, Improved	2017	65.283
+BRA-Sergipe, Improved	2018	65.888
+BRA-Sergipe, Improved	2019	66.519
+BRA-Sergipe, Improved	2020	67.130
+BRA-Sergipe, Improved	2021	67.884
+BRA-Sergipe, Improved	2022	68.745
+BRA-Sergipe, Improved	2023	69.741
+BRA-Sergipe, Improved	2024	70.754
+BRA-Sergipe, Improved	2025	71.708
+BRA-Sergipe, Improved	2026	72.720
+BRA-Sergipe, Improved	2027	73.884
+BRA-Sergipe, Improved	2028	75.172
+BRA-Sergipe, Improved	2029	76.586
+BRA-Sergipe, Improved	2030	78.131
+BRA-Sergipe, Improved	2031	79.806
+BRA-Sergipe, Improved	2032	81.598
+BRA-Sergipe, Improved	2033	83.502
+BRA-Sergipe, Improved	2034	85.513
+BRA-Sergipe, Improved	2035	87.624
+BRA-Sergipe, Improved	2036	89.818
+BRA-Sergipe, Improved	2037	92.065
+BRA-Sergipe, Improved	2038	94.313
+BRA-Sergipe, Improved	2039	96.483
+BRA-Sergipe, Improved	2040	98.453
+BRA-Sergipe, Improved	2041	100.000
+BRA-Sergipe, Improved	2042	100.000
+BRA-Sergipe, Improved	2043	99.971
+BRA-Sergipe, Improved	2044	99.928
+BRA-Sergipe, Improved	2045	99.889
+BRA-Sergipe, Improved	2046	99.864
+BRA-Sergipe, Improved	2047	99.863
+BRA-Sergipe, Improved	2048	99.887
+BRA-Sergipe, Improved	2049	99.934
+BRA-Sergipe, Improved	2050	99.997
+BRA-Tocantins, Improved	1960	 
+BRA-Tocantins, Improved	1961	 
+BRA-Tocantins, Improved	1962	 
+BRA-Tocantins, Improved	1963	 
+BRA-Tocantins, Improved	1964	 
+BRA-Tocantins, Improved	1965	 
+BRA-Tocantins, Improved	1966	 
+BRA-Tocantins, Improved	1967	 
+BRA-Tocantins, Improved	1968	 
+BRA-Tocantins, Improved	1969	 
+BRA-Tocantins, Improved	1970	 
+BRA-Tocantins, Improved	1971	 
+BRA-Tocantins, Improved	1972	 
+BRA-Tocantins, Improved	1973	 
+BRA-Tocantins, Improved	1974	 
+BRA-Tocantins, Improved	1975	 
+BRA-Tocantins, Improved	1976	 
+BRA-Tocantins, Improved	1977	 
+BRA-Tocantins, Improved	1978	 
+BRA-Tocantins, Improved	1979	 
+BRA-Tocantins, Improved	1980	 
+BRA-Tocantins, Improved	1981	 
+BRA-Tocantins, Improved	1982	 
+BRA-Tocantins, Improved	1983	 
+BRA-Tocantins, Improved	1984	 
+BRA-Tocantins, Improved	1985	 
+BRA-Tocantins, Improved	1986	 
+BRA-Tocantins, Improved	1987	 
+BRA-Tocantins, Improved	1988	 
+BRA-Tocantins, Improved	1989	 
+BRA-Tocantins, Improved	1990	 
+BRA-Tocantins, Improved	1991	 
+BRA-Tocantins, Improved	1992	 
+BRA-Tocantins, Improved	1993	 
+BRA-Tocantins, Improved	1994	 
+BRA-Tocantins, Improved	1995	 
+BRA-Tocantins, Improved	1996	 
+BRA-Tocantins, Improved	1997	 
+BRA-Tocantins, Improved	1998	 
+BRA-Tocantins, Improved	1999	 
+BRA-Tocantins, Improved	2000	 
+BRA-Tocantins, Improved	2001	 
+BRA-Tocantins, Improved	2002	 
+BRA-Tocantins, Improved	2003	 
+BRA-Tocantins, Improved	2004	 
+BRA-Tocantins, Improved	2005	 
+BRA-Tocantins, Improved	2006	 
+BRA-Tocantins, Improved	2007	31.090
+BRA-Tocantins, Improved	2008	32.065
+BRA-Tocantins, Improved	2009	30.041
+BRA-Tocantins, Improved	2010	 
+BRA-Tocantins, Improved	2011	38.646
+BRA-Tocantins, Improved	2012	59.290
+BRA-Tocantins, Improved	2013	36.887
+BRA-Tocantins, Improved	2014	46.102
+BRA-Tocantins, Improved	2015	65.615
+BRA-Tocantins, Improved	2016	67.480
+BRA-Tocantins, Improved	2017	70.250
+BRA-Tocantins, Improved	2018	73.217
+BRA-Tocantins, Improved	2019	76.046
+BRA-Tocantins, Improved	2020	78.829
+BRA-Tocantins, Improved	2021	82.482
+BRA-Tocantins, Improved	2022	86.869
+BRA-Tocantins, Improved	2023	91.767
+BRA-Tocantins, Improved	2024	96.854
+BRA-Tocantins, Improved	2025	100.000
+BRA-Tocantins, Improved	2026	100.000
+BRA-Tocantins, Improved	2027	100.000
+BRA-Tocantins, Improved	2028	100.000
+BRA-Tocantins, Improved	2029	100.000
+BRA-Tocantins, Improved	2030	100.000
+BRA-Tocantins, Improved	2031	100.000
+BRA-Tocantins, Improved	2032	100.000
+BRA-Tocantins, Improved	2033	100.000
+BRA-Tocantins, Improved	2034	100.000
+BRA-Tocantins, Improved	2035	100.000
+BRA-Tocantins, Improved	2036	100.000
+BRA-Tocantins, Improved	2037	100.000
+BRA-Tocantins, Improved	2038	100.000
+BRA-Tocantins, Improved	2039	100.000
+BRA-Tocantins, Improved	2040	100.000
+BRA-Tocantins, Improved	2041	100.000
+BRA-Tocantins, Improved	2042	100.000
+BRA-Tocantins, Improved	2043	100.000
+BRA-Tocantins, Improved	2044	100.000
+BRA-Tocantins, Improved	2045	100.000
+BRA-Tocantins, Improved	2046	100.000
+BRA-Tocantins, Improved	2047	100.000
+BRA-Tocantins, Improved	2048	100.000
+BRA-Tocantins, Improved	2049	100.000
+BRA-Tocantins, Improved	2050	100.000

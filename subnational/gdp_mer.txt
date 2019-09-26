@@ -1,0 +1,2457 @@
+BRA-Acre	1960	 
+BRA-Acre	1961	 
+BRA-Acre	1962	 
+BRA-Acre	1963	 
+BRA-Acre	1964	 
+BRA-Acre	1965	 
+BRA-Acre	1966	 
+BRA-Acre	1967	 
+BRA-Acre	1968	 
+BRA-Acre	1969	 
+BRA-Acre	1970	 
+BRA-Acre	1971	 
+BRA-Acre	1972	 
+BRA-Acre	1973	 
+BRA-Acre	1974	 
+BRA-Acre	1975	 
+BRA-Acre	1976	 
+BRA-Acre	1977	 
+BRA-Acre	1978	 
+BRA-Acre	1979	 
+BRA-Acre	1980	 
+BRA-Acre	1981	 
+BRA-Acre	1982	 
+BRA-Acre	1983	 
+BRA-Acre	1984	 
+BRA-Acre	1985	 
+BRA-Acre	1986	 
+BRA-Acre	1987	 
+BRA-Acre	1988	 
+BRA-Acre	1989	 
+BRA-Acre	1990	 
+BRA-Acre	1991	 
+BRA-Acre	1992	 
+BRA-Acre	1993	 
+BRA-Acre	1994	 
+BRA-Acre	1995	3.105
+BRA-Acre	1996	3.243
+BRA-Acre	1997	3.314
+BRA-Acre	1998	3.427
+BRA-Acre	1999	3.438
+BRA-Acre	2000	3.454
+BRA-Acre	2001	3.606
+BRA-Acre	2002	3.656
+BRA-Acre	2003	3.642
+BRA-Acre	2004	3.787
+BRA-Acre	2005	4.007
+BRA-Acre	2006	4.067
+BRA-Acre	2007	4.474
+BRA-Acre	2008	4.830
+BRA-Acre	2009	5.201
+BRA-Acre	2010	5.403
+BRA-Acre	2011	5.352
+BRA-Acre	2012	5.617
+BRA-Acre	2013	5.914
+BRA-Acre	2014	6.432
+BRA-Acre	2015	6.052
+BRA-Acre	2016	5.649
+BRA-Acre	2017	5.936
+BRA-Acre	2018	6.155
+BRA-Acre	2019	6.312
+BRA-Acre	2020	6.475
+BRA-Acre	2021	6.607
+BRA-Acre	2022	6.683
+BRA-Acre	2023	6.861
+BRA-Acre	2024	7.048
+BRA-Acre	2025	7.233
+BRA-Acre	2026	7.457
+BRA-Acre	2027	7.720
+BRA-Acre	2028	8.011
+BRA-Acre	2029	8.326
+BRA-Acre	2030	8.658
+BRA-Acre	2031	9.008
+BRA-Acre	2032	9.368
+BRA-Acre	2033	9.745
+BRA-Acre	2034	10.137
+BRA-Acre	2035	10.521
+BRA-Acre	2036	10.926
+BRA-Acre	2037	11.349
+BRA-Acre	2038	11.793
+BRA-Acre	2039	12.256
+BRA-Acre	2040	12.745
+BRA-Acre	2041	13.257
+BRA-Acre	2042	13.795
+BRA-Acre	2043	14.359
+BRA-Acre	2044	14.952
+BRA-Acre	2045	15.574
+BRA-Acre	2046	16.233
+BRA-Acre	2047	16.929
+BRA-Acre	2048	17.671
+BRA-Acre	2049	18.457
+BRA-Acre	2050	19.288
+BRA-Alagoas	1960	 
+BRA-Alagoas	1961	 
+BRA-Alagoas	1962	 
+BRA-Alagoas	1963	 
+BRA-Alagoas	1964	 
+BRA-Alagoas	1965	 
+BRA-Alagoas	1966	 
+BRA-Alagoas	1967	 
+BRA-Alagoas	1968	 
+BRA-Alagoas	1969	 
+BRA-Alagoas	1970	 
+BRA-Alagoas	1971	 
+BRA-Alagoas	1972	 
+BRA-Alagoas	1973	 
+BRA-Alagoas	1974	 
+BRA-Alagoas	1975	 
+BRA-Alagoas	1976	 
+BRA-Alagoas	1977	 
+BRA-Alagoas	1978	 
+BRA-Alagoas	1979	 
+BRA-Alagoas	1980	 
+BRA-Alagoas	1981	 
+BRA-Alagoas	1982	 
+BRA-Alagoas	1983	 
+BRA-Alagoas	1984	 
+BRA-Alagoas	1985	 
+BRA-Alagoas	1986	 
+BRA-Alagoas	1987	 
+BRA-Alagoas	1988	 
+BRA-Alagoas	1989	 
+BRA-Alagoas	1990	 
+BRA-Alagoas	1991	 
+BRA-Alagoas	1992	 
+BRA-Alagoas	1993	 
+BRA-Alagoas	1994	 
+BRA-Alagoas	1995	12.057
+BRA-Alagoas	1996	12.590
+BRA-Alagoas	1997	12.868
+BRA-Alagoas	1998	13.305
+BRA-Alagoas	1999	13.350
+BRA-Alagoas	2000	13.412
+BRA-Alagoas	2001	14.001
+BRA-Alagoas	2002	14.196
+BRA-Alagoas	2003	13.615
+BRA-Alagoas	2004	14.058
+BRA-Alagoas	2005	14.426
+BRA-Alagoas	2006	15.178
+BRA-Alagoas	2007	16.287
+BRA-Alagoas	2008	16.774
+BRA-Alagoas	2009	16.979
+BRA-Alagoas	2010	17.573
+BRA-Alagoas	2011	18.930
+BRA-Alagoas	2012	19.198
+BRA-Alagoas	2013	19.215
+BRA-Alagoas	2014	19.583
+BRA-Alagoas	2015	20.598
+BRA-Alagoas	2016	20.316
+BRA-Alagoas	2017	21.018
+BRA-Alagoas	2018	21.643
+BRA-Alagoas	2019	22.219
+BRA-Alagoas	2020	22.834
+BRA-Alagoas	2021	23.404
+BRA-Alagoas	2022	23.982
+BRA-Alagoas	2023	24.577
+BRA-Alagoas	2024	25.201
+BRA-Alagoas	2025	25.889
+BRA-Alagoas	2026	26.659
+BRA-Alagoas	2027	27.498
+BRA-Alagoas	2028	28.410
+BRA-Alagoas	2029	29.385
+BRA-Alagoas	2030	30.381
+BRA-Alagoas	2031	31.412
+BRA-Alagoas	2032	32.513
+BRA-Alagoas	2033	33.648
+BRA-Alagoas	2034	34.833
+BRA-Alagoas	2035	36.064
+BRA-Alagoas	2036	37.337
+BRA-Alagoas	2037	38.655
+BRA-Alagoas	2038	40.016
+BRA-Alagoas	2039	41.413
+BRA-Alagoas	2040	42.849
+BRA-Alagoas	2041	44.313
+BRA-Alagoas	2042	45.818
+BRA-Alagoas	2043	47.352
+BRA-Alagoas	2044	48.921
+BRA-Alagoas	2045	50.517
+BRA-Alagoas	2046	52.147
+BRA-Alagoas	2047	53.810
+BRA-Alagoas	2048	55.513
+BRA-Alagoas	2049	57.250
+BRA-Alagoas	2050	59.017
+BRA-Amapa	1960	 
+BRA-Amapa	1961	 
+BRA-Amapa	1962	 
+BRA-Amapa	1963	 
+BRA-Amapa	1964	 
+BRA-Amapa	1965	 
+BRA-Amapa	1966	 
+BRA-Amapa	1967	 
+BRA-Amapa	1968	 
+BRA-Amapa	1969	 
+BRA-Amapa	1970	 
+BRA-Amapa	1971	 
+BRA-Amapa	1972	 
+BRA-Amapa	1973	 
+BRA-Amapa	1974	 
+BRA-Amapa	1975	 
+BRA-Amapa	1976	 
+BRA-Amapa	1977	 
+BRA-Amapa	1978	 
+BRA-Amapa	1979	 
+BRA-Amapa	1980	 
+BRA-Amapa	1981	 
+BRA-Amapa	1982	 
+BRA-Amapa	1983	 
+BRA-Amapa	1984	 
+BRA-Amapa	1985	 
+BRA-Amapa	1986	 
+BRA-Amapa	1987	 
+BRA-Amapa	1988	 
+BRA-Amapa	1989	 
+BRA-Amapa	1990	 
+BRA-Amapa	1991	 
+BRA-Amapa	1992	 
+BRA-Amapa	1993	 
+BRA-Amapa	1994	 
+BRA-Amapa	1995	3.317
+BRA-Amapa	1996	3.463
+BRA-Amapa	1997	3.540
+BRA-Amapa	1998	3.660
+BRA-Amapa	1999	3.672
+BRA-Amapa	2000	3.689
+BRA-Amapa	2001	3.851
+BRA-Amapa	2002	3.905
+BRA-Amapa	2003	3.681
+BRA-Amapa	2004	3.828
+BRA-Amapa	2005	4.012
+BRA-Amapa	2006	4.608
+BRA-Amapa	2007	4.928
+BRA-Amapa	2008	5.237
+BRA-Amapa	2009	5.259
+BRA-Amapa	2010	5.335
+BRA-Amapa	2011	5.627
+BRA-Amapa	2012	6.167
+BRA-Amapa	2013	6.578
+BRA-Amapa	2014	6.404
+BRA-Amapa	2015	6.158
+BRA-Amapa	2016	5.891
+BRA-Amapa	2017	6.146
+BRA-Amapa	2018	6.363
+BRA-Amapa	2019	6.541
+BRA-Amapa	2020	6.721
+BRA-Amapa	2021	6.893
+BRA-Amapa	2022	7.031
+BRA-Amapa	2023	7.227
+BRA-Amapa	2024	7.435
+BRA-Amapa	2025	7.656
+BRA-Amapa	2026	7.910
+BRA-Amapa	2027	8.185
+BRA-Amapa	2028	8.482
+BRA-Amapa	2029	8.796
+BRA-Amapa	2030	9.109
+BRA-Amapa	2031	9.424
+BRA-Amapa	2032	9.785
+BRA-Amapa	2033	10.164
+BRA-Amapa	2034	10.575
+BRA-Amapa	2035	11.019
+BRA-Amapa	2036	11.490
+BRA-Amapa	2037	11.989
+BRA-Amapa	2038	12.515
+BRA-Amapa	2039	13.080
+BRA-Amapa	2040	13.677
+BRA-Amapa	2041	14.295
+BRA-Amapa	2042	14.935
+BRA-Amapa	2043	15.594
+BRA-Amapa	2044	16.273
+BRA-Amapa	2045	16.969
+BRA-Amapa	2046	17.687
+BRA-Amapa	2047	18.429
+BRA-Amapa	2048	19.188
+BRA-Amapa	2049	19.972
+BRA-Amapa	2050	20.809
+BRA-Amazonas	1960	 
+BRA-Amazonas	1961	 
+BRA-Amazonas	1962	 
+BRA-Amazonas	1963	 
+BRA-Amazonas	1964	 
+BRA-Amazonas	1965	 
+BRA-Amazonas	1966	 
+BRA-Amazonas	1967	 
+BRA-Amazonas	1968	 
+BRA-Amazonas	1969	 
+BRA-Amazonas	1970	 
+BRA-Amazonas	1971	 
+BRA-Amazonas	1972	 
+BRA-Amazonas	1973	 
+BRA-Amazonas	1974	 
+BRA-Amazonas	1975	 
+BRA-Amazonas	1976	 
+BRA-Amazonas	1977	 
+BRA-Amazonas	1978	 
+BRA-Amazonas	1979	 
+BRA-Amazonas	1980	 
+BRA-Amazonas	1981	 
+BRA-Amazonas	1982	 
+BRA-Amazonas	1983	 
+BRA-Amazonas	1984	 
+BRA-Amazonas	1985	 
+BRA-Amazonas	1986	 
+BRA-Amazonas	1987	 
+BRA-Amazonas	1988	 
+BRA-Amazonas	1989	 
+BRA-Amazonas	1990	 
+BRA-Amazonas	1991	 
+BRA-Amazonas	1992	 
+BRA-Amazonas	1993	 
+BRA-Amazonas	1994	 
+BRA-Amazonas	1995	23.090
+BRA-Amazonas	1996	24.110
+BRA-Amazonas	1997	24.643
+BRA-Amazonas	1998	25.479
+BRA-Amazonas	1999	25.566
+BRA-Amazonas	2000	25.685
+BRA-Amazonas	2001	26.812
+BRA-Amazonas	2002	27.185
+BRA-Amazonas	2003	27.892
+BRA-Amazonas	2004	31.120
+BRA-Amazonas	2005	31.658
+BRA-Amazonas	2006	34.841
+BRA-Amazonas	2007	35.638
+BRA-Amazonas	2008	36.253
+BRA-Amazonas	2009	35.499
+BRA-Amazonas	2010	39.427
+BRA-Amazonas	2011	42.298
+BRA-Amazonas	2012	40.025
+BRA-Amazonas	2013	42.804
+BRA-Amazonas	2014	41.420
+BRA-Amazonas	2015	38.457
+BRA-Amazonas	2016	36.567
+BRA-Amazonas	2017	37.988
+BRA-Amazonas	2018	39.066
+BRA-Amazonas	2019	39.776
+BRA-Amazonas	2020	39.817
+BRA-Amazonas	2021	40.353
+BRA-Amazonas	2022	41.156
+BRA-Amazonas	2023	41.809
+BRA-Amazonas	2024	42.356
+BRA-Amazonas	2025	43.035
+BRA-Amazonas	2026	43.845
+BRA-Amazonas	2027	44.702
+BRA-Amazonas	2028	45.638
+BRA-Amazonas	2029	46.677
+BRA-Amazonas	2030	47.748
+BRA-Amazonas	2031	48.884
+BRA-Amazonas	2032	50.152
+BRA-Amazonas	2033	51.369
+BRA-Amazonas	2034	52.606
+BRA-Amazonas	2035	53.902
+BRA-Amazonas	2036	55.238
+BRA-Amazonas	2037	56.612
+BRA-Amazonas	2038	58.035
+BRA-Amazonas	2039	59.513
+BRA-Amazonas	2040	61.050
+BRA-Amazonas	2041	62.643
+BRA-Amazonas	2042	64.278
+BRA-Amazonas	2043	65.936
+BRA-Amazonas	2044	67.631
+BRA-Amazonas	2045	69.366
+BRA-Amazonas	2046	71.151
+BRA-Amazonas	2047	72.990
+BRA-Amazonas	2048	74.897
+BRA-Amazonas	2049	76.883
+BRA-Amazonas	2050	78.950
+BRA-Bahia	1960	 
+BRA-Bahia	1961	 
+BRA-Bahia	1962	 
+BRA-Bahia	1963	 
+BRA-Bahia	1964	 
+BRA-Bahia	1965	 
+BRA-Bahia	1966	 
+BRA-Bahia	1967	 
+BRA-Bahia	1968	 
+BRA-Bahia	1969	 
+BRA-Bahia	1970	 
+BRA-Bahia	1971	 
+BRA-Bahia	1972	 
+BRA-Bahia	1973	 
+BRA-Bahia	1974	 
+BRA-Bahia	1975	 
+BRA-Bahia	1976	 
+BRA-Bahia	1977	 
+BRA-Bahia	1978	 
+BRA-Bahia	1979	 
+BRA-Bahia	1980	 
+BRA-Bahia	1981	 
+BRA-Bahia	1982	 
+BRA-Bahia	1983	 
+BRA-Bahia	1984	 
+BRA-Bahia	1985	 
+BRA-Bahia	1986	 
+BRA-Bahia	1987	 
+BRA-Bahia	1988	 
+BRA-Bahia	1989	 
+BRA-Bahia	1990	 
+BRA-Bahia	1991	 
+BRA-Bahia	1992	 
+BRA-Bahia	1993	 
+BRA-Bahia	1994	 
+BRA-Bahia	1995	61.498
+BRA-Bahia	1996	64.215
+BRA-Bahia	1997	65.633
+BRA-Bahia	1998	67.861
+BRA-Bahia	1999	68.091
+BRA-Bahia	2000	68.409
+BRA-Bahia	2001	71.411
+BRA-Bahia	2002	72.404
+BRA-Bahia	2003	72.446
+BRA-Bahia	2004	78.004
+BRA-Bahia	2005	82.256
+BRA-Bahia	2006	83.190
+BRA-Bahia	2007	89.611
+BRA-Bahia	2008	91.673
+BRA-Bahia	2009	96.852
+BRA-Bahia	2010	100.010
+BRA-Bahia	2011	99.625
+BRA-Bahia	2012	101.153
+BRA-Bahia	2013	105.575
+BRA-Bahia	2014	107.019
+BRA-Bahia	2015	108.859
+BRA-Bahia	2016	106.250
+BRA-Bahia	2017	110.499
+BRA-Bahia	2018	113.740
+BRA-Bahia	2019	116.730
+BRA-Bahia	2020	120.016
+BRA-Bahia	2021	122.879
+BRA-Bahia	2022	125.681
+BRA-Bahia	2023	128.439
+BRA-Bahia	2024	131.223
+BRA-Bahia	2025	134.276
+BRA-Bahia	2026	137.711
+BRA-Bahia	2027	141.443
+BRA-Bahia	2028	145.469
+BRA-Bahia	2029	149.798
+BRA-Bahia	2030	154.206
+BRA-Bahia	2031	158.798
+BRA-Bahia	2032	163.543
+BRA-Bahia	2033	168.477
+BRA-Bahia	2034	173.575
+BRA-Bahia	2035	178.815
+BRA-Bahia	2036	184.180
+BRA-Bahia	2037	189.641
+BRA-Bahia	2038	195.183
+BRA-Bahia	2039	200.786
+BRA-Bahia	2040	206.418
+BRA-Bahia	2041	211.987
+BRA-Bahia	2042	217.551
+BRA-Bahia	2043	223.032
+BRA-Bahia	2044	228.463
+BRA-Bahia	2045	233.825
+BRA-Bahia	2046	239.146
+BRA-Bahia	2047	244.442
+BRA-Bahia	2048	249.688
+BRA-Bahia	2049	254.911
+BRA-Bahia	2050	260.106
+BRA-Ceara	1960	 
+BRA-Ceara	1961	 
+BRA-Ceara	1962	 
+BRA-Ceara	1963	 
+BRA-Ceara	1964	 
+BRA-Ceara	1965	 
+BRA-Ceara	1966	 
+BRA-Ceara	1967	 
+BRA-Ceara	1968	 
+BRA-Ceara	1969	 
+BRA-Ceara	1970	 
+BRA-Ceara	1971	 
+BRA-Ceara	1972	 
+BRA-Ceara	1973	 
+BRA-Ceara	1974	 
+BRA-Ceara	1975	 
+BRA-Ceara	1976	 
+BRA-Ceara	1977	 
+BRA-Ceara	1978	 
+BRA-Ceara	1979	 
+BRA-Ceara	1980	 
+BRA-Ceara	1981	 
+BRA-Ceara	1982	 
+BRA-Ceara	1983	 
+BRA-Ceara	1984	 
+BRA-Ceara	1985	 
+BRA-Ceara	1986	 
+BRA-Ceara	1987	 
+BRA-Ceara	1988	 
+BRA-Ceara	1989	 
+BRA-Ceara	1990	 
+BRA-Ceara	1991	 
+BRA-Ceara	1992	 
+BRA-Ceara	1993	 
+BRA-Ceara	1994	 
+BRA-Ceara	1995	30.015
+BRA-Ceara	1996	31.340
+BRA-Ceara	1997	32.033
+BRA-Ceara	1998	33.120
+BRA-Ceara	1999	33.232
+BRA-Ceara	2000	33.388
+BRA-Ceara	2001	34.853
+BRA-Ceara	2002	35.337
+BRA-Ceara	2003	35.253
+BRA-Ceara	2004	36.925
+BRA-Ceara	2005	38.253
+BRA-Ceara	2006	40.571
+BRA-Ceara	2007	41.653
+BRA-Ceara	2008	45.521
+BRA-Ceara	2009	47.182
+BRA-Ceara	2010	51.382
+BRA-Ceara	2011	53.636
+BRA-Ceara	2012	53.727
+BRA-Ceara	2013	56.197
+BRA-Ceara	2014	60.243
+BRA-Ceara	2015	58.032
+BRA-Ceara	2016	56.845
+BRA-Ceara	2017	59.171
+BRA-Ceara	2018	60.517
+BRA-Ceara	2019	62.003
+BRA-Ceara	2020	63.621
+BRA-Ceara	2021	64.997
+BRA-Ceara	2022	66.468
+BRA-Ceara	2023	67.974
+BRA-Ceara	2024	69.566
+BRA-Ceara	2025	71.332
+BRA-Ceara	2026	73.294
+BRA-Ceara	2027	75.399
+BRA-Ceara	2028	77.665
+BRA-Ceara	2029	80.074
+BRA-Ceara	2030	82.451
+BRA-Ceara	2031	84.824
+BRA-Ceara	2032	87.425
+BRA-Ceara	2033	90.008
+BRA-Ceara	2034	92.675
+BRA-Ceara	2035	95.361
+BRA-Ceara	2036	98.105
+BRA-Ceara	2037	100.867
+BRA-Ceara	2038	103.667
+BRA-Ceara	2039	106.473
+BRA-Ceara	2040	109.309
+BRA-Ceara	2041	112.175
+BRA-Ceara	2042	115.064
+BRA-Ceara	2043	117.961
+BRA-Ceara	2044	120.941
+BRA-Ceara	2045	123.909
+BRA-Ceara	2046	126.957
+BRA-Ceara	2047	130.214
+BRA-Ceara	2048	133.555
+BRA-Ceara	2049	137.066
+BRA-Ceara	2050	140.653
+BRA-Distrito Federal	1960	 
+BRA-Distrito Federal	1961	 
+BRA-Distrito Federal	1962	 
+BRA-Distrito Federal	1963	 
+BRA-Distrito Federal	1964	 
+BRA-Distrito Federal	1965	 
+BRA-Distrito Federal	1966	 
+BRA-Distrito Federal	1967	 
+BRA-Distrito Federal	1968	 
+BRA-Distrito Federal	1969	 
+BRA-Distrito Federal	1970	 
+BRA-Distrito Federal	1971	 
+BRA-Distrito Federal	1972	 
+BRA-Distrito Federal	1973	 
+BRA-Distrito Federal	1974	 
+BRA-Distrito Federal	1975	 
+BRA-Distrito Federal	1976	 
+BRA-Distrito Federal	1977	 
+BRA-Distrito Federal	1978	 
+BRA-Distrito Federal	1979	 
+BRA-Distrito Federal	1980	 
+BRA-Distrito Federal	1981	 
+BRA-Distrito Federal	1982	 
+BRA-Distrito Federal	1983	 
+BRA-Distrito Federal	1984	 
+BRA-Distrito Federal	1985	 
+BRA-Distrito Federal	1986	 
+BRA-Distrito Federal	1987	 
+BRA-Distrito Federal	1988	 
+BRA-Distrito Federal	1989	 
+BRA-Distrito Federal	1990	 
+BRA-Distrito Federal	1991	 
+BRA-Distrito Federal	1992	 
+BRA-Distrito Federal	1993	 
+BRA-Distrito Federal	1994	 
+BRA-Distrito Federal	1995	56.334
+BRA-Distrito Federal	1996	58.823
+BRA-Distrito Federal	1997	60.122
+BRA-Distrito Federal	1998	62.163
+BRA-Distrito Federal	1999	62.373
+BRA-Distrito Federal	2000	62.665
+BRA-Distrito Federal	2001	65.415
+BRA-Distrito Federal	2002	66.324
+BRA-Distrito Federal	2003	63.043
+BRA-Distrito Federal	2004	67.139
+BRA-Distrito Federal	2005	70.556
+BRA-Distrito Federal	2006	73.867
+BRA-Distrito Federal	2007	76.558
+BRA-Distrito Federal	2008	83.107
+BRA-Distrito Federal	2009	87.290
+BRA-Distrito Federal	2010	93.375
+BRA-Distrito Federal	2011	92.429
+BRA-Distrito Federal	2012	90.919
+BRA-Distrito Federal	2013	90.661
+BRA-Distrito Federal	2014	94.355
+BRA-Distrito Federal	2015	95.792
+BRA-Distrito Federal	2016	96.747
+BRA-Distrito Federal	2017	100.046
+BRA-Distrito Federal	2018	103.195
+BRA-Distrito Federal	2019	106.180
+BRA-Distrito Federal	2020	109.031
+BRA-Distrito Federal	2021	111.842
+BRA-Distrito Federal	2022	114.700
+BRA-Distrito Federal	2023	117.595
+BRA-Distrito Federal	2024	120.534
+BRA-Distrito Federal	2025	123.585
+BRA-Distrito Federal	2026	126.761
+BRA-Distrito Federal	2027	129.997
+BRA-Distrito Federal	2028	133.285
+BRA-Distrito Federal	2029	136.575
+BRA-Distrito Federal	2030	139.625
+BRA-Distrito Federal	2031	142.569
+BRA-Distrito Federal	2032	145.791
+BRA-Distrito Federal	2033	148.864
+BRA-Distrito Federal	2034	151.980
+BRA-Distrito Federal	2035	155.037
+BRA-Distrito Federal	2036	158.055
+BRA-Distrito Federal	2037	160.996
+BRA-Distrito Federal	2038	163.872
+BRA-Distrito Federal	2039	166.628
+BRA-Distrito Federal	2040	169.249
+BRA-Distrito Federal	2041	171.698
+BRA-Distrito Federal	2042	174.007
+BRA-Distrito Federal	2043	176.174
+BRA-Distrito Federal	2044	178.207
+BRA-Distrito Federal	2045	180.110
+BRA-Distrito Federal	2046	181.926
+BRA-Distrito Federal	2047	183.658
+BRA-Distrito Federal	2048	185.481
+BRA-Distrito Federal	2049	187.384
+BRA-Distrito Federal	2050	189.170
+BRA-Espirito Santo	1960	 
+BRA-Espirito Santo	1961	 
+BRA-Espirito Santo	1962	 
+BRA-Espirito Santo	1963	 
+BRA-Espirito Santo	1964	 
+BRA-Espirito Santo	1965	 
+BRA-Espirito Santo	1966	 
+BRA-Espirito Santo	1967	 
+BRA-Espirito Santo	1968	 
+BRA-Espirito Santo	1969	 
+BRA-Espirito Santo	1970	 
+BRA-Espirito Santo	1971	 
+BRA-Espirito Santo	1972	 
+BRA-Espirito Santo	1973	 
+BRA-Espirito Santo	1974	 
+BRA-Espirito Santo	1975	 
+BRA-Espirito Santo	1976	 
+BRA-Espirito Santo	1977	 
+BRA-Espirito Santo	1978	 
+BRA-Espirito Santo	1979	 
+BRA-Espirito Santo	1980	 
+BRA-Espirito Santo	1981	 
+BRA-Espirito Santo	1982	 
+BRA-Espirito Santo	1983	 
+BRA-Espirito Santo	1984	 
+BRA-Espirito Santo	1985	 
+BRA-Espirito Santo	1986	 
+BRA-Espirito Santo	1987	 
+BRA-Espirito Santo	1988	 
+BRA-Espirito Santo	1989	 
+BRA-Espirito Santo	1990	 
+BRA-Espirito Santo	1991	 
+BRA-Espirito Santo	1992	 
+BRA-Espirito Santo	1993	 
+BRA-Espirito Santo	1994	 
+BRA-Espirito Santo	1995	28.270
+BRA-Espirito Santo	1996	29.518
+BRA-Espirito Santo	1997	30.170
+BRA-Espirito Santo	1998	31.194
+BRA-Espirito Santo	1999	31.300
+BRA-Espirito Santo	2000	31.446
+BRA-Espirito Santo	2001	32.826
+BRA-Espirito Santo	2002	33.283
+BRA-Espirito Santo	2003	33.993
+BRA-Espirito Santo	2004	39.770
+BRA-Espirito Santo	2005	43.806
+BRA-Espirito Santo	2006	46.647
+BRA-Espirito Santo	2007	49.718
+BRA-Espirito Santo	2008	54.319
+BRA-Espirito Santo	2009	48.597
+BRA-Espirito Santo	2010	55.252
+BRA-Espirito Santo	2011	63.371
+BRA-Espirito Santo	2012	64.740
+BRA-Espirito Santo	2013	60.442
+BRA-Espirito Santo	2014	61.548
+BRA-Espirito Santo	2015	53.475
+BRA-Espirito Santo	2016	44.871
+BRA-Espirito Santo	2017	45.419
+BRA-Espirito Santo	2018	46.775
+BRA-Espirito Santo	2019	48.101
+BRA-Espirito Santo	2020	48.861
+BRA-Espirito Santo	2021	49.837
+BRA-Espirito Santo	2022	50.785
+BRA-Espirito Santo	2023	51.905
+BRA-Espirito Santo	2024	53.241
+BRA-Espirito Santo	2025	55.039
+BRA-Espirito Santo	2026	57.633
+BRA-Espirito Santo	2027	60.474
+BRA-Espirito Santo	2028	63.722
+BRA-Espirito Santo	2029	67.142
+BRA-Espirito Santo	2030	70.702
+BRA-Espirito Santo	2031	74.483
+BRA-Espirito Santo	2032	78.564
+BRA-Espirito Santo	2033	82.785
+BRA-Espirito Santo	2034	87.162
+BRA-Espirito Santo	2035	91.604
+BRA-Espirito Santo	2036	96.036
+BRA-Espirito Santo	2037	100.417
+BRA-Espirito Santo	2038	104.795
+BRA-Espirito Santo	2039	108.897
+BRA-Espirito Santo	2040	112.603
+BRA-Espirito Santo	2041	116.084
+BRA-Espirito Santo	2042	119.429
+BRA-Espirito Santo	2043	122.664
+BRA-Espirito Santo	2044	125.804
+BRA-Espirito Santo	2045	128.850
+BRA-Espirito Santo	2046	131.808
+BRA-Espirito Santo	2047	134.712
+BRA-Espirito Santo	2048	137.578
+BRA-Espirito Santo	2049	140.433
+BRA-Espirito Santo	2050	143.316
+BRA-Goias	1960	 
+BRA-Goias	1961	 
+BRA-Goias	1962	 
+BRA-Goias	1963	 
+BRA-Goias	1964	 
+BRA-Goias	1965	 
+BRA-Goias	1966	 
+BRA-Goias	1967	 
+BRA-Goias	1968	 
+BRA-Goias	1969	 
+BRA-Goias	1970	 
+BRA-Goias	1971	 
+BRA-Goias	1972	 
+BRA-Goias	1973	 
+BRA-Goias	1974	 
+BRA-Goias	1975	 
+BRA-Goias	1976	 
+BRA-Goias	1977	 
+BRA-Goias	1978	 
+BRA-Goias	1979	 
+BRA-Goias	1980	 
+BRA-Goias	1981	 
+BRA-Goias	1982	 
+BRA-Goias	1983	 
+BRA-Goias	1984	 
+BRA-Goias	1985	 
+BRA-Goias	1986	 
+BRA-Goias	1987	 
+BRA-Goias	1988	 
+BRA-Goias	1989	 
+BRA-Goias	1990	 
+BRA-Goias	1991	 
+BRA-Goias	1992	 
+BRA-Goias	1993	 
+BRA-Goias	1994	 
+BRA-Goias	1995	40.372
+BRA-Goias	1996	42.156
+BRA-Goias	1997	43.087
+BRA-Goias	1998	44.550
+BRA-Goias	1999	44.700
+BRA-Goias	2000	44.909
+BRA-Goias	2001	46.880
+BRA-Goias	2002	47.532
+BRA-Goias	2003	49.133
+BRA-Goias	2004	51.151
+BRA-Goias	2005	50.183
+BRA-Goias	2006	53.550
+BRA-Goias	2007	58.531
+BRA-Goias	2008	62.099
+BRA-Goias	2009	65.203
+BRA-Goias	2010	69.150
+BRA-Goias	2011	72.533
+BRA-Goias	2012	76.878
+BRA-Goias	2013	77.979
+BRA-Goias	2014	78.863
+BRA-Goias	2015	77.141
+BRA-Goias	2016	74.643
+BRA-Goias	2017	77.503
+BRA-Goias	2018	80.138
+BRA-Goias	2019	82.124
+BRA-Goias	2020	84.417
+BRA-Goias	2021	86.562
+BRA-Goias	2022	88.705
+BRA-Goias	2023	90.896
+BRA-Goias	2024	93.166
+BRA-Goias	2025	95.706
+BRA-Goias	2026	98.604
+BRA-Goias	2027	101.805
+BRA-Goias	2028	105.335
+BRA-Goias	2029	109.122
+BRA-Goias	2030	112.979
+BRA-Goias	2031	116.995
+BRA-Goias	2032	121.247
+BRA-Goias	2033	125.632
+BRA-Goias	2034	130.200
+BRA-Goias	2035	134.917
+BRA-Goias	2036	139.765
+BRA-Goias	2037	144.750
+BRA-Goias	2038	149.857
+BRA-Goias	2039	155.065
+BRA-Goias	2040	160.291
+BRA-Goias	2041	165.577
+BRA-Goias	2042	170.848
+BRA-Goias	2043	176.166
+BRA-Goias	2044	181.477
+BRA-Goias	2045	186.788
+BRA-Goias	2046	192.122
+BRA-Goias	2047	197.484
+BRA-Goias	2048	202.931
+BRA-Goias	2049	208.495
+BRA-Goias	2050	214.165
+BRA-Maranhao	1960	 
+BRA-Maranhao	1961	 
+BRA-Maranhao	1962	 
+BRA-Maranhao	1963	 
+BRA-Maranhao	1964	 
+BRA-Maranhao	1965	 
+BRA-Maranhao	1966	 
+BRA-Maranhao	1967	 
+BRA-Maranhao	1968	 
+BRA-Maranhao	1969	 
+BRA-Maranhao	1970	 
+BRA-Maranhao	1971	 
+BRA-Maranhao	1972	 
+BRA-Maranhao	1973	 
+BRA-Maranhao	1974	 
+BRA-Maranhao	1975	 
+BRA-Maranhao	1976	 
+BRA-Maranhao	1977	 
+BRA-Maranhao	1978	 
+BRA-Maranhao	1979	 
+BRA-Maranhao	1980	 
+BRA-Maranhao	1981	 
+BRA-Maranhao	1982	 
+BRA-Maranhao	1983	 
+BRA-Maranhao	1984	 
+BRA-Maranhao	1985	 
+BRA-Maranhao	1986	 
+BRA-Maranhao	1987	 
+BRA-Maranhao	1988	 
+BRA-Maranhao	1989	 
+BRA-Maranhao	1990	 
+BRA-Maranhao	1991	 
+BRA-Maranhao	1992	 
+BRA-Maranhao	1993	 
+BRA-Maranhao	1994	 
+BRA-Maranhao	1995	16.643
+BRA-Maranhao	1996	17.378
+BRA-Maranhao	1997	17.761
+BRA-Maranhao	1998	18.365
+BRA-Maranhao	1999	18.427
+BRA-Maranhao	2000	18.513
+BRA-Maranhao	2001	19.325
+BRA-Maranhao	2002	19.594
+BRA-Maranhao	2003	21.033
+BRA-Maranhao	2004	22.148
+BRA-Maranhao	2005	23.388
+BRA-Maranhao	2006	25.922
+BRA-Maranhao	2007	25.188
+BRA-Maranhao	2008	28.581
+BRA-Maranhao	2009	28.783
+BRA-Maranhao	2010	29.993
+BRA-Maranhao	2011	31.181
+BRA-Maranhao	2012	33.514
+BRA-Maranhao	2013	34.889
+BRA-Maranhao	2014	36.724
+BRA-Maranhao	2015	34.865
+BRA-Maranhao	2016	35.037
+BRA-Maranhao	2017	36.494
+BRA-Maranhao	2018	37.909
+BRA-Maranhao	2019	39.472
+BRA-Maranhao	2020	41.001
+BRA-Maranhao	2021	42.531
+BRA-Maranhao	2022	44.097
+BRA-Maranhao	2023	45.707
+BRA-Maranhao	2024	47.369
+BRA-Maranhao	2025	49.139
+BRA-Maranhao	2026	51.044
+BRA-Maranhao	2027	53.070
+BRA-Maranhao	2028	55.213
+BRA-Maranhao	2029	57.469
+BRA-Maranhao	2030	59.774
+BRA-Maranhao	2031	62.196
+BRA-Maranhao	2032	64.710
+BRA-Maranhao	2033	67.350
+BRA-Maranhao	2034	70.091
+BRA-Maranhao	2035	72.929
+BRA-Maranhao	2036	75.857
+BRA-Maranhao	2037	78.874
+BRA-Maranhao	2038	81.983
+BRA-Maranhao	2039	85.191
+BRA-Maranhao	2040	88.515
+BRA-Maranhao	2041	91.957
+BRA-Maranhao	2042	95.547
+BRA-Maranhao	2043	99.278
+BRA-Maranhao	2044	103.154
+BRA-Maranhao	2045	107.131
+BRA-Maranhao	2046	111.261
+BRA-Maranhao	2047	115.512
+BRA-Maranhao	2048	119.875
+BRA-Maranhao	2049	124.380
+BRA-Maranhao	2050	128.970
+BRA-Mato Grosso	1960	 
+BRA-Mato Grosso	1961	 
+BRA-Mato Grosso	1962	 
+BRA-Mato Grosso	1963	 
+BRA-Mato Grosso	1964	 
+BRA-Mato Grosso	1965	 
+BRA-Mato Grosso	1966	 
+BRA-Mato Grosso	1967	 
+BRA-Mato Grosso	1968	 
+BRA-Mato Grosso	1969	 
+BRA-Mato Grosso	1970	 
+BRA-Mato Grosso	1971	 
+BRA-Mato Grosso	1972	 
+BRA-Mato Grosso	1973	 
+BRA-Mato Grosso	1974	 
+BRA-Mato Grosso	1975	 
+BRA-Mato Grosso	1976	 
+BRA-Mato Grosso	1977	 
+BRA-Mato Grosso	1978	 
+BRA-Mato Grosso	1979	 
+BRA-Mato Grosso	1980	 
+BRA-Mato Grosso	1981	 
+BRA-Mato Grosso	1982	 
+BRA-Mato Grosso	1983	 
+BRA-Mato Grosso	1984	 
+BRA-Mato Grosso	1985	 
+BRA-Mato Grosso	1986	 
+BRA-Mato Grosso	1987	 
+BRA-Mato Grosso	1988	 
+BRA-Mato Grosso	1989	 
+BRA-Mato Grosso	1990	 
+BRA-Mato Grosso	1991	 
+BRA-Mato Grosso	1992	 
+BRA-Mato Grosso	1993	 
+BRA-Mato Grosso	1994	 
+BRA-Mato Grosso	1995	20.056
+BRA-Mato Grosso	1996	20.942
+BRA-Mato Grosso	1997	21.405
+BRA-Mato Grosso	1998	22.132
+BRA-Mato Grosso	1999	22.207
+BRA-Mato Grosso	2000	22.310
+BRA-Mato Grosso	2001	23.289
+BRA-Mato Grosso	2002	23.613
+BRA-Mato Grosso	2003	28.792
+BRA-Mato Grosso	2004	33.420
+BRA-Mato Grosso	2005	31.915
+BRA-Mato Grosso	2006	26.786
+BRA-Mato Grosso	2007	31.169
+BRA-Mato Grosso	2008	37.073
+BRA-Mato Grosso	2009	36.997
+BRA-Mato Grosso	2010	36.658
+BRA-Mato Grosso	2011	41.353
+BRA-Mato Grosso	2012	44.138
+BRA-Mato Grosso	2013	45.980
+BRA-Mato Grosso	2014	48.381
+BRA-Mato Grosso	2015	47.724
+BRA-Mato Grosso	2016	50.874
+BRA-Mato Grosso	2017	53.213
+BRA-Mato Grosso	2018	55.295
+BRA-Mato Grosso	2019	57.829
+BRA-Mato Grosso	2020	60.429
+BRA-Mato Grosso	2021	63.218
+BRA-Mato Grosso	2022	66.196
+BRA-Mato Grosso	2023	69.415
+BRA-Mato Grosso	2024	72.868
+BRA-Mato Grosso	2025	76.518
+BRA-Mato Grosso	2026	80.364
+BRA-Mato Grosso	2027	84.484
+BRA-Mato Grosso	2028	88.842
+BRA-Mato Grosso	2029	93.460
+BRA-Mato Grosso	2030	98.279
+BRA-Mato Grosso	2031	103.384
+BRA-Mato Grosso	2032	108.942
+BRA-Mato Grosso	2033	114.467
+BRA-Mato Grosso	2034	120.023
+BRA-Mato Grosso	2035	125.496
+BRA-Mato Grosso	2036	130.874
+BRA-Mato Grosso	2037	136.124
+BRA-Mato Grosso	2038	141.242
+BRA-Mato Grosso	2039	146.204
+BRA-Mato Grosso	2040	151.042
+BRA-Mato Grosso	2041	155.738
+BRA-Mato Grosso	2042	160.343
+BRA-Mato Grosso	2043	164.829
+BRA-Mato Grosso	2044	169.081
+BRA-Mato Grosso	2045	173.269
+BRA-Mato Grosso	2046	177.416
+BRA-Mato Grosso	2047	181.646
+BRA-Mato Grosso	2048	184.984
+BRA-Mato Grosso	2049	187.464
+BRA-Mato Grosso	2050	190.191
+BRA-Mato Grosso do Sul	1960	 
+BRA-Mato Grosso do Sul	1961	 
+BRA-Mato Grosso do Sul	1962	 
+BRA-Mato Grosso do Sul	1963	 
+BRA-Mato Grosso do Sul	1964	 
+BRA-Mato Grosso do Sul	1965	 
+BRA-Mato Grosso do Sul	1966	 
+BRA-Mato Grosso do Sul	1967	 
+BRA-Mato Grosso do Sul	1968	 
+BRA-Mato Grosso do Sul	1969	 
+BRA-Mato Grosso do Sul	1970	 
+BRA-Mato Grosso do Sul	1971	 
+BRA-Mato Grosso do Sul	1972	 
+BRA-Mato Grosso do Sul	1973	 
+BRA-Mato Grosso do Sul	1974	 
+BRA-Mato Grosso do Sul	1975	 
+BRA-Mato Grosso do Sul	1976	 
+BRA-Mato Grosso do Sul	1977	 
+BRA-Mato Grosso do Sul	1978	 
+BRA-Mato Grosso do Sul	1979	 
+BRA-Mato Grosso do Sul	1980	 
+BRA-Mato Grosso do Sul	1981	 
+BRA-Mato Grosso do Sul	1982	 
+BRA-Mato Grosso do Sul	1983	 
+BRA-Mato Grosso do Sul	1984	 
+BRA-Mato Grosso do Sul	1985	 
+BRA-Mato Grosso do Sul	1986	 
+BRA-Mato Grosso do Sul	1987	 
+BRA-Mato Grosso do Sul	1988	 
+BRA-Mato Grosso do Sul	1989	 
+BRA-Mato Grosso do Sul	1990	 
+BRA-Mato Grosso do Sul	1991	 
+BRA-Mato Grosso do Sul	1992	 
+BRA-Mato Grosso do Sul	1993	 
+BRA-Mato Grosso do Sul	1994	 
+BRA-Mato Grosso do Sul	1995	17.182
+BRA-Mato Grosso do Sul	1996	17.941
+BRA-Mato Grosso do Sul	1997	18.337
+BRA-Mato Grosso do Sul	1998	18.960
+BRA-Mato Grosso do Sul	1999	19.024
+BRA-Mato Grosso do Sul	2000	19.113
+BRA-Mato Grosso do Sul	2001	19.952
+BRA-Mato Grosso do Sul	2002	20.229
+BRA-Mato Grosso do Sul	2003	23.561
+BRA-Mato Grosso do Sul	2004	23.394
+BRA-Mato Grosso do Sul	2005	22.103
+BRA-Mato Grosso do Sul	2006	23.268
+BRA-Mato Grosso do Sul	2007	24.659
+BRA-Mato Grosso do Sul	2008	27.290
+BRA-Mato Grosso do Sul	2009	27.746
+BRA-Mato Grosso do Sul	2010	30.615
+BRA-Mato Grosso do Sul	2011	32.968
+BRA-Mato Grosso do Sul	2012	34.358
+BRA-Mato Grosso do Sul	2013	35.667
+BRA-Mato Grosso do Sul	2014	37.731
+BRA-Mato Grosso do Sul	2015	36.912
+BRA-Mato Grosso do Sul	2016	37.740
+BRA-Mato Grosso do Sul	2017	39.296
+BRA-Mato Grosso do Sul	2018	40.754
+BRA-Mato Grosso do Sul	2019	42.292
+BRA-Mato Grosso do Sul	2020	43.772
+BRA-Mato Grosso do Sul	2021	45.277
+BRA-Mato Grosso do Sul	2022	46.830
+BRA-Mato Grosso do Sul	2023	48.463
+BRA-Mato Grosso do Sul	2024	50.187
+BRA-Mato Grosso do Sul	2025	52.028
+BRA-Mato Grosso do Sul	2026	54.005
+BRA-Mato Grosso do Sul	2027	56.135
+BRA-Mato Grosso do Sul	2028	58.444
+BRA-Mato Grosso do Sul	2029	60.921
+BRA-Mato Grosso do Sul	2030	63.493
+BRA-Mato Grosso do Sul	2031	66.214
+BRA-Mato Grosso do Sul	2032	69.004
+BRA-Mato Grosso do Sul	2033	71.906
+BRA-Mato Grosso do Sul	2034	74.876
+BRA-Mato Grosso do Sul	2035	77.890
+BRA-Mato Grosso do Sul	2036	80.925
+BRA-Mato Grosso do Sul	2037	83.963
+BRA-Mato Grosso do Sul	2038	86.996
+BRA-Mato Grosso do Sul	2039	90.018
+BRA-Mato Grosso do Sul	2040	93.036
+BRA-Mato Grosso do Sul	2041	96.046
+BRA-Mato Grosso do Sul	2042	99.043
+BRA-Mato Grosso do Sul	2043	102.024
+BRA-Mato Grosso do Sul	2044	104.990
+BRA-Mato Grosso do Sul	2045	107.885
+BRA-Mato Grosso do Sul	2046	110.787
+BRA-Mato Grosso do Sul	2047	113.661
+BRA-Mato Grosso do Sul	2048	116.512
+BRA-Mato Grosso do Sul	2049	119.329
+BRA-Mato Grosso do Sul	2050	122.098
+BRA-Minas Gerais	1960	 
+BRA-Minas Gerais	1961	 
+BRA-Minas Gerais	1962	 
+BRA-Minas Gerais	1963	 
+BRA-Minas Gerais	1964	 
+BRA-Minas Gerais	1965	 
+BRA-Minas Gerais	1966	 
+BRA-Minas Gerais	1967	 
+BRA-Minas Gerais	1968	 
+BRA-Minas Gerais	1969	 
+BRA-Minas Gerais	1970	 
+BRA-Minas Gerais	1971	 
+BRA-Minas Gerais	1972	 
+BRA-Minas Gerais	1973	 
+BRA-Minas Gerais	1974	 
+BRA-Minas Gerais	1975	 
+BRA-Minas Gerais	1976	 
+BRA-Minas Gerais	1977	 
+BRA-Minas Gerais	1978	 
+BRA-Minas Gerais	1979	 
+BRA-Minas Gerais	1980	 
+BRA-Minas Gerais	1981	 
+BRA-Minas Gerais	1982	 
+BRA-Minas Gerais	1983	 
+BRA-Minas Gerais	1984	 
+BRA-Minas Gerais	1985	 
+BRA-Minas Gerais	1986	 
+BRA-Minas Gerais	1987	 
+BRA-Minas Gerais	1988	 
+BRA-Minas Gerais	1989	 
+BRA-Minas Gerais	1990	 
+BRA-Minas Gerais	1991	 
+BRA-Minas Gerais	1992	 
+BRA-Minas Gerais	1993	 
+BRA-Minas Gerais	1994	 
+BRA-Minas Gerais	1995	129.669
+BRA-Minas Gerais	1996	135.397
+BRA-Minas Gerais	1997	138.388
+BRA-Minas Gerais	1998	143.086
+BRA-Minas Gerais	1999	143.570
+BRA-Minas Gerais	2000	144.242
+BRA-Minas Gerais	2001	150.571
+BRA-Minas Gerais	2002	152.664
+BRA-Minas Gerais	2003	155.505
+BRA-Minas Gerais	2004	172.031
+BRA-Minas Gerais	2005	175.488
+BRA-Minas Gerais	2006	185.544
+BRA-Minas Gerais	2007	197.005
+BRA-Minas Gerais	2008	209.922
+BRA-Minas Gerais	2009	201.820
+BRA-Minas Gerais	2010	227.407
+BRA-Minas Gerais	2011	239.266
+BRA-Minas Gerais	2012	245.043
+BRA-Minas Gerais	2013	251.514
+BRA-Minas Gerais	2014	246.906
+BRA-Minas Gerais	2015	230.726
+BRA-Minas Gerais	2016	223.745
+BRA-Minas Gerais	2017	232.208
+BRA-Minas Gerais	2018	238.467
+BRA-Minas Gerais	2019	243.828
+BRA-Minas Gerais	2020	250.275
+BRA-Minas Gerais	2021	256.047
+BRA-Minas Gerais	2022	262.089
+BRA-Minas Gerais	2023	268.371
+BRA-Minas Gerais	2024	274.975
+BRA-Minas Gerais	2025	282.367
+BRA-Minas Gerais	2026	290.822
+BRA-Minas Gerais	2027	299.841
+BRA-Minas Gerais	2028	309.678
+BRA-Minas Gerais	2029	320.174
+BRA-Minas Gerais	2030	330.981
+BRA-Minas Gerais	2031	342.375
+BRA-Minas Gerais	2032	354.247
+BRA-Minas Gerais	2033	366.691
+BRA-Minas Gerais	2034	379.568
+BRA-Minas Gerais	2035	392.824
+BRA-Minas Gerais	2036	406.349
+BRA-Minas Gerais	2037	420.033
+BRA-Minas Gerais	2038	433.780
+BRA-Minas Gerais	2039	447.464
+BRA-Minas Gerais	2040	460.941
+BRA-Minas Gerais	2041	474.098
+BRA-Minas Gerais	2042	486.828
+BRA-Minas Gerais	2043	499.039
+BRA-Minas Gerais	2044	510.702
+BRA-Minas Gerais	2045	521.681
+BRA-Minas Gerais	2046	532.092
+BRA-Minas Gerais	2047	541.840
+BRA-Minas Gerais	2048	550.967
+BRA-Minas Gerais	2049	559.518
+BRA-Minas Gerais	2050	567.360
+BRA-Para	1960	 
+BRA-Para	1961	 
+BRA-Para	1962	 
+BRA-Para	1963	 
+BRA-Para	1964	 
+BRA-Para	1965	 
+BRA-Para	1966	 
+BRA-Para	1967	 
+BRA-Para	1968	 
+BRA-Para	1969	 
+BRA-Para	1970	 
+BRA-Para	1971	 
+BRA-Para	1972	 
+BRA-Para	1973	 
+BRA-Para	1974	 
+BRA-Para	1975	 
+BRA-Para	1976	 
+BRA-Para	1977	 
+BRA-Para	1978	 
+BRA-Para	1979	 
+BRA-Para	1980	 
+BRA-Para	1981	 
+BRA-Para	1982	 
+BRA-Para	1983	 
+BRA-Para	1984	 
+BRA-Para	1985	 
+BRA-Para	1986	 
+BRA-Para	1987	 
+BRA-Para	1988	 
+BRA-Para	1989	 
+BRA-Para	1990	 
+BRA-Para	1991	 
+BRA-Para	1992	 
+BRA-Para	1993	 
+BRA-Para	1994	 
+BRA-Para	1995	27.677
+BRA-Para	1996	28.900
+BRA-Para	1997	29.538
+BRA-Para	1998	30.541
+BRA-Para	1999	30.644
+BRA-Para	2000	30.787
+BRA-Para	2001	32.138
+BRA-Para	2002	32.585
+BRA-Para	2003	32.646
+BRA-Para	2004	37.307
+BRA-Para	2005	37.753
+BRA-Para	2006	40.120
+BRA-Para	2007	42.496
+BRA-Para	2008	45.929
+BRA-Para	2009	43.296
+BRA-Para	2010	53.551
+BRA-Para	2011	59.027
+BRA-Para	2012	59.327
+BRA-Para	2013	62.478
+BRA-Para	2014	59.541
+BRA-Para	2015	58.149
+BRA-Para	2016	56.714
+BRA-Para	2017	59.330
+BRA-Para	2018	61.381
+BRA-Para	2019	63.254
+BRA-Para	2020	65.538
+BRA-Para	2021	67.730
+BRA-Para	2022	70.032
+BRA-Para	2023	72.497
+BRA-Para	2024	75.132
+BRA-Para	2025	78.049
+BRA-Para	2026	81.240
+BRA-Para	2027	84.628
+BRA-Para	2028	88.189
+BRA-Para	2029	91.930
+BRA-Para	2030	95.789
+BRA-Para	2031	99.796
+BRA-Para	2032	104.334
+BRA-Para	2033	109.051
+BRA-Para	2034	114.042
+BRA-Para	2035	119.181
+BRA-Para	2036	124.431
+BRA-Para	2037	129.768
+BRA-Para	2038	135.133
+BRA-Para	2039	140.511
+BRA-Para	2040	145.876
+BRA-Para	2041	151.217
+BRA-Para	2042	156.536
+BRA-Para	2043	161.816
+BRA-Para	2044	167.038
+BRA-Para	2045	172.174
+BRA-Para	2046	177.079
+BRA-Para	2047	181.942
+BRA-Para	2048	186.779
+BRA-Para	2049	191.477
+BRA-Para	2050	195.981
+BRA-Paraiba	1960	 
+BRA-Paraiba	1961	 
+BRA-Paraiba	1962	 
+BRA-Paraiba	1963	 
+BRA-Paraiba	1964	 
+BRA-Paraiba	1965	 
+BRA-Paraiba	1966	 
+BRA-Paraiba	1967	 
+BRA-Paraiba	1968	 
+BRA-Paraiba	1969	 
+BRA-Paraiba	1970	 
+BRA-Paraiba	1971	 
+BRA-Paraiba	1972	 
+BRA-Paraiba	1973	 
+BRA-Paraiba	1974	 
+BRA-Paraiba	1975	 
+BRA-Paraiba	1976	 
+BRA-Paraiba	1977	 
+BRA-Paraiba	1978	 
+BRA-Paraiba	1979	 
+BRA-Paraiba	1980	 
+BRA-Paraiba	1981	 
+BRA-Paraiba	1982	 
+BRA-Paraiba	1983	 
+BRA-Paraiba	1984	 
+BRA-Paraiba	1985	 
+BRA-Paraiba	1986	 
+BRA-Paraiba	1987	 
+BRA-Paraiba	1988	 
+BRA-Paraiba	1989	 
+BRA-Paraiba	1990	 
+BRA-Paraiba	1991	 
+BRA-Paraiba	1992	 
+BRA-Paraiba	1993	 
+BRA-Paraiba	1994	 
+BRA-Paraiba	1995	13.322
+BRA-Paraiba	1996	13.911
+BRA-Paraiba	1997	14.218
+BRA-Paraiba	1998	14.701
+BRA-Paraiba	1999	14.750
+BRA-Paraiba	2000	14.819
+BRA-Paraiba	2001	15.470
+BRA-Paraiba	2002	15.685
+BRA-Paraiba	2003	15.894
+BRA-Paraiba	2004	15.773
+BRA-Paraiba	2005	16.357
+BRA-Paraiba	2006	18.181
+BRA-Paraiba	2007	18.778
+BRA-Paraiba	2008	20.260
+BRA-Paraiba	2009	21.225
+BRA-Paraiba	2010	21.711
+BRA-Paraiba	2011	22.191
+BRA-Paraiba	2012	23.540
+BRA-Paraiba	2013	23.903
+BRA-Paraiba	2014	25.299
+BRA-Paraiba	2015	24.942
+BRA-Paraiba	2016	24.274
+BRA-Paraiba	2017	25.295
+BRA-Paraiba	2018	26.046
+BRA-Paraiba	2019	26.721
+BRA-Paraiba	2020	27.535
+BRA-Paraiba	2021	28.263
+BRA-Paraiba	2022	29.017
+BRA-Paraiba	2023	29.792
+BRA-Paraiba	2024	30.592
+BRA-Paraiba	2025	31.460
+BRA-Paraiba	2026	32.412
+BRA-Paraiba	2027	33.428
+BRA-Paraiba	2028	34.513
+BRA-Paraiba	2029	35.672
+BRA-Paraiba	2030	36.868
+BRA-Paraiba	2031	38.146
+BRA-Paraiba	2032	39.466
+BRA-Paraiba	2033	40.864
+BRA-Paraiba	2034	42.315
+BRA-Paraiba	2035	43.820
+BRA-Paraiba	2036	45.369
+BRA-Paraiba	2037	46.958
+BRA-Paraiba	2038	48.585
+BRA-Paraiba	2039	50.255
+BRA-Paraiba	2040	51.974
+BRA-Paraiba	2041	53.754
+BRA-Paraiba	2042	55.594
+BRA-Paraiba	2043	57.496
+BRA-Paraiba	2044	59.457
+BRA-Paraiba	2045	61.464
+BRA-Paraiba	2046	63.534
+BRA-Paraiba	2047	65.664
+BRA-Paraiba	2048	67.847
+BRA-Paraiba	2049	70.095
+BRA-Paraiba	2050	72.414
+BRA-Parana	1960	 
+BRA-Parana	1961	 
+BRA-Parana	1962	 
+BRA-Parana	1963	 
+BRA-Parana	1964	 
+BRA-Parana	1965	 
+BRA-Parana	1966	 
+BRA-Parana	1967	 
+BRA-Parana	1968	 
+BRA-Parana	1969	 
+BRA-Parana	1970	 
+BRA-Parana	1971	 
+BRA-Parana	1972	 
+BRA-Parana	1973	 
+BRA-Parana	1974	 
+BRA-Parana	1975	 
+BRA-Parana	1976	 
+BRA-Parana	1977	 
+BRA-Parana	1978	 
+BRA-Parana	1979	 
+BRA-Parana	1980	 
+BRA-Parana	1981	 
+BRA-Parana	1982	 
+BRA-Parana	1983	 
+BRA-Parana	1984	 
+BRA-Parana	1985	 
+BRA-Parana	1986	 
+BRA-Parana	1987	 
+BRA-Parana	1988	 
+BRA-Parana	1989	 
+BRA-Parana	1990	 
+BRA-Parana	1991	 
+BRA-Parana	1992	 
+BRA-Parana	1993	 
+BRA-Parana	1994	 
+BRA-Parana	1995	92.217
+BRA-Parana	1996	96.290
+BRA-Parana	1997	98.417
+BRA-Parana	1998	101.759
+BRA-Parana	1999	102.103
+BRA-Parana	2000	102.580
+BRA-Parana	2001	107.082
+BRA-Parana	2002	108.570
+BRA-Parana	2003	118.675
+BRA-Parana	2004	123.566
+BRA-Parana	2005	118.751
+BRA-Parana	2006	120.097
+BRA-Parana	2007	135.412
+BRA-Parana	2008	139.907
+BRA-Parana	2009	138.090
+BRA-Parana	2010	145.855
+BRA-Parana	2011	153.754
+BRA-Parana	2012	158.245
+BRA-Parana	2013	171.874
+BRA-Parana	2014	166.354
+BRA-Parana	2015	167.475
+BRA-Parana	2016	165.009
+BRA-Parana	2017	170.579
+BRA-Parana	2018	175.257
+BRA-Parana	2019	180.320
+BRA-Parana	2020	184.977
+BRA-Parana	2021	189.580
+BRA-Parana	2022	194.308
+BRA-Parana	2023	199.262
+BRA-Parana	2024	204.463
+BRA-Parana	2025	210.163
+BRA-Parana	2026	216.453
+BRA-Parana	2027	223.177
+BRA-Parana	2028	230.326
+BRA-Parana	2029	237.792
+BRA-Parana	2030	245.212
+BRA-Parana	2031	252.758
+BRA-Parana	2032	260.945
+BRA-Parana	2033	269.243
+BRA-Parana	2034	277.905
+BRA-Parana	2035	286.721
+BRA-Parana	2036	295.722
+BRA-Parana	2037	304.704
+BRA-Parana	2038	313.796
+BRA-Parana	2039	322.908
+BRA-Parana	2040	332.034
+BRA-Parana	2041	341.125
+BRA-Parana	2042	350.233
+BRA-Parana	2043	359.323
+BRA-Parana	2044	368.256
+BRA-Parana	2045	377.038
+BRA-Parana	2046	385.602
+BRA-Parana	2047	393.772
+BRA-Parana	2048	402.085
+BRA-Parana	2049	410.507
+BRA-Parana	2050	418.556
+BRA-Pernambuco	1960	 
+BRA-Pernambuco	1961	 
+BRA-Pernambuco	1962	 
+BRA-Pernambuco	1963	 
+BRA-Pernambuco	1964	 
+BRA-Pernambuco	1965	 
+BRA-Pernambuco	1966	 
+BRA-Pernambuco	1967	 
+BRA-Pernambuco	1968	 
+BRA-Pernambuco	1969	 
+BRA-Pernambuco	1970	 
+BRA-Pernambuco	1971	 
+BRA-Pernambuco	1972	 
+BRA-Pernambuco	1973	 
+BRA-Pernambuco	1974	 
+BRA-Pernambuco	1975	 
+BRA-Pernambuco	1976	 
+BRA-Pernambuco	1977	 
+BRA-Pernambuco	1978	 
+BRA-Pernambuco	1979	 
+BRA-Pernambuco	1980	 
+BRA-Pernambuco	1981	 
+BRA-Pernambuco	1982	 
+BRA-Pernambuco	1983	 
+BRA-Pernambuco	1984	 
+BRA-Pernambuco	1985	 
+BRA-Pernambuco	1986	 
+BRA-Pernambuco	1987	 
+BRA-Pernambuco	1988	 
+BRA-Pernambuco	1989	 
+BRA-Pernambuco	1990	 
+BRA-Pernambuco	1991	 
+BRA-Pernambuco	1992	 
+BRA-Pernambuco	1993	 
+BRA-Pernambuco	1994	 
+BRA-Pernambuco	1995	37.683
+BRA-Pernambuco	1996	39.347
+BRA-Pernambuco	1997	40.217
+BRA-Pernambuco	1998	41.582
+BRA-Pernambuco	1999	41.723
+BRA-Pernambuco	2000	41.918
+BRA-Pernambuco	2001	43.757
+BRA-Pernambuco	2002	44.365
+BRA-Pernambuco	2003	41.862
+BRA-Pernambuco	2004	45.025
+BRA-Pernambuco	2005	46.806
+BRA-Pernambuco	2006	48.411
+BRA-Pernambuco	2007	51.194
+BRA-Pernambuco	2008	53.055
+BRA-Pernambuco	2009	56.002
+BRA-Pernambuco	2010	62.945
+BRA-Pernambuco	2011	65.874
+BRA-Pernambuco	2012	70.911
+BRA-Pernambuco	2013	72.748
+BRA-Pernambuco	2014	74.145
+BRA-Pernambuco	2015	69.732
+BRA-Pernambuco	2016	68.722
+BRA-Pernambuco	2017	71.439
+BRA-Pernambuco	2018	73.452
+BRA-Pernambuco	2019	75.527
+BRA-Pernambuco	2020	77.583
+BRA-Pernambuco	2021	79.456
+BRA-Pernambuco	2022	81.307
+BRA-Pernambuco	2023	83.152
+BRA-Pernambuco	2024	85.003
+BRA-Pernambuco	2025	86.971
+BRA-Pernambuco	2026	89.090
+BRA-Pernambuco	2027	91.303
+BRA-Pernambuco	2028	93.620
+BRA-Pernambuco	2029	96.016
+BRA-Pernambuco	2030	98.366
+BRA-Pernambuco	2031	100.740
+BRA-Pernambuco	2032	103.348
+BRA-Pernambuco	2033	106.011
+BRA-Pernambuco	2034	108.779
+BRA-Pernambuco	2035	111.603
+BRA-Pernambuco	2036	114.453
+BRA-Pernambuco	2037	117.344
+BRA-Pernambuco	2038	120.270
+BRA-Pernambuco	2039	123.222
+BRA-Pernambuco	2040	126.191
+BRA-Pernambuco	2041	129.154
+BRA-Pernambuco	2042	132.159
+BRA-Pernambuco	2043	135.173
+BRA-Pernambuco	2044	138.216
+BRA-Pernambuco	2045	141.265
+BRA-Pernambuco	2046	144.394
+BRA-Pernambuco	2047	147.632
+BRA-Pernambuco	2048	150.983
+BRA-Pernambuco	2049	154.487
+BRA-Pernambuco	2050	158.046
+BRA-Piaui	1960	 
+BRA-Piaui	1961	 
+BRA-Piaui	1962	 
+BRA-Piaui	1963	 
+BRA-Piaui	1964	 
+BRA-Piaui	1965	 
+BRA-Piaui	1966	 
+BRA-Piaui	1967	 
+BRA-Piaui	1968	 
+BRA-Piaui	1969	 
+BRA-Piaui	1970	 
+BRA-Piaui	1971	 
+BRA-Piaui	1972	 
+BRA-Piaui	1973	 
+BRA-Piaui	1974	 
+BRA-Piaui	1975	 
+BRA-Piaui	1976	 
+BRA-Piaui	1977	 
+BRA-Piaui	1978	 
+BRA-Piaui	1979	 
+BRA-Piaui	1980	 
+BRA-Piaui	1981	 
+BRA-Piaui	1982	 
+BRA-Piaui	1983	 
+BRA-Piaui	1984	 
+BRA-Piaui	1985	 
+BRA-Piaui	1986	 
+BRA-Piaui	1987	 
+BRA-Piaui	1988	 
+BRA-Piaui	1989	 
+BRA-Piaui	1990	 
+BRA-Piaui	1991	 
+BRA-Piaui	1992	 
+BRA-Piaui	1993	 
+BRA-Piaui	1994	 
+BRA-Piaui	1995	7.444
+BRA-Piaui	1996	7.773
+BRA-Piaui	1997	7.944
+BRA-Piaui	1998	8.214
+BRA-Piaui	1999	8.242
+BRA-Piaui	2000	8.281
+BRA-Piaui	2001	8.644
+BRA-Piaui	2002	8.764
+BRA-Piaui	2003	9.075
+BRA-Piaui	2004	9.415
+BRA-Piaui	2005	9.980
+BRA-Piaui	2006	11.657
+BRA-Piaui	2007	11.259
+BRA-Piaui	2008	12.209
+BRA-Piaui	2009	13.303
+BRA-Piaui	2010	14.423
+BRA-Piaui	2011	15.512
+BRA-Piaui	2012	15.866
+BRA-Piaui	2013	16.123
+BRA-Piaui	2014	18.029
+BRA-Piaui	2015	17.393
+BRA-Piaui	2016	17.010
+BRA-Piaui	2017	17.766
+BRA-Piaui	2018	18.355
+BRA-Piaui	2019	19.217
+BRA-Piaui	2020	20.084
+BRA-Piaui	2021	20.764
+BRA-Piaui	2022	21.537
+BRA-Piaui	2023	22.256
+BRA-Piaui	2024	22.998
+BRA-Piaui	2025	23.803
+BRA-Piaui	2026	24.690
+BRA-Piaui	2027	25.636
+BRA-Piaui	2028	26.649
+BRA-Piaui	2029	27.726
+BRA-Piaui	2030	28.831
+BRA-Piaui	2031	29.990
+BRA-Piaui	2032	31.218
+BRA-Piaui	2033	32.497
+BRA-Piaui	2034	33.841
+BRA-Piaui	2035	35.252
+BRA-Piaui	2036	36.733
+BRA-Piaui	2037	38.284
+BRA-Piaui	2038	39.910
+BRA-Piaui	2039	41.604
+BRA-Piaui	2040	43.361
+BRA-Piaui	2041	45.176
+BRA-Piaui	2042	47.049
+BRA-Piaui	2043	48.973
+BRA-Piaui	2044	50.954
+BRA-Piaui	2045	53.003
+BRA-Piaui	2046	55.129
+BRA-Piaui	2047	57.328
+BRA-Piaui	2048	59.613
+BRA-Piaui	2049	61.984
+BRA-Piaui	2050	64.445
+BRA-Rio de Janeiro	1960	 
+BRA-Rio de Janeiro	1961	 
+BRA-Rio de Janeiro	1962	 
+BRA-Rio de Janeiro	1963	 
+BRA-Rio de Janeiro	1964	 
+BRA-Rio de Janeiro	1965	 
+BRA-Rio de Janeiro	1966	 
+BRA-Rio de Janeiro	1967	 
+BRA-Rio de Janeiro	1968	 
+BRA-Rio de Janeiro	1969	 
+BRA-Rio de Janeiro	1970	 
+BRA-Rio de Janeiro	1971	 
+BRA-Rio de Janeiro	1972	 
+BRA-Rio de Janeiro	1973	 
+BRA-Rio de Janeiro	1974	 
+BRA-Rio de Janeiro	1975	 
+BRA-Rio de Janeiro	1976	 
+BRA-Rio de Janeiro	1977	 
+BRA-Rio de Janeiro	1978	 
+BRA-Rio de Janeiro	1979	 
+BRA-Rio de Janeiro	1980	 
+BRA-Rio de Janeiro	1981	 
+BRA-Rio de Janeiro	1982	 
+BRA-Rio de Janeiro	1983	 
+BRA-Rio de Janeiro	1984	 
+BRA-Rio de Janeiro	1985	 
+BRA-Rio de Janeiro	1986	 
+BRA-Rio de Janeiro	1987	 
+BRA-Rio de Janeiro	1988	 
+BRA-Rio de Janeiro	1989	 
+BRA-Rio de Janeiro	1990	 
+BRA-Rio de Janeiro	1991	 
+BRA-Rio de Janeiro	1992	 
+BRA-Rio de Janeiro	1993	 
+BRA-Rio de Janeiro	1994	 
+BRA-Rio de Janeiro	1995	192.628
+BRA-Rio de Janeiro	1996	201.136
+BRA-Rio de Janeiro	1997	205.579
+BRA-Rio de Janeiro	1998	212.558
+BRA-Rio de Janeiro	1999	213.277
+BRA-Rio de Janeiro	2000	214.275
+BRA-Rio de Janeiro	2001	223.677
+BRA-Rio de Janeiro	2002	226.786
+BRA-Rio de Janeiro	2003	218.543
+BRA-Rio de Janeiro	2004	241.431
+BRA-Rio de Janeiro	2005	251.385
+BRA-Rio de Janeiro	2006	261.520
+BRA-Rio de Janeiro	2007	265.316
+BRA-Rio de Janeiro	2008	285.027
+BRA-Rio de Janeiro	2009	274.986
+BRA-Rio de Janeiro	2010	291.353
+BRA-Rio de Janeiro	2011	306.624
+BRA-Rio de Janeiro	2012	318.510
+BRA-Rio de Janeiro	2013	323.783
+BRA-Rio de Janeiro	2014	320.717
+BRA-Rio de Janeiro	2015	292.841
+BRA-Rio de Janeiro	2016	263.000
+BRA-Rio de Janeiro	2017	267.003
+BRA-Rio de Janeiro	2018	273.279
+BRA-Rio de Janeiro	2019	277.068
+BRA-Rio de Janeiro	2020	281.049
+BRA-Rio de Janeiro	2021	282.729
+BRA-Rio de Janeiro	2022	285.023
+BRA-Rio de Janeiro	2023	286.634
+BRA-Rio de Janeiro	2024	288.541
+BRA-Rio de Janeiro	2025	291.091
+BRA-Rio de Janeiro	2026	294.828
+BRA-Rio de Janeiro	2027	299.478
+BRA-Rio de Janeiro	2028	305.265
+BRA-Rio de Janeiro	2029	311.558
+BRA-Rio de Janeiro	2030	317.998
+BRA-Rio de Janeiro	2031	324.663
+BRA-Rio de Janeiro	2032	331.965
+BRA-Rio de Janeiro	2033	339.516
+BRA-Rio de Janeiro	2034	347.720
+BRA-Rio de Janeiro	2035	356.601
+BRA-Rio de Janeiro	2036	366.628
+BRA-Rio de Janeiro	2037	378.179
+BRA-Rio de Janeiro	2038	392.090
+BRA-Rio de Janeiro	2039	408.796
+BRA-Rio de Janeiro	2040	427.894
+BRA-Rio de Janeiro	2041	449.201
+BRA-Rio de Janeiro	2042	472.054
+BRA-Rio de Janeiro	2043	496.500
+BRA-Rio de Janeiro	2044	522.010
+BRA-Rio de Janeiro	2045	548.769
+BRA-Rio de Janeiro	2046	576.745
+BRA-Rio de Janeiro	2047	605.897
+BRA-Rio de Janeiro	2048	635.058
+BRA-Rio de Janeiro	2049	663.273
+BRA-Rio de Janeiro	2050	690.936
+BRA-Rio Grande do Norte	1960	 
+BRA-Rio Grande do Norte	1961	 
+BRA-Rio Grande do Norte	1962	 
+BRA-Rio Grande do Norte	1963	 
+BRA-Rio Grande do Norte	1964	 
+BRA-Rio Grande do Norte	1965	 
+BRA-Rio Grande do Norte	1966	 
+BRA-Rio Grande do Norte	1967	 
+BRA-Rio Grande do Norte	1968	 
+BRA-Rio Grande do Norte	1969	 
+BRA-Rio Grande do Norte	1970	 
+BRA-Rio Grande do Norte	1971	 
+BRA-Rio Grande do Norte	1972	 
+BRA-Rio Grande do Norte	1973	 
+BRA-Rio Grande do Norte	1974	 
+BRA-Rio Grande do Norte	1975	 
+BRA-Rio Grande do Norte	1976	 
+BRA-Rio Grande do Norte	1977	 
+BRA-Rio Grande do Norte	1978	 
+BRA-Rio Grande do Norte	1979	 
+BRA-Rio Grande do Norte	1980	 
+BRA-Rio Grande do Norte	1981	 
+BRA-Rio Grande do Norte	1982	 
+BRA-Rio Grande do Norte	1983	 
+BRA-Rio Grande do Norte	1984	 
+BRA-Rio Grande do Norte	1985	 
+BRA-Rio Grande do Norte	1986	 
+BRA-Rio Grande do Norte	1987	 
+BRA-Rio Grande do Norte	1988	 
+BRA-Rio Grande do Norte	1989	 
+BRA-Rio Grande do Norte	1990	 
+BRA-Rio Grande do Norte	1991	 
+BRA-Rio Grande do Norte	1992	 
+BRA-Rio Grande do Norte	1993	 
+BRA-Rio Grande do Norte	1994	 
+BRA-Rio Grande do Norte	1995	14.179
+BRA-Rio Grande do Norte	1996	14.805
+BRA-Rio Grande do Norte	1997	15.132
+BRA-Rio Grande do Norte	1998	15.646
+BRA-Rio Grande do Norte	1999	15.699
+BRA-Rio Grande do Norte	2000	15.772
+BRA-Rio Grande do Norte	2001	16.465
+BRA-Rio Grande do Norte	2002	16.693
+BRA-Rio Grande do Norte	2003	16.032
+BRA-Rio Grande do Norte	2004	17.268
+BRA-Rio Grande do Norte	2005	18.602
+BRA-Rio Grande do Norte	2006	19.972
+BRA-Rio Grande do Norte	2007	21.572
+BRA-Rio Grande do Norte	2008	21.774
+BRA-Rio Grande do Norte	2009	21.724
+BRA-Rio Grande do Norte	2010	23.435
+BRA-Rio Grande do Norte	2011	24.513
+BRA-Rio Grande do Norte	2012	25.714
+BRA-Rio Grande do Norte	2013	26.552
+BRA-Rio Grande do Norte	2014	25.818
+BRA-Rio Grande do Norte	2015	25.435
+BRA-Rio Grande do Norte	2016	24.509
+BRA-Rio Grande do Norte	2017	25.551
+BRA-Rio Grande do Norte	2018	26.260
+BRA-Rio Grande do Norte	2019	26.872
+BRA-Rio Grande do Norte	2020	27.522
+BRA-Rio Grande do Norte	2021	28.209
+BRA-Rio Grande do Norte	2022	28.878
+BRA-Rio Grande do Norte	2023	29.566
+BRA-Rio Grande do Norte	2024	30.270
+BRA-Rio Grande do Norte	2025	31.037
+BRA-Rio Grande do Norte	2026	31.886
+BRA-Rio Grande do Norte	2027	32.797
+BRA-Rio Grande do Norte	2028	33.775
+BRA-Rio Grande do Norte	2029	34.814
+BRA-Rio Grande do Norte	2030	35.867
+BRA-Rio Grande do Norte	2031	36.966
+BRA-Rio Grande do Norte	2032	38.123
+BRA-Rio Grande do Norte	2033	39.326
+BRA-Rio Grande do Norte	2034	40.583
+BRA-Rio Grande do Norte	2035	41.895
+BRA-Rio Grande do Norte	2036	43.250
+BRA-Rio Grande do Norte	2037	44.657
+BRA-Rio Grande do Norte	2038	46.116
+BRA-Rio Grande do Norte	2039	47.623
+BRA-Rio Grande do Norte	2040	49.178
+BRA-Rio Grande do Norte	2041	50.759
+BRA-Rio Grande do Norte	2042	52.384
+BRA-Rio Grande do Norte	2043	54.037
+BRA-Rio Grande do Norte	2044	55.720
+BRA-Rio Grande do Norte	2045	57.420
+BRA-Rio Grande do Norte	2046	59.153
+BRA-Rio Grande do Norte	2047	60.915
+BRA-Rio Grande do Norte	2048	62.712
+BRA-Rio Grande do Norte	2049	64.543
+BRA-Rio Grande do Norte	2050	66.412
+BRA-Rio Grande do Sul	1960	 
+BRA-Rio Grande do Sul	1961	 
+BRA-Rio Grande do Sul	1962	 
+BRA-Rio Grande do Sul	1963	 
+BRA-Rio Grande do Sul	1964	 
+BRA-Rio Grande do Sul	1965	 
+BRA-Rio Grande do Sul	1966	 
+BRA-Rio Grande do Sul	1967	 
+BRA-Rio Grande do Sul	1968	 
+BRA-Rio Grande do Sul	1969	 
+BRA-Rio Grande do Sul	1970	 
+BRA-Rio Grande do Sul	1971	 
+BRA-Rio Grande do Sul	1972	 
+BRA-Rio Grande do Sul	1973	 
+BRA-Rio Grande do Sul	1974	 
+BRA-Rio Grande do Sul	1975	 
+BRA-Rio Grande do Sul	1976	 
+BRA-Rio Grande do Sul	1977	 
+BRA-Rio Grande do Sul	1978	 
+BRA-Rio Grande do Sul	1979	 
+BRA-Rio Grande do Sul	1980	 
+BRA-Rio Grande do Sul	1981	 
+BRA-Rio Grande do Sul	1982	 
+BRA-Rio Grande do Sul	1983	 
+BRA-Rio Grande do Sul	1984	 
+BRA-Rio Grande do Sul	1985	 
+BRA-Rio Grande do Sul	1986	 
+BRA-Rio Grande do Sul	1987	 
+BRA-Rio Grande do Sul	1988	 
+BRA-Rio Grande do Sul	1989	 
+BRA-Rio Grande do Sul	1990	 
+BRA-Rio Grande do Sul	1991	 
+BRA-Rio Grande do Sul	1992	 
+BRA-Rio Grande do Sul	1993	 
+BRA-Rio Grande do Sul	1994	 
+BRA-Rio Grande do Sul	1995	103.307
+BRA-Rio Grande do Sul	1996	107.870
+BRA-Rio Grande do Sul	1997	110.253
+BRA-Rio Grande do Sul	1998	113.996
+BRA-Rio Grande do Sul	1999	114.382
+BRA-Rio Grande do Sul	2000	114.917
+BRA-Rio Grande do Sul	2001	119.960
+BRA-Rio Grande do Sul	2002	121.627
+BRA-Rio Grande do Sul	2003	128.690
+BRA-Rio Grande do Sul	2004	131.314
+BRA-Rio Grande do Sul	2005	127.041
+BRA-Rio Grande do Sul	2006	128.800
+BRA-Rio Grande do Sul	2007	137.707
+BRA-Rio Grande do Sul	2008	143.332
+BRA-Rio Grande do Sul	2009	143.475
+BRA-Rio Grande do Sul	2010	156.246
+BRA-Rio Grande do Sul	2011	158.498
+BRA-Rio Grande do Sul	2012	159.335
+BRA-Rio Grande do Sul	2013	171.261
+BRA-Rio Grande do Sul	2014	171.005
+BRA-Rio Grande do Sul	2015	169.708
+BRA-Rio Grande do Sul	2016	167.876
+BRA-Rio Grande do Sul	2017	172.926
+BRA-Rio Grande do Sul	2018	176.839
+BRA-Rio Grande do Sul	2019	181.533
+BRA-Rio Grande do Sul	2020	185.482
+BRA-Rio Grande do Sul	2021	189.466
+BRA-Rio Grande do Sul	2022	193.477
+BRA-Rio Grande do Sul	2023	197.723
+BRA-Rio Grande do Sul	2024	202.210
+BRA-Rio Grande do Sul	2025	207.143
+BRA-Rio Grande do Sul	2026	212.618
+BRA-Rio Grande do Sul	2027	218.573
+BRA-Rio Grande do Sul	2028	225.089
+BRA-Rio Grande do Sul	2029	232.130
+BRA-Rio Grande do Sul	2030	239.428
+BRA-Rio Grande do Sul	2031	247.221
+BRA-Rio Grande do Sul	2032	255.355
+BRA-Rio Grande do Sul	2033	263.836
+BRA-Rio Grande do Sul	2034	272.643
+BRA-Rio Grande do Sul	2035	281.672
+BRA-Rio Grande do Sul	2036	290.881
+BRA-Rio Grande do Sul	2037	300.126
+BRA-Rio Grande do Sul	2038	309.314
+BRA-Rio Grande do Sul	2039	318.337
+BRA-Rio Grande do Sul	2040	327.142
+BRA-Rio Grande do Sul	2041	335.665
+BRA-Rio Grande do Sul	2042	343.884
+BRA-Rio Grande do Sul	2043	351.794
+BRA-Rio Grande do Sul	2044	359.382
+BRA-Rio Grande do Sul	2045	366.597
+BRA-Rio Grande do Sul	2046	373.557
+BRA-Rio Grande do Sul	2047	380.210
+BRA-Rio Grande do Sul	2048	386.585
+BRA-Rio Grande do Sul	2049	392.684
+BRA-Rio Grande do Sul	2050	398.504
+BRA-Rondonia	1960	 
+BRA-Rondonia	1961	 
+BRA-Rondonia	1962	 
+BRA-Rondonia	1963	 
+BRA-Rondonia	1964	 
+BRA-Rondonia	1965	 
+BRA-Rondonia	1966	 
+BRA-Rondonia	1967	 
+BRA-Rondonia	1968	 
+BRA-Rondonia	1969	 
+BRA-Rondonia	1970	 
+BRA-Rondonia	1971	 
+BRA-Rondonia	1972	 
+BRA-Rondonia	1973	 
+BRA-Rondonia	1974	 
+BRA-Rondonia	1975	 
+BRA-Rondonia	1976	 
+BRA-Rondonia	1977	 
+BRA-Rondonia	1978	 
+BRA-Rondonia	1979	 
+BRA-Rondonia	1980	 
+BRA-Rondonia	1981	 
+BRA-Rondonia	1982	 
+BRA-Rondonia	1983	 
+BRA-Rondonia	1984	 
+BRA-Rondonia	1985	 
+BRA-Rondonia	1986	 
+BRA-Rondonia	1987	 
+BRA-Rondonia	1988	 
+BRA-Rondonia	1989	 
+BRA-Rondonia	1990	 
+BRA-Rondonia	1991	 
+BRA-Rondonia	1992	 
+BRA-Rondonia	1993	 
+BRA-Rondonia	1994	 
+BRA-Rondonia	1995	7.805
+BRA-Rondonia	1996	8.149
+BRA-Rondonia	1997	8.329
+BRA-Rondonia	1998	8.612
+BRA-Rondonia	1999	8.641
+BRA-Rondonia	2000	8.682
+BRA-Rondonia	2001	9.063
+BRA-Rondonia	2002	9.189
+BRA-Rondonia	2003	10.165
+BRA-Rondonia	2004	11.015
+BRA-Rondonia	2005	11.656
+BRA-Rondonia	2006	11.390
+BRA-Rondonia	2007	11.834
+BRA-Rondonia	2008	13.024
+BRA-Rondonia	2009	13.849
+BRA-Rondonia	2010	15.484
+BRA-Rondonia	2011	16.489
+BRA-Rondonia	2012	16.684
+BRA-Rondonia	2013	16.040
+BRA-Rondonia	2014	16.264
+BRA-Rondonia	2015	16.244
+BRA-Rondonia	2016	16.207
+BRA-Rondonia	2017	16.898
+BRA-Rondonia	2018	17.513
+BRA-Rondonia	2019	18.177
+BRA-Rondonia	2020	18.817
+BRA-Rondonia	2021	19.440
+BRA-Rondonia	2022	20.069
+BRA-Rondonia	2023	20.688
+BRA-Rondonia	2024	21.405
+BRA-Rondonia	2025	22.139
+BRA-Rondonia	2026	22.955
+BRA-Rondonia	2027	23.826
+BRA-Rondonia	2028	24.769
+BRA-Rondonia	2029	25.774
+BRA-Rondonia	2030	26.810
+BRA-Rondonia	2031	27.893
+BRA-Rondonia	2032	29.049
+BRA-Rondonia	2033	30.252
+BRA-Rondonia	2034	31.515
+BRA-Rondonia	2035	32.820
+BRA-Rondonia	2036	34.159
+BRA-Rondonia	2037	35.526
+BRA-Rondonia	2038	36.908
+BRA-Rondonia	2039	38.299
+BRA-Rondonia	2040	39.688
+BRA-Rondonia	2041	41.067
+BRA-Rondonia	2042	42.433
+BRA-Rondonia	2043	43.784
+BRA-Rondonia	2044	45.117
+BRA-Rondonia	2045	46.429
+BRA-Rondonia	2046	47.723
+BRA-Rondonia	2047	48.998
+BRA-Rondonia	2048	50.255
+BRA-Rondonia	2049	51.492
+BRA-Rondonia	2050	52.708
+BRA-Roraima	1960	 
+BRA-Roraima	1961	 
+BRA-Roraima	1962	 
+BRA-Roraima	1963	 
+BRA-Roraima	1964	 
+BRA-Roraima	1965	 
+BRA-Roraima	1966	 
+BRA-Roraima	1967	 
+BRA-Roraima	1968	 
+BRA-Roraima	1969	 
+BRA-Roraima	1970	 
+BRA-Roraima	1971	 
+BRA-Roraima	1972	 
+BRA-Roraima	1973	 
+BRA-Roraima	1974	 
+BRA-Roraima	1975	 
+BRA-Roraima	1976	 
+BRA-Roraima	1977	 
+BRA-Roraima	1978	 
+BRA-Roraima	1979	 
+BRA-Roraima	1980	 
+BRA-Roraima	1981	 
+BRA-Roraima	1982	 
+BRA-Roraima	1983	 
+BRA-Roraima	1984	 
+BRA-Roraima	1985	 
+BRA-Roraima	1986	 
+BRA-Roraima	1987	 
+BRA-Roraima	1988	 
+BRA-Roraima	1989	 
+BRA-Roraima	1990	 
+BRA-Roraima	1991	 
+BRA-Roraima	1992	 
+BRA-Roraima	1993	 
+BRA-Roraima	1994	 
+BRA-Roraima	1995	2.500
+BRA-Roraima	1996	2.610
+BRA-Roraima	1997	2.668
+BRA-Roraima	1998	2.759
+BRA-Roraima	1999	2.768
+BRA-Roraima	2000	2.781
+BRA-Roraima	2001	2.903
+BRA-Roraima	2002	2.943
+BRA-Roraima	2003	2.798
+BRA-Roraima	2004	2.825
+BRA-Roraima	2005	2.975
+BRA-Roraima	2006	3.318
+BRA-Roraima	2007	3.445
+BRA-Roraima	2008	3.648
+BRA-Roraima	2009	3.982
+BRA-Roraima	2010	4.300
+BRA-Roraima	2011	4.367
+BRA-Roraima	2012	4.273
+BRA-Roraima	2013	4.644
+BRA-Roraima	2014	4.657
+BRA-Roraima	2015	4.600
+BRA-Roraima	2016	4.573
+BRA-Roraima	2017	4.681
+BRA-Roraima	2018	4.842
+BRA-Roraima	2019	5.044
+BRA-Roraima	2020	5.219
+BRA-Roraima	2021	5.359
+BRA-Roraima	2022	5.509
+BRA-Roraima	2023	5.666
+BRA-Roraima	2024	5.822
+BRA-Roraima	2025	5.972
+BRA-Roraima	2026	6.139
+BRA-Roraima	2027	6.319
+BRA-Roraima	2028	6.512
+BRA-Roraima	2029	6.720
+BRA-Roraima	2030	6.933
+BRA-Roraima	2031	7.159
+BRA-Roraima	2032	7.406
+BRA-Roraima	2033	7.667
+BRA-Roraima	2034	7.944
+BRA-Roraima	2035	8.233
+BRA-Roraima	2036	8.534
+BRA-Roraima	2037	8.845
+BRA-Roraima	2038	9.170
+BRA-Roraima	2039	9.506
+BRA-Roraima	2040	9.856
+BRA-Roraima	2041	10.222
+BRA-Roraima	2042	10.603
+BRA-Roraima	2043	11.000
+BRA-Roraima	2044	11.415
+BRA-Roraima	2045	11.848
+BRA-Roraima	2046	12.300
+BRA-Roraima	2047	12.771
+BRA-Roraima	2048	13.257
+BRA-Roraima	2049	13.769
+BRA-Roraima	2050	14.304
+BRA-Santa Catarina	1960	 
+BRA-Santa Catarina	1961	 
+BRA-Santa Catarina	1962	 
+BRA-Santa Catarina	1963	 
+BRA-Santa Catarina	1964	 
+BRA-Santa Catarina	1965	 
+BRA-Santa Catarina	1966	 
+BRA-Santa Catarina	1967	 
+BRA-Santa Catarina	1968	 
+BRA-Santa Catarina	1969	 
+BRA-Santa Catarina	1970	 
+BRA-Santa Catarina	1971	 
+BRA-Santa Catarina	1972	 
+BRA-Santa Catarina	1973	 
+BRA-Santa Catarina	1974	 
+BRA-Santa Catarina	1975	 
+BRA-Santa Catarina	1976	 
+BRA-Santa Catarina	1977	 
+BRA-Santa Catarina	1978	 
+BRA-Santa Catarina	1979	 
+BRA-Santa Catarina	1980	 
+BRA-Santa Catarina	1981	 
+BRA-Santa Catarina	1982	 
+BRA-Santa Catarina	1983	 
+BRA-Santa Catarina	1984	 
+BRA-Santa Catarina	1985	 
+BRA-Santa Catarina	1986	 
+BRA-Santa Catarina	1987	 
+BRA-Santa Catarina	1988	 
+BRA-Santa Catarina	1989	 
+BRA-Santa Catarina	1990	 
+BRA-Santa Catarina	1991	 
+BRA-Santa Catarina	1992	 
+BRA-Santa Catarina	1993	 
+BRA-Santa Catarina	1994	 
+BRA-Santa Catarina	1995	56.940
+BRA-Santa Catarina	1996	59.455
+BRA-Santa Catarina	1997	60.769
+BRA-Santa Catarina	1998	62.832
+BRA-Santa Catarina	1999	63.044
+BRA-Santa Catarina	2000	63.339
+BRA-Santa Catarina	2001	66.119
+BRA-Santa Catarina	2002	67.038
+BRA-Santa Catarina	2003	69.129
+BRA-Santa Catarina	2004	73.687
+BRA-Santa Catarina	2005	75.975
+BRA-Santa Catarina	2006	79.452
+BRA-Santa Catarina	2007	85.020
+BRA-Santa Catarina	2008	91.529
+BRA-Santa Catarina	2009	90.643
+BRA-Santa Catarina	2010	99.561
+BRA-Santa Catarina	2011	104.089
+BRA-Santa Catarina	2012	106.262
+BRA-Santa Catarina	2013	110.558
+BRA-Santa Catarina	2014	115.920
+BRA-Santa Catarina	2015	110.658
+BRA-Santa Catarina	2016	105.439
+BRA-Santa Catarina	2017	108.914
+BRA-Santa Catarina	2018	112.213
+BRA-Santa Catarina	2019	115.407
+BRA-Santa Catarina	2020	118.592
+BRA-Santa Catarina	2021	121.899
+BRA-Santa Catarina	2022	125.055
+BRA-Santa Catarina	2023	127.821
+BRA-Santa Catarina	2024	130.606
+BRA-Santa Catarina	2025	133.716
+BRA-Santa Catarina	2026	137.230
+BRA-Santa Catarina	2027	141.016
+BRA-Santa Catarina	2028	145.045
+BRA-Santa Catarina	2029	149.295
+BRA-Santa Catarina	2030	153.560
+BRA-Santa Catarina	2031	157.980
+BRA-Santa Catarina	2032	162.771
+BRA-Santa Catarina	2033	167.726
+BRA-Santa Catarina	2034	172.953
+BRA-Santa Catarina	2035	178.369
+BRA-Santa Catarina	2036	183.990
+BRA-Santa Catarina	2037	189.792
+BRA-Santa Catarina	2038	195.761
+BRA-Santa Catarina	2039	201.876
+BRA-Santa Catarina	2040	208.139
+BRA-Santa Catarina	2041	214.552
+BRA-Santa Catarina	2042	221.117
+BRA-Santa Catarina	2043	227.811
+BRA-Santa Catarina	2044	234.617
+BRA-Santa Catarina	2045	241.488
+BRA-Santa Catarina	2046	248.408
+BRA-Santa Catarina	2047	255.357
+BRA-Santa Catarina	2048	262.389
+BRA-Santa Catarina	2049	269.678
+BRA-Santa Catarina	2050	276.981
+BRA-Sao Paulo	1960	 
+BRA-Sao Paulo	1961	 
+BRA-Sao Paulo	1962	 
+BRA-Sao Paulo	1963	 
+BRA-Sao Paulo	1964	 
+BRA-Sao Paulo	1965	 
+BRA-Sao Paulo	1966	 
+BRA-Sao Paulo	1967	 
+BRA-Sao Paulo	1968	 
+BRA-Sao Paulo	1969	 
+BRA-Sao Paulo	1970	 
+BRA-Sao Paulo	1971	 
+BRA-Sao Paulo	1972	 
+BRA-Sao Paulo	1973	 
+BRA-Sao Paulo	1974	 
+BRA-Sao Paulo	1975	 
+BRA-Sao Paulo	1976	 
+BRA-Sao Paulo	1977	 
+BRA-Sao Paulo	1978	 
+BRA-Sao Paulo	1979	 
+BRA-Sao Paulo	1980	 
+BRA-Sao Paulo	1981	 
+BRA-Sao Paulo	1982	 
+BRA-Sao Paulo	1983	 
+BRA-Sao Paulo	1984	 
+BRA-Sao Paulo	1985	 
+BRA-Sao Paulo	1986	 
+BRA-Sao Paulo	1987	 
+BRA-Sao Paulo	1988	 
+BRA-Sao Paulo	1989	 
+BRA-Sao Paulo	1990	 
+BRA-Sao Paulo	1991	 
+BRA-Sao Paulo	1992	 
+BRA-Sao Paulo	1993	 
+BRA-Sao Paulo	1994	 
+BRA-Sao Paulo	1995	542.292
+BRA-Sao Paulo	1996	566.245
+BRA-Sao Paulo	1997	578.753
+BRA-Sao Paulo	1998	598.402
+BRA-Sao Paulo	1999	600.425
+BRA-Sao Paulo	2000	603.235
+BRA-Sao Paulo	2001	629.705
+BRA-Sao Paulo	2002	638.457
+BRA-Sao Paulo	2003	637.869
+BRA-Sao Paulo	2004	653.562
+BRA-Sao Paulo	2005	692.250
+BRA-Sao Paulo	2006	719.397
+BRA-Sao Paulo	2007	766.898
+BRA-Sao Paulo	2008	785.499
+BRA-Sao Paulo	2009	791.355
+BRA-Sao Paulo	2010	838.516
+BRA-Sao Paulo	2011	859.100
+BRA-Sao Paulo	2012	863.768
+BRA-Sao Paulo	2013	884.021
+BRA-Sao Paulo	2014	888.057
+BRA-Sao Paulo	2015	861.852
+BRA-Sao Paulo	2016	837.248
+BRA-Sao Paulo	2017	863.079
+BRA-Sao Paulo	2018	882.204
+BRA-Sao Paulo	2019	901.294
+BRA-Sao Paulo	2020	920.497
+BRA-Sao Paulo	2021	938.155
+BRA-Sao Paulo	2022	956.151
+BRA-Sao Paulo	2023	974.510
+BRA-Sao Paulo	2024	993.717
+BRA-Sao Paulo	2025	1015.304
+BRA-Sao Paulo	2026	1039.497
+BRA-Sao Paulo	2027	1064.941
+BRA-Sao Paulo	2028	1092.252
+BRA-Sao Paulo	2029	1120.765
+BRA-Sao Paulo	2030	1149.037
+BRA-Sao Paulo	2031	1178.122
+BRA-Sao Paulo	2032	1209.588
+BRA-Sao Paulo	2033	1241.755
+BRA-Sao Paulo	2034	1275.367
+BRA-Sao Paulo	2035	1309.762
+BRA-Sao Paulo	2036	1344.875
+BRA-Sao Paulo	2037	1380.359
+BRA-Sao Paulo	2038	1416.095
+BRA-Sao Paulo	2039	1451.799
+BRA-Sao Paulo	2040	1487.532
+BRA-Sao Paulo	2041	1523.169
+BRA-Sao Paulo	2042	1558.744
+BRA-Sao Paulo	2043	1594.230
+BRA-Sao Paulo	2044	1629.465
+BRA-Sao Paulo	2045	1665.604
+BRA-Sao Paulo	2046	1701.328
+BRA-Sao Paulo	2047	1735.346
+BRA-Sao Paulo	2048	1768.879
+BRA-Sao Paulo	2049	1801.208
+BRA-Sao Paulo	2050	1832.701
+BRA-Sergipe	1960	 
+BRA-Sergipe	1961	 
+BRA-Sergipe	1962	 
+BRA-Sergipe	1963	 
+BRA-Sergipe	1964	 
+BRA-Sergipe	1965	 
+BRA-Sergipe	1966	 
+BRA-Sergipe	1967	 
+BRA-Sergipe	1968	 
+BRA-Sergipe	1969	 
+BRA-Sergipe	1970	 
+BRA-Sergipe	1971	 
+BRA-Sergipe	1972	 
+BRA-Sergipe	1973	 
+BRA-Sergipe	1974	 
+BRA-Sergipe	1975	 
+BRA-Sergipe	1976	 
+BRA-Sergipe	1977	 
+BRA-Sergipe	1978	 
+BRA-Sergipe	1979	 
+BRA-Sergipe	1980	 
+BRA-Sergipe	1981	 
+BRA-Sergipe	1982	 
+BRA-Sergipe	1983	 
+BRA-Sergipe	1984	 
+BRA-Sergipe	1985	 
+BRA-Sergipe	1986	 
+BRA-Sergipe	1987	 
+BRA-Sergipe	1988	 
+BRA-Sergipe	1989	 
+BRA-Sergipe	1990	 
+BRA-Sergipe	1991	 
+BRA-Sergipe	1992	 
+BRA-Sergipe	1993	 
+BRA-Sergipe	1994	 
+BRA-Sergipe	1995	10.799
+BRA-Sergipe	1996	11.276
+BRA-Sergipe	1997	11.525
+BRA-Sergipe	1998	11.916
+BRA-Sergipe	1999	11.956
+BRA-Sergipe	2000	12.012
+BRA-Sergipe	2001	12.539
+BRA-Sergipe	2002	12.714
+BRA-Sergipe	2003	12.672
+BRA-Sergipe	2004	13.349
+BRA-Sergipe	2005	13.444
+BRA-Sergipe	2006	14.326
+BRA-Sergipe	2007	14.933
+BRA-Sergipe	2008	16.138
+BRA-Sergipe	2009	15.241
+BRA-Sergipe	2010	17.101
+BRA-Sergipe	2011	17.406
+BRA-Sergipe	2012	18.202
+BRA-Sergipe	2013	18.212
+BRA-Sergipe	2014	17.909
+BRA-Sergipe	2015	17.129
+BRA-Sergipe	2016	15.966
+BRA-Sergipe	2017	16.654
+BRA-Sergipe	2018	17.049
+BRA-Sergipe	2019	17.340
+BRA-Sergipe	2020	17.636
+BRA-Sergipe	2021	17.885
+BRA-Sergipe	2022	18.162
+BRA-Sergipe	2023	18.493
+BRA-Sergipe	2024	18.849
+BRA-Sergipe	2025	19.251
+BRA-Sergipe	2026	19.715
+BRA-Sergipe	2027	20.213
+BRA-Sergipe	2028	20.754
+BRA-Sergipe	2029	21.333
+BRA-Sergipe	2030	21.920
+BRA-Sergipe	2031	22.532
+BRA-Sergipe	2032	23.182
+BRA-Sergipe	2033	23.861
+BRA-Sergipe	2034	24.567
+BRA-Sergipe	2035	25.304
+BRA-Sergipe	2036	26.076
+BRA-Sergipe	2037	26.882
+BRA-Sergipe	2038	27.723
+BRA-Sergipe	2039	28.595
+BRA-Sergipe	2040	29.494
+BRA-Sergipe	2041	30.420
+BRA-Sergipe	2042	31.364
+BRA-Sergipe	2043	32.326
+BRA-Sergipe	2044	33.306
+BRA-Sergipe	2045	34.308
+BRA-Sergipe	2046	35.339
+BRA-Sergipe	2047	36.414
+BRA-Sergipe	2048	37.523
+BRA-Sergipe	2049	38.672
+BRA-Sergipe	2050	39.863
+BRA-Tocantins	1960	 
+BRA-Tocantins	1961	 
+BRA-Tocantins	1962	 
+BRA-Tocantins	1963	 
+BRA-Tocantins	1964	 
+BRA-Tocantins	1965	 
+BRA-Tocantins	1966	 
+BRA-Tocantins	1967	 
+BRA-Tocantins	1968	 
+BRA-Tocantins	1969	 
+BRA-Tocantins	1970	 
+BRA-Tocantins	1971	 
+BRA-Tocantins	1972	 
+BRA-Tocantins	1973	 
+BRA-Tocantins	1974	 
+BRA-Tocantins	1975	 
+BRA-Tocantins	1976	 
+BRA-Tocantins	1977	 
+BRA-Tocantins	1978	 
+BRA-Tocantins	1979	 
+BRA-Tocantins	1980	 
+BRA-Tocantins	1981	 
+BRA-Tocantins	1982	 
+BRA-Tocantins	1983	 
+BRA-Tocantins	1984	 
+BRA-Tocantins	1985	 
+BRA-Tocantins	1986	 
+BRA-Tocantins	1987	 
+BRA-Tocantins	1988	 
+BRA-Tocantins	1989	 
+BRA-Tocantins	1990	 
+BRA-Tocantins	1991	 
+BRA-Tocantins	1992	 
+BRA-Tocantins	1993	 
+BRA-Tocantins	1994	 
+BRA-Tocantins	1995	5.563
+BRA-Tocantins	1996	5.808
+BRA-Tocantins	1997	5.937
+BRA-Tocantins	1998	6.138
+BRA-Tocantins	1999	6.159
+BRA-Tocantins	2000	6.188
+BRA-Tocantins	2001	6.459
+BRA-Tocantins	2002	6.549
+BRA-Tocantins	2003	7.131
+BRA-Tocantins	2004	7.258
+BRA-Tocantins	2005	7.181
+BRA-Tocantins	2006	7.552
+BRA-Tocantins	2007	8.354
+BRA-Tocantins	2008	9.129
+BRA-Tocantins	2009	9.612
+BRA-Tocantins	2010	10.625
+BRA-Tocantins	2011	10.970
+BRA-Tocantins	2012	11.460
+BRA-Tocantins	2013	12.265
+BRA-Tocantins	2014	12.516
+BRA-Tocantins	2015	12.853
+BRA-Tocantins	2016	12.972
+BRA-Tocantins	2017	13.559
+BRA-Tocantins	2018	14.094
+BRA-Tocantins	2019	14.565
+BRA-Tocantins	2020	15.246
+BRA-Tocantins	2021	15.794
+BRA-Tocantins	2022	16.379
+BRA-Tocantins	2023	17.003
+BRA-Tocantins	2024	17.683
+BRA-Tocantins	2025	18.438
+BRA-Tocantins	2026	19.279
+BRA-Tocantins	2027	20.212
+BRA-Tocantins	2028	21.241
+BRA-Tocantins	2029	22.375
+BRA-Tocantins	2030	23.591
+BRA-Tocantins	2031	24.911
+BRA-Tocantins	2032	26.350
+BRA-Tocantins	2033	27.907
+BRA-Tocantins	2034	29.576
+BRA-Tocantins	2035	31.344
+BRA-Tocantins	2036	33.210
+BRA-Tocantins	2037	35.175
+BRA-Tocantins	2038	37.225
+BRA-Tocantins	2039	39.359
+BRA-Tocantins	2040	41.557
+BRA-Tocantins	2041	43.811
+BRA-Tocantins	2042	46.103
+BRA-Tocantins	2043	48.426
+BRA-Tocantins	2044	50.759
+BRA-Tocantins	2045	53.097
+BRA-Tocantins	2046	55.438
+BRA-Tocantins	2047	57.417
+BRA-Tocantins	2048	59.308
+BRA-Tocantins	2049	61.169
+BRA-Tocantins	2050	62.968
